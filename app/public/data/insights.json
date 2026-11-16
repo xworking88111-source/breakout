@@ -1,10 +1,10 @@
 {
   "generatedAt": "2026-11-16",
   "datasetVersion": "0.3.0",
-  "n": 2341,
+  "n": 2511,
   "counts": {
     "anime": 802,
-    "shortdrama": 1359,
+    "shortdrama": 1529,
     "film": 83,
     "novel": 97
   },
@@ -30,49 +30,61 @@
     {
       "key": "Xianxia",
       "n": 16,
-      "mean": 61.5,
-      "lift": 4
-    },
-    {
-      "key": "Drama",
-      "n": 466,
-      "mean": 53.1,
-      "lift": 3.7
-    },
-    {
-      "key": "Crime",
-      "n": 15,
-      "mean": 58,
-      "lift": 3.6
+      "mean": 61.6,
+      "lift": 4.8
     },
     {
       "key": "Family Drama",
       "n": 27,
       "mean": 63.2,
-      "lift": 3.4
+      "lift": 4.3
+    },
+    {
+      "key": "Crime",
+      "n": 15,
+      "mean": 58.1,
+      "lift": 4.2
+    },
+    {
+      "key": "Drama",
+      "n": 466,
+      "mean": 53.2,
+      "lift": 3.9
     },
     {
       "key": "Sports",
       "n": 45,
-      "mean": 54.8,
-      "lift": 3.1
+      "mean": 54.9,
+      "lift": 3.4
+    },
+    {
+      "key": "School",
+      "n": 44,
+      "mean": 58.9,
+      "lift": 3.3
     },
     {
       "key": "Thriller",
       "n": 74,
       "mean": 51.2,
+      "lift": 2.9
+    },
+    {
+      "key": "Time Travel",
+      "n": 152,
+      "mean": 61.6,
+      "lift": 2.8
+    },
+    {
+      "key": "Family",
+      "n": 173,
+      "mean": 61.5,
       "lift": 2.8
     },
     {
       "key": "Mystery",
       "n": 159,
       "mean": 49.9,
-      "lift": 2.7
-    },
-    {
-      "key": "School",
-      "n": 44,
-      "mean": 58.9,
       "lift": 2.7
     },
     {
@@ -88,22 +100,10 @@
       "lift": 2.3
     },
     {
-      "key": "Family",
-      "n": 168,
-      "mean": 61.7,
+      "key": "Counterattack",
+      "n": 190,
+      "mean": 61.1,
       "lift": 2.2
-    },
-    {
-      "key": "Time Travel",
-      "n": 152,
-      "mean": 61.6,
-      "lift": 1.9
-    },
-    {
-      "key": "Music",
-      "n": 18,
-      "mean": 51.6,
-      "lift": 1.9
     },
     {
       "key": "Slice of Life",
@@ -118,16 +118,16 @@
       "lift": 1.6
     },
     {
-      "key": "Counterattack",
-      "n": 187,
-      "mean": 61.3,
-      "lift": 1.5
+      "key": "Music",
+      "n": 19,
+      "mean": 51.6,
+      "lift": 1.6
     },
     {
-      "key": "Youth",
-      "n": 16,
-      "mean": 49.8,
-      "lift": 1.4
+      "key": "Horror",
+      "n": 65,
+      "mean": 51.9,
+      "lift": 1.5
     }
   ],
   "tagLift": [
@@ -135,195 +135,195 @@
       "key": "先婚後愛",
       "n": 5,
       "mean": 68.5,
-      "lift": 8.7
+      "lift": 9.5
     },
     {
       "key": "男頻",
       "n": 18,
       "mean": 68.3,
-      "lift": 8.5
+      "lift": 9.3
     },
     {
       "key": "權謀",
       "n": 7,
-      "mean": 66.6,
-      "lift": 6.8
+      "mean": 66.5,
+      "lift": 7.6
     },
     {
       "key": "情感",
       "n": 23,
-      "mean": 65.8,
-      "lift": 6
+      "mean": 65.7,
+      "lift": 6.8
     },
     {
       "key": "女頻",
       "n": 6,
-      "mean": 65.4,
-      "lift": 5.5
+      "mean": 65.3,
+      "lift": 6.4
     },
     {
       "key": "奇幻",
       "n": 6,
-      "mean": 63,
-      "lift": 3.2
+      "mean": 62.9,
+      "lift": 4
     },
     {
       "key": "家庭",
       "n": 95,
       "mean": 62.3,
-      "lift": 2.5
+      "lift": 3.4
     },
     {
       "key": "親情",
       "n": 32,
       "mean": 61.9,
-      "lift": 2.1
-    },
-    {
-      "key": "年代",
-      "n": 29,
-      "mean": 61.7,
-      "lift": 1.9
+      "lift": 2.9
     },
     {
       "key": "穿越",
       "n": 130,
       "mean": 61.7,
-      "lift": 1.9
+      "lift": 2.8
     },
     {
       "key": "真假千金",
       "n": 25,
       "mean": 61.6,
-      "lift": 1.8
+      "lift": 2.7
     },
     {
       "key": "銀髮",
       "n": 16,
-      "mean": 61.5,
-      "lift": 1.7
+      "mean": 61.6,
+      "lift": 2.6
+    },
+    {
+      "key": "年代",
+      "n": 31,
+      "mean": 61.1,
+      "lift": 2.1
     },
     {
       "key": "逆襲",
-      "n": 181,
-      "mean": 61.1,
-      "lift": 1.3
+      "n": 184,
+      "mean": 61,
+      "lift": 2.1
     },
     {
       "key": "玄幻",
       "n": 89,
-      "mean": 61,
-      "lift": 1.2
+      "mean": 61.1,
+      "lift": 2.1
     },
     {
       "key": "律政",
       "n": 7,
-      "mean": 61,
-      "lift": 1.2
+      "mean": 61.1,
+      "lift": 2.1
     },
     {
       "key": "恐怖",
       "n": 18,
-      "mean": 60.8,
-      "lift": 1
+      "mean": 60.9,
+      "lift": 2
     },
     {
       "key": "仙俠",
       "n": 13,
-      "mean": 60.8,
-      "lift": 1
+      "mean": 60.9,
+      "lift": 1.9
     },
     {
       "key": "懸疑",
       "n": 73,
-      "mean": 60.6,
-      "lift": 0.8
+      "mean": 60.7,
+      "lift": 1.7
     },
     {
       "key": "校園",
       "n": 31,
-      "mean": 60.6,
-      "lift": 0.8
+      "mean": 60.7,
+      "lift": 1.7
     },
     {
-      "key": "古裝",
-      "n": 107,
+      "key": "穿書",
+      "n": 21,
       "mean": 60.5,
-      "lift": 0.7
+      "lift": 1.6
     }
   ],
   "platformLift": [
     {
       "key": "點眾",
       "n": 5,
-      "mean": 67.8,
-      "lift": 8
+      "mean": 67.7,
+      "lift": 8.7
     },
     {
       "key": "紅果；聽花島",
       "n": 4,
       "mean": 67.4,
-      "lift": 7.6
+      "lift": 8.4
     },
     {
       "key": "麥芽",
       "n": 22,
       "mean": 66.6,
-      "lift": 6.8
+      "lift": 7.7
     },
     {
       "key": "抖音端原生；繪聲繪影",
       "n": 5,
-      "mean": 65.4,
-      "lift": 5.6
+      "mean": 65.3,
+      "lift": 6.4
     },
     {
       "key": "河馬",
       "n": 6,
-      "mean": 64.9,
-      "lift": 5.1
+      "mean": 64.8,
+      "lift": 5.9
     },
     {
       "key": "聽花島",
       "n": 15,
-      "mean": 64.9,
-      "lift": 5
+      "mean": 64.8,
+      "lift": 5.8
     },
     {
       "key": "掌玩",
       "n": 3,
       "mean": 64.5,
-      "lift": 4.7
+      "lift": 5.5
     },
     {
       "key": "抖音端原生；海魚星空",
       "n": 4,
       "mean": 64.3,
-      "lift": 4.5
+      "lift": 5.3
     },
     {
       "key": "抖音端原生",
-      "n": 15,
-      "mean": 64.2,
-      "lift": 4.4
+      "n": 16,
+      "mean": 64.1,
+      "lift": 5.1
     },
     {
       "key": "抖音端原生；成都花花家",
       "n": 3,
       "mean": 64,
-      "lift": 4.2
+      "lift": 5.1
     },
     {
       "key": "叄和漫劇",
       "n": 11,
-      "mean": 62.7,
-      "lift": 2.9
+      "mean": 62.8,
+      "lift": 3.9
     },
     {
       "key": "陳柯文化",
       "n": 3,
       "mean": 62.6,
-      "lift": 2.8
+      "lift": 3.7
     }
   ],
   "yearProfile": [
@@ -414,18 +414,18 @@
     },
     {
       "year": 2023,
-      "n": 148,
+      "n": 152,
       "mean": 51.7
     },
     {
       "year": 2024,
-      "n": 294,
-      "mean": 54.6
+      "n": 460,
+      "mean": 53.6
     },
     {
       "year": 2025,
       "n": 311,
-      "mean": 59.2
+      "mean": 59.3
     },
     {
       "year": 2026,
@@ -435,87 +435,86 @@
   ],
   "topVsRest": {
     "n": {
-      "top": 234,
-      "rest": 2107
+      "top": 251,
+      "rest": 2260
     },
     "top": {
-      "reach": 84,
-      "quality": 76.3,
-      "buzz": 71,
-      "momentum": 45.1,
-      "crossover": 64
+      "reach": 82,
+      "quality": 75.9,
+      "buzz": 69.4,
+      "momentum": 48.3,
+      "crossover": 63.6
     },
     "rest": {
-      "reach": 60.9,
-      "quality": 62.8,
-      "buzz": 42.9,
-      "momentum": 40.8,
+      "reach": 60.7,
+      "quality": 63.3,
+      "buzz": 43.4,
+      "momentum": 40,
       "crossover": 47.5
     },
     "gap": {
-      "reach": 23.1,
-      "quality": 13.5,
-      "buzz": 28.1,
-      "momentum": 4.3,
-      "crossover": 16.5
+      "reach": 21.3,
+      "quality": 12.6,
+      "buzz": 26,
+      "momentum": 8.3,
+      "crossover": 16.1
     }
   },
   "sameAgeShortdrama": {
     "n": {
-      "high": 339,
-      "low": 339
+      "high": 381,
+      "low": 381
     },
     "high": {
-      "reach": 72.9,
+      "reach": 71.2,
       "quality": 70.2,
-      "buzz": 63.3,
-      "momentum": 66.8,
-      "crossover": 47.2
+      "buzz": 61.7,
+      "momentum": 63.4,
+      "crossover": 48
     },
     "low": {
-      "reach": 57.6,
+      "reach": 57.7,
       "quality": 70,
-      "buzz": 48.9,
-      "momentum": 66.6,
+      "buzz": 49,
+      "momentum": 63.3,
       "crossover": 49.6
     },
     "gap": {
-      "reach": 15.3,
+      "reach": 13.5,
       "quality": 0.2,
-      "buzz": 14.4,
-      "momentum": 0.2,
-      "crossover": -2.4
+      "buzz": 12.7,
+      "momentum": 0.1,
+      "crossover": -1.6
     },
     "genreShare": {
       "high": {
         "Family Drama": 10,
-        "Period Drama": 50,
-        "Comedy": 15,
-        "Urban Romance": 77,
-        "Sweet Pet": 40,
-        "Drama": 35,
-        "Time Travel": 47,
-        "Family": 75,
-        "Counterattack": 74,
-        "Other": 27,
+        "Period Drama": 56,
+        "Comedy": 18,
+        "Urban Romance": 91,
+        "Sweet Pet": 44,
+        "Drama": 40,
+        "Time Travel": 51,
+        "Family": 81,
+        "Counterattack": 82,
+        "Other": 35,
         "Crime": 3,
-        "Suspense": 25,
-        "Revenge": 7,
+        "Suspense": 29,
+        "Revenge": 10,
         "School": 12,
-        "Sports": 10,
+        "Sports": 15,
         "Power Fantasy": 12,
-        "Rebirth": 33,
+        "Rebirth": 37,
         "Slice of Life": 3,
-        "Work": 8,
-        "Thriller": 2,
-        "Fantasy": 26,
+        "Work": 10,
+        "Thriller": 3,
+        "Fantasy": 30,
         "Xianxia": 8,
-        "Military": 1,
+        "Wuxia": 7,
         "Romance": 3,
-        "Food": 4,
+        "Food": 7,
         "Sci-Fi": 5,
-        "Culture": 11,
-        "Wuxia": 5,
+        "Culture": 18,
         "Historical": 1,
         "Mystery": 1,
         "Youth": 2,
@@ -523,27 +522,28 @@
         "Action": 1
       },
       "low": {
-        "Drama": 10,
-        "Sweet Pet": 18,
-        "Urban Romance": 28,
-        "Revenge": 5,
-        "Period Drama": 28,
+        "Urban Romance": 26,
+        "Revenge": 6,
+        "Drama": 9,
+        "Sweet Pet": 17,
+        "Period Drama": 30,
         "Comedy": 1,
-        "Rebirth": 8,
+        "Rebirth": 7,
         "Counterattack": 21,
         "Fantasy": 22,
         "Time Travel": 16,
         "School": 4,
-        "Other": 153,
+        "Other": 194,
         "Culture": 4,
         "Suspense": 8,
-        "Family": 21,
-        "Work": 2,
+        "Family": 22,
+        "Work": 1,
         "Crime": 3,
         "Food": 3,
         "Wuxia": 5,
-        "Family Drama": 5,
+        "Music": 1,
         "Horror": 2,
+        "Family Drama": 4,
         "Sci-Fi": 3,
         "Slice of Life": 1
       }
@@ -622,17 +622,17 @@
     }
   },
   "findingsZh": [
-    "全站前 10% 與其餘作品的最大差距在「熱度規模」（+23.1）與「討論聲量」（+28.1），口碑差距為 +13.5。",
-    "短劇同年份 Top 25% 與 Bottom 25% 的差距：熱度 +15.3、討論 +14.4、破圈 +-2.4，而口碑只差 +0.2。",
-    "類型提升度最高：Animation（+22.9）、Psychological（+5.5）、Mecha（+5.4）、Xianxia（+4）、Drama（+3.7）。",
-    "類型提升度最低：Youth（1.4）、Counterattack（1.5）、Adventure（1.6）、Slice of Life（1.7）、Music（1.9）。",
+    "全站前 10% 與其餘作品的最大差距在「熱度規模」（+21.3）與「討論聲量」（+26），口碑差距為 +12.6。",
+    "短劇同年份 Top 25% 與 Bottom 25% 的差距：熱度 +13.5、討論 +12.7、破圈 +-1.6，而口碑只差 +0.2。",
+    "類型提升度最高：Animation（+22.9）、Psychological（+5.5）、Mecha（+5.4）、Xianxia（+4.8）、Family Drama（+4.3）。",
+    "類型提升度最低：Horror（1.5）、Music（1.6）、Adventure（1.6）、Slice of Life（1.7）、Counterattack（2.2）。",
     "電影同齡高收藏組 vs 低收藏組：口碑 44.3 vs 36.7、討論 61.8 vs 17.2、在追比例 0.004 vs 0.02。"
   ],
   "findingsEn": [
-    "The biggest gap between the global top 10% and the rest is reach (+23.1) and buzz (+28.1); the quality gap is only +13.5.",
-    "Among short dramas of the same release year, the top quartile beats the bottom quartile on reach (+15.3), buzz (+14.4) and crossover (+-2.4), while quality differs by only +0.2.",
-    "Highest genre lift: Animation (+22.9), Psychological (+5.5), Mecha (+5.4), Xianxia (+4), Drama (+3.7).",
-    "Lowest genre lift: Youth (1.4), Counterattack (1.5), Adventure (1.6), Slice of Life (1.7), Music (1.9).",
+    "The biggest gap between the global top 10% and the rest is reach (+21.3) and buzz (+26); the quality gap is only +12.6.",
+    "Among short dramas of the same release year, the top quartile beats the bottom quartile on reach (+13.5), buzz (+12.7) and crossover (+-1.6), while quality differs by only +0.2.",
+    "Highest genre lift: Animation (+22.9), Psychological (+5.5), Mecha (+5.4), Xianxia (+4.8), Family Drama (+4.3).",
+    "Lowest genre lift: Horror (1.5), Music (1.6), Adventure (1.6), Slice of Life (1.7), Counterattack (2.2).",
     "Films, same-year high vs low collection: quality 44.3 vs 36.7, buzz 61.8 vs 17.2, currently-watching share 0.004 vs 0.02."
   ]
 }
