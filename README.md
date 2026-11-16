@@ -15,9 +15,9 @@
 
 ![Breakout 首頁 / Home](docs/assets/home.png)
 
-| 作品詳情 / Title detail | 比較 / Compare |
+| 國家 × 品類榜單 / Country boards | 作品詳情 / Title detail |
 |---|---|
-| ![detail](docs/assets/detail.png) | ![compare](docs/assets/compare.png) |
+| ![boards](docs/assets/boards.png) | ![detail](docs/assets/detail.png) |
 
 ---
 
