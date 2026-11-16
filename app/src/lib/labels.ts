@@ -20,6 +20,12 @@ export const REGION_LABEL: Record<string, { zh: string; en: string }> = {
   KR: { zh: '韓國', en: 'Korea' },
   US: { zh: '美國', en: 'US' },
   HK: { zh: '香港', en: 'Hong Kong' },
+  FR: { zh: '法國', en: 'France' },
+  GB: { zh: '英國', en: 'UK' },
+  DE: { zh: '德國', en: 'Germany' },
+  IT: { zh: '義大利', en: 'Italy' },
+  ES: { zh: '西班牙', en: 'Spain' },
+  IN: { zh: '印度', en: 'India' },
   TW: { zh: '台灣', en: 'Taiwan' },
   GLOBAL: { zh: '全球', en: 'Global' },
 }

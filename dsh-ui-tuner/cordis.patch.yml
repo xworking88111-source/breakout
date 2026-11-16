@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-ui-tuner
+      name: '@local/dsh-ui-tuner'

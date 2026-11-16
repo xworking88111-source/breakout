@@ -2619,6 +2619,146 @@ pre {
   line-height: 1.7;
 }
 
+/* ------------------------------ boards | 榜單 / Boards ------------------------------ */
+
+.trust-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin-top: 18px;
+  font-size: 11.5px;
+  color: var(--muted);
+}
+
+.trust-row li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.trust-row li::before {
+  content: '✓';
+  color: #63c7a5;
+  font-size: 10px;
+}
+
+.board-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.board-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: linear-gradient(170deg, rgba(20, 26, 35, 0.85), rgba(10, 13, 18, 0.8));
+  height: 100%;
+}
+
+.board-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.board-region {
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.board-count {
+  margin-left: auto;
+  font-size: 10px;
+  color: var(--dim);
+}
+
+.board-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.board-list button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 5px 4px;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.board-list button:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.board-rank {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--dim);
+  width: 12px;
+}
+
+.board-title {
+  flex: 1;
+  font-size: 11.5px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.board-score {
+  font-size: 11.5px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.board-more {
+  margin-top: auto;
+  padding-top: 8px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  font-size: 10.5px;
+  letter-spacing: 0.06em;
+  color: var(--dim);
+  text-align: left;
+}
+
+.board-more:hover {
+  color: var(--m);
+}
+
+.board-row {
+  grid-template-columns: 42px minmax(0, 1fr) 60px 118px 76px 76px;
+}
+
+.boards-note {
+  margin-top: 22px;
+}
+
+.loading-app {
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.loading-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
 /* ------------------------------ animation | 動畫 / Animation ------------------------------ */
 
 @keyframes fadeUp {

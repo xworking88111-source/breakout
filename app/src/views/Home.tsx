@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react'
 import type { Dataset, Lang, Medium, Work } from '../types'
 import type { TKey } from '../i18n'
 import { WorkCard, Poster } from '../components/WorkCard'
+import { BoardCard, getBoards } from './Boards'
 import { Sparkline } from '../components/Charts'
 import {
   bandLabelKey,
@@ -23,6 +24,7 @@ type Props = {
   t: (k: TKey) => string
   onOpen: (id: string) => void
   onCharts: (m?: Medium) => void
+  onBoards: () => void
   onMethod: () => void
 }
 
@@ -40,7 +42,7 @@ const DURATIONS: { key: Duration; label: string }[] = [
   { key: '120', label: 'home.mood.d120' },
 ]
 
-export function Home({ data, works, lang, t, onOpen, onCharts, onMethod }: Props) {
+export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMethod }: Props) {
   const [mood, setMood] = useState<Mood>('satisfy')
   const [duration, setDuration] = useState<Duration>('10')
 
@@ -62,6 +64,7 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onMethod }: Props
   )
   const top = useMemo(() => works.slice(0, 10), [works])
   const picks = useMemo(() => recommendWorks(works, mood, duration), [works, mood, duration])
+  const boards = useMemo(() => getBoards(works, 5).slice(0, 8), [works])
   const related = useMemo(() => (picks[0] ? similarWorks(works, picks[0], 2) : []), [works, picks])
 
   const sourceCount = useMemo(() => {
@@ -91,6 +94,11 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onMethod }: Props
               {t('home.cta.method')}
             </button>
           </div>
+          <ul className="trust-row">
+            <li>{t('home.trust.1')}</li>
+            <li>{t('home.trust.2')}</li>
+            <li>{t('home.trust.3')}</li>
+          </ul>
           <div className="hero-stats">
             <div>
               <strong>{works.length}</strong>
@@ -298,6 +306,23 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onMethod }: Props
               <span className={`rt-conf conf-${w.confidence}`}>{t(`confidence.${w.confidence}` as TKey)}</span>
               <span className="rt-arrow">→</span>
             </button>
+          ))}
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="section-head">
+          <div>
+            <h2>{t('home.boards')}</h2>
+            <p>{t('home.boards.sub')}</p>
+          </div>
+          <button className="link" onClick={onBoards}>
+            {t('home.boards.more')} →
+          </button>
+        </div>
+        <div className="board-grid">
+          {boards.map((b) => (
+            <BoardCard key={`${b.medium}-${b.region}`} board={b} lang={lang} t={t} onOpen={onOpen} onView={onBoards} />
           ))}
         </div>
       </section>

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Interface tuner",
+    "description": "Adds an Interface tuner page to the left sidebar for content and code text sizes, soft / warm / high-contrast palettes, and a one-click right-panel collapse.",
+    "detail": "docs/DETAIL.md"
+  }
+}

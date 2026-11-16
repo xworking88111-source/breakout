@@ -1,0 +1,5902 @@
+{
+  "dataset": "bangumi-film",
+  "source": "Bangumi API v0 (https://api.bgm.tv/v0)",
+  "snapshotDate": "2026-11-16",
+  "license": "Bangumi 使用者貢獻資料；僅取事實欄位，不轉載簡介全文 / factual fields only",
+  "count": 71,
+  "items": [
+    {
+      "id": "bgm-320871",
+      "bangumiId": 320871,
+      "medium": "film",
+      "title": {
+        "zh": "流浪地球2",
+        "en": "流浪地球2"
+      },
+      "date": "2023-01-22",
+      "year": 2023,
+      "country": "CN",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "2023",
+          "en": "2023"
+        },
+        {
+          "zh": "流浪地球",
+          "en": "流浪地球"
+        },
+        {
+          "zh": "郭帆",
+          "en": "郭帆"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 1712,
+        "rank": 322,
+        "distribution": {
+          "1": 13,
+          "2": 5,
+          "3": 13,
+          "4": 21,
+          "5": 40,
+          "6": 106,
+          "7": 282,
+          "8": 623,
+          "9": 439,
+          "10": 170
+        },
+        "collect": 2308,
+        "wish": 105,
+        "doing": 9,
+        "dropped": 18
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 320871）",
+            "url": "https://bgm.tv/subject/320871",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-12886",
+      "bangumiId": 12886,
+      "medium": "film",
+      "title": {
+        "zh": "情书",
+        "en": "ラヴレター"
+      },
+      "date": "1995-03-25",
+      "year": 1995,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "岩井俊二",
+          "en": "岩井俊二"
+        },
+        {
+          "zh": "纯爱",
+          "en": "纯爱"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "1995",
+          "en": "1995"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "柏原崇",
+          "en": "柏原崇"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.4,
+        "ratingCount": 1510,
+        "rank": 104,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 3,
+          "4": 5,
+          "5": 11,
+          "6": 48,
+          "7": 178,
+          "8": 554,
+          "9": 518,
+          "10": 191
+        },
+        "collect": 2134,
+        "wish": 377,
+        "doing": 24,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 12886）",
+            "url": "https://bgm.tv/subject/12886",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-274128",
+      "bangumiId": 274128,
+      "medium": "film",
+      "title": {
+        "zh": "流浪地球",
+        "en": "流浪地球"
+      },
+      "date": "2019-02-05",
+      "year": 2019,
+      "country": "CN",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "2019",
+          "en": "2019"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "流浪地球",
+          "en": "流浪地球"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.2,
+        "ratingCount": 1467,
+        "rank": 1546,
+        "distribution": {
+          "1": 17,
+          "2": 9,
+          "3": 13,
+          "4": 27,
+          "5": 49,
+          "6": 191,
+          "7": 520,
+          "8": 476,
+          "9": 102,
+          "10": 63
+        },
+        "collect": 2101,
+        "wish": 52,
+        "doing": 4,
+        "dropped": 20
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 274128）",
+            "url": "https://bgm.tv/subject/274128",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-283379",
+      "bangumiId": 283379,
+      "medium": "film",
+      "title": {
+        "zh": "新·奥特曼",
+        "en": "シン・ウルトラマン"
+      },
+      "date": "2022-05-13",
+      "year": 2022,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "特摄",
+          "en": "特摄"
+        },
+        {
+          "zh": "庵野秀明",
+          "en": "庵野秀明"
+        },
+        {
+          "zh": "奥特曼",
+          "en": "奥特曼"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "2022",
+          "en": "2022"
+        },
+        {
+          "zh": "樋口真嗣",
+          "en": "樋口真嗣"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "圆谷",
+          "en": "圆谷"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.9,
+        "ratingCount": 1393,
+        "rank": 2290,
+        "distribution": {
+          "1": 4,
+          "2": 6,
+          "3": 6,
+          "4": 35,
+          "5": 64,
+          "6": 301,
+          "7": 605,
+          "8": 321,
+          "9": 32,
+          "10": 19
+        },
+        "collect": 1997,
+        "wish": 198,
+        "doing": 9,
+        "dropped": 15
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 283379）",
+            "url": "https://bgm.tv/subject/283379",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-25461",
+      "bangumiId": 25461,
+      "medium": "film",
+      "title": {
+        "zh": "蝙蝠侠：黑暗骑士",
+        "en": "The Dark Knight"
+      },
+      "date": "2008-07-17",
+      "year": 2008,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "蝙蝠侠",
+          "en": "蝙蝠侠"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "DC",
+          "en": "DC"
+        },
+        {
+          "zh": "克里斯托弗诺兰",
+          "en": "克里斯托弗诺兰"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "Batman",
+          "en": "Batman"
+        },
+        {
+          "zh": "2008",
+          "en": "2008"
+        },
+        {
+          "zh": "JOKER",
+          "en": "JOKER"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 1175,
+        "rank": 64,
+        "distribution": {
+          "1": 1,
+          "2": 2,
+          "3": 3,
+          "4": 3,
+          "5": 14,
+          "6": 35,
+          "7": 107,
+          "8": 360,
+          "9": 420,
+          "10": 230
+        },
+        "collect": 1751,
+        "wish": 126,
+        "doing": 9,
+        "dropped": 10
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 25461）",
+            "url": "https://bgm.tv/subject/25461",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-114365",
+      "bangumiId": 114365,
+      "medium": "film",
+      "title": {
+        "zh": "星际穿越",
+        "en": "Interstellar"
+      },
+      "date": "2014-11-07",
+      "year": 2014,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "诺兰",
+          "en": "诺兰"
+        },
+        {
+          "zh": "2014",
+          "en": "2014"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "太空",
+          "en": "太空"
+        },
+        {
+          "zh": "硬科幻",
+          "en": "硬科幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.6,
+        "ratingCount": 1006,
+        "rank": 50,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 9,
+          "5": 12,
+          "6": 31,
+          "7": 94,
+          "8": 256,
+          "9": 362,
+          "10": 239
+        },
+        "collect": 1530,
+        "wish": 109,
+        "doing": 7,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 114365）",
+            "url": "https://bgm.tv/subject/114365",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-64965",
+      "bangumiId": 64965,
+      "medium": "film",
+      "title": {
+        "zh": "教父",
+        "en": "The Godfather"
+      },
+      "date": "1972-03-15",
+      "year": 1972,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "教父",
+          "en": "教父"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "马龙·白兰度",
+          "en": "马龙·白兰度"
+        },
+        {
+          "zh": "经典",
+          "en": "经典"
+        },
+        {
+          "zh": "犯罪",
+          "en": "犯罪"
+        },
+        {
+          "zh": "黑手党",
+          "en": "黑手党"
+        },
+        {
+          "zh": "神作",
+          "en": "神作"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.8,
+        "ratingCount": 991,
+        "rank": 25,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 0,
+          "4": 3,
+          "5": 4,
+          "6": 21,
+          "7": 68,
+          "8": 241,
+          "9": 383,
+          "10": 268
+        },
+        "collect": 1514,
+        "wish": 270,
+        "doing": 27,
+        "dropped": 9
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 64965）",
+            "url": "https://bgm.tv/subject/64965",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-24057",
+      "bangumiId": 24057,
+      "medium": "film",
+      "title": {
+        "zh": "盗梦空间",
+        "en": "Inception"
+      },
+      "date": "2010-07-16",
+      "year": 2010,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "梦中梦",
+          "en": "梦中梦"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "诺兰",
+          "en": "诺兰"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "心理",
+          "en": "心理"
+        },
+        {
+          "zh": "莱昂纳多·迪卡普奥",
+          "en": "莱昂纳多·迪卡普奥"
+        },
+        {
+          "zh": "2010",
+          "en": "2010"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 1000,
+        "rank": 119,
+        "distribution": {
+          "1": 1,
+          "2": 3,
+          "3": 0,
+          "4": 4,
+          "5": 16,
+          "6": 35,
+          "7": 127,
+          "8": 344,
+          "9": 327,
+          "10": 143
+        },
+        "collect": 1511,
+        "wish": 98,
+        "doing": 9,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 24057）",
+            "url": "https://bgm.tv/subject/24057",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-18456",
+      "bangumiId": 18456,
+      "medium": "film",
+      "title": {
+        "zh": "告白",
+        "en": "告白"
+      },
+      "date": "2010-06-05",
+      "year": 2010,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "复仇",
+          "en": "复仇"
+        },
+        {
+          "zh": "松隆子",
+          "en": "松隆子"
+        },
+        {
+          "zh": "告白",
+          "en": "告白"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2010",
+          "en": "2010"
+        },
+        {
+          "zh": "凑佳苗",
+          "en": "凑佳苗"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 1085,
+        "rank": 243,
+        "distribution": {
+          "1": 2,
+          "2": 5,
+          "3": 5,
+          "4": 9,
+          "5": 12,
+          "6": 58,
+          "7": 183,
+          "8": 420,
+          "9": 289,
+          "10": 102
+        },
+        "collect": 1472,
+        "wish": 207,
+        "doing": 15,
+        "dropped": 8
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 18456）",
+            "url": "https://bgm.tv/subject/18456",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60122",
+      "bangumiId": 60122,
+      "medium": "film",
+      "title": {
+        "zh": "哈利·波特与魔法石",
+        "en": "Harry Potter and the Philosopher's Stone"
+      },
+      "date": "2001-11-16",
+      "year": 2001,
+      "country": "GB",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "HarryPotter",
+          "en": "HarryPotter"
+        },
+        {
+          "zh": "2001",
+          "en": "2001"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "魔幻",
+          "en": "魔幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 845,
+        "rank": 524,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 4,
+          "5": 13,
+          "6": 68,
+          "7": 257,
+          "8": 339,
+          "9": 101,
+          "10": 62
+        },
+        "collect": 1461,
+        "wish": 43,
+        "doing": 11,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60122）",
+            "url": "https://bgm.tv/subject/60122",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-231993",
+      "bangumiId": 231993,
+      "medium": "film",
+      "title": {
+        "zh": "头号玩家",
+        "en": "Ready Player One"
+      },
+      "date": "2018-03-29",
+      "year": 2018,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "2018",
+          "en": "2018"
+        },
+        {
+          "zh": "游戏",
+          "en": "游戏"
+        },
+        {
+          "zh": "斯皮尔伯格",
+          "en": "斯皮尔伯格"
+        },
+        {
+          "zh": "彩蛋",
+          "en": "彩蛋"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.3,
+        "ratingCount": 960,
+        "rank": 1366,
+        "distribution": {
+          "1": 11,
+          "2": 1,
+          "3": 8,
+          "4": 20,
+          "5": 34,
+          "6": 133,
+          "7": 302,
+          "8": 320,
+          "9": 74,
+          "10": 57
+        },
+        "collect": 1441,
+        "wish": 72,
+        "doing": 0,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 231993）",
+            "url": "https://bgm.tv/subject/231993",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-39162",
+      "bangumiId": 39162,
+      "medium": "film",
+      "title": {
+        "zh": "复仇者联盟",
+        "en": "The Avengers"
+      },
+      "date": "2012-05-04",
+      "year": 2012,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "复仇者联盟",
+          "en": "复仇者联盟"
+        },
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        },
+        {
+          "zh": "2012",
+          "en": "2012"
+        },
+        {
+          "zh": "复仇者卖萌",
+          "en": "复仇者卖萌"
+        },
+        {
+          "zh": "妇联",
+          "en": "妇联"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.4,
+        "ratingCount": 883,
+        "rank": 1202,
+        "distribution": {
+          "1": 1,
+          "2": 2,
+          "3": 2,
+          "4": 6,
+          "5": 27,
+          "6": 127,
+          "7": 329,
+          "8": 285,
+          "9": 61,
+          "10": 43
+        },
+        "collect": 1435,
+        "wish": 33,
+        "doing": 6,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 39162）",
+            "url": "https://bgm.tv/subject/39162",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-25465",
+      "bangumiId": 25465,
+      "medium": "film",
+      "title": {
+        "zh": "指环王3：王者无敌",
+        "en": "The Lord of the Rings: The Return of the King"
+      },
+      "date": "2003-12-17",
+      "year": 2003,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "指环王",
+          "en": "指环王"
+        },
+        {
+          "zh": "魔戒",
+          "en": "魔戒"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "2004",
+          "en": "2004"
+        },
+        {
+          "zh": "中土",
+          "en": "中土"
+        },
+        {
+          "zh": "The_Lord_of_the_Rings",
+          "en": "The_Lord_of_the_Rings"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.7,
+        "ratingCount": 887,
+        "rank": 35,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 3,
+          "5": 7,
+          "6": 23,
+          "7": 77,
+          "8": 254,
+          "9": 277,
+          "10": 244
+        },
+        "collect": 1373,
+        "wish": 91,
+        "doing": 8,
+        "dropped": 8
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 25465）",
+            "url": "https://bgm.tv/subject/25465",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-25464",
+      "bangumiId": 25464,
+      "medium": "film",
+      "title": {
+        "zh": "指环王1：护戒使者",
+        "en": "The Lord of the Rings: The Fellowship of the Ring"
+      },
+      "date": "2001-12-19",
+      "year": 2001,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "魔戒",
+          "en": "魔戒"
+        },
+        {
+          "zh": "指环王",
+          "en": "指环王"
+        },
+        {
+          "zh": "2001",
+          "en": "2001"
+        },
+        {
+          "zh": "中土",
+          "en": "中土"
+        },
+        {
+          "zh": "The_Lord_of_the_Rings",
+          "en": "The_Lord_of_the_Rings"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 838,
+        "rank": 154,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 4,
+          "5": 10,
+          "6": 36,
+          "7": 138,
+          "8": 311,
+          "9": 200,
+          "10": 136
+        },
+        "collect": 1352,
+        "wish": 97,
+        "doing": 11,
+        "dropped": 10
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 25464）",
+            "url": "https://bgm.tv/subject/25464",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-133243",
+      "bangumiId": 133243,
+      "medium": "film",
+      "title": {
+        "zh": "复仇者联盟4：终局之战",
+        "en": "Avengers: Endgame"
+      },
+      "date": "2019-04-24",
+      "year": 2019,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        },
+        {
+          "zh": "2019",
+          "en": "2019"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 794,
+        "rank": 1006,
+        "distribution": {
+          "1": 2,
+          "2": 3,
+          "3": 5,
+          "4": 9,
+          "5": 29,
+          "6": 101,
+          "7": 237,
+          "8": 286,
+          "9": 59,
+          "10": 63
+        },
+        "collect": 1277,
+        "wish": 45,
+        "doing": 4,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 133243）",
+            "url": "https://bgm.tv/subject/133243",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-25462",
+      "bangumiId": 25462,
+      "medium": "film",
+      "title": {
+        "zh": "指环王2：双塔奇兵",
+        "en": "The Lord of the Rings: The Two Towers"
+      },
+      "date": "2002-12-18",
+      "year": 2002,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "指环王",
+          "en": "指环王"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "魔戒",
+          "en": "魔戒"
+        },
+        {
+          "zh": "中土",
+          "en": "中土"
+        },
+        {
+          "zh": "The_Lord_of_the_Rings",
+          "en": "The_Lord_of_the_Rings"
+        },
+        {
+          "zh": "2003",
+          "en": "2003"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.4,
+        "ratingCount": 789,
+        "rank": 99,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 2,
+          "4": 4,
+          "5": 8,
+          "6": 28,
+          "7": 85,
+          "8": 295,
+          "9": 221,
+          "10": 144
+        },
+        "collect": 1256,
+        "wish": 63,
+        "doing": 7,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 25462）",
+            "url": "https://bgm.tv/subject/25462",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-328957",
+      "bangumiId": 328957,
+      "medium": "film",
+      "title": {
+        "zh": "花束般的恋爱",
+        "en": "花束みたいな恋をした"
+      },
+      "date": "2021-01-29",
+      "year": 2021,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "菅田将暉",
+          "en": "菅田将暉"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "有村架純",
+          "en": "有村架純"
+        },
+        {
+          "zh": "2021",
+          "en": "2021"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 834,
+        "rank": 642,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 2,
+          "4": 7,
+          "5": 18,
+          "6": 86,
+          "7": 211,
+          "8": 366,
+          "9": 97,
+          "10": 46
+        },
+        "collect": 1176,
+        "wish": 221,
+        "doing": 20,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 328957）",
+            "url": "https://bgm.tv/subject/328957",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-133240",
+      "bangumiId": 133240,
+      "medium": "film",
+      "title": {
+        "zh": "复仇者联盟3：无限战争",
+        "en": "Avengers: Infinity War"
+      },
+      "date": "2018-04-27",
+      "year": 2018,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "2018",
+          "en": "2018"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.2,
+        "ratingCount": 694,
+        "rank": 1481,
+        "distribution": {
+          "1": 1,
+          "2": 2,
+          "3": 4,
+          "4": 8,
+          "5": 29,
+          "6": 102,
+          "7": 264,
+          "8": 216,
+          "9": 37,
+          "10": 31
+        },
+        "collect": 1161,
+        "wish": 30,
+        "doing": 4,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 133240）",
+            "url": "https://bgm.tv/subject/133240",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60119",
+      "bangumiId": 60119,
+      "medium": "film",
+      "title": {
+        "zh": "哈利·波特与密室",
+        "en": "Harry Potter and the Chamber of Secrets"
+      },
+      "date": "2002-11-15",
+      "year": 2002,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2002",
+          "en": "2002"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "HarryPotter",
+          "en": "HarryPotter"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "魔幻",
+          "en": "魔幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.4,
+        "ratingCount": 657,
+        "rank": 1123,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 20,
+          "6": 90,
+          "7": 253,
+          "8": 222,
+          "9": 35,
+          "10": 35
+        },
+        "collect": 1146,
+        "wish": 21,
+        "doing": 3,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60119）",
+            "url": "https://bgm.tv/subject/60119",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60118",
+      "bangumiId": 60118,
+      "medium": "film",
+      "title": {
+        "zh": "哈利·波特与阿兹卡班囚徒",
+        "en": "Harry Potter and the Prisoner of Azkaban"
+      },
+      "date": "2004-05-31",
+      "year": 2004,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "HarryPotter",
+          "en": "HarryPotter"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "2004",
+          "en": "2004"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 619,
+        "rank": 791,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 4,
+          "5": 15,
+          "6": 64,
+          "7": 205,
+          "8": 239,
+          "9": 49,
+          "10": 42
+        },
+        "collect": 1108,
+        "wish": 25,
+        "doing": 6,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60118）",
+            "url": "https://bgm.tv/subject/60118",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60107",
+      "bangumiId": 60107,
+      "medium": "film",
+      "title": {
+        "zh": "哈利·波特与火焰杯",
+        "en": "Harry Potter and the Goblet of Fire"
+      },
+      "date": "2005-11-18",
+      "year": 2005,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "HarryPotter",
+          "en": "HarryPotter"
+        },
+        {
+          "zh": "2005",
+          "en": "2005"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.2,
+        "ratingCount": 564,
+        "rank": 1645,
+        "distribution": {
+          "1": 3,
+          "2": 0,
+          "3": 1,
+          "4": 9,
+          "5": 30,
+          "6": 84,
+          "7": 225,
+          "8": 162,
+          "9": 23,
+          "10": 27
+        },
+        "collect": 1002,
+        "wish": 28,
+        "doing": 3,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60107）",
+            "url": "https://bgm.tv/subject/60107",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-279834",
+      "bangumiId": 279834,
+      "medium": "film",
+      "title": {
+        "zh": "小丑",
+        "en": "Joker"
+      },
+      "date": "2019-10-04",
+      "year": 2019,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "DC",
+          "en": "DC"
+        },
+        {
+          "zh": "JOKER",
+          "en": "JOKER"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "2019",
+          "en": "2019"
+        },
+        {
+          "zh": "2019年",
+          "en": "2019年"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "黑暗",
+          "en": "黑暗"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 658,
+        "rank": 650,
+        "distribution": {
+          "1": 3,
+          "2": 1,
+          "3": 3,
+          "4": 9,
+          "5": 19,
+          "6": 69,
+          "7": 154,
+          "8": 257,
+          "9": 93,
+          "10": 50
+        },
+        "collect": 993,
+        "wish": 109,
+        "doing": 8,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 279834）",
+            "url": "https://bgm.tv/subject/279834",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-72819",
+      "bangumiId": 72819,
+      "medium": "film",
+      "title": {
+        "zh": "银翼杀手",
+        "en": "Blade Runner"
+      },
+      "date": "1982-06-25",
+      "year": 1982,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "赛博朋克",
+          "en": "赛博朋克"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "1982",
+          "en": "1982"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "银翼杀手",
+          "en": "银翼杀手"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 653,
+        "rank": 161,
+        "distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 2,
+          "4": 1,
+          "5": 5,
+          "6": 37,
+          "7": 94,
+          "8": 231,
+          "9": 187,
+          "10": 92
+        },
+        "collect": 970,
+        "wish": 249,
+        "doing": 11,
+        "dropped": 8
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 72819）",
+            "url": "https://bgm.tv/subject/72819",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-38657",
+      "bangumiId": 38657,
+      "medium": "film",
+      "title": {
+        "zh": "迪迦奥特曼 最终圣战",
+        "en": "ウルトラマンティガ THE FINAL ODYSSEY"
+      },
+      "date": "2000-03-11",
+      "year": 2000,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "特摄",
+          "en": "特摄"
+        },
+        {
+          "zh": "奥特曼",
+          "en": "奥特曼"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "2000",
+          "en": "2000"
+        },
+        {
+          "zh": "迪迦",
+          "en": "迪迦"
+        },
+        {
+          "zh": "长谷川圭一",
+          "en": "长谷川圭一"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "长野博",
+          "en": "长野博"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 622,
+        "rank": 1811,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 6,
+          "5": 33,
+          "6": 119,
+          "7": 270,
+          "8": 136,
+          "9": 27,
+          "10": 29
+        },
+        "collect": 958,
+        "wish": 41,
+        "doing": 2,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 38657）",
+            "url": "https://bgm.tv/subject/38657",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-19567",
+      "bangumiId": 19567,
+      "medium": "film",
+      "title": {
+        "zh": "变形金刚",
+        "en": "Transformers"
+      },
+      "date": "2007-07-03",
+      "year": 2007,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "变形金刚",
+          "en": "变形金刚"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "2007",
+          "en": "2007"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "萝卜",
+          "en": "萝卜"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.3,
+        "ratingCount": 545,
+        "rank": 1425,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 3,
+          "4": 1,
+          "5": 27,
+          "6": 74,
+          "7": 231,
+          "8": 154,
+          "9": 25,
+          "10": 29
+        },
+        "collect": 917,
+        "wish": 20,
+        "doing": 3,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 19567）",
+            "url": "https://bgm.tv/subject/19567",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-59665",
+      "bangumiId": 59665,
+      "medium": "film",
+      "title": {
+        "zh": "浪客剑心",
+        "en": "るろうに剣心"
+      },
+      "date": "2012-08-25",
+      "year": 2012,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "佐藤健",
+          "en": "佐藤健"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "2012",
+          "en": "2012"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "苍井优",
+          "en": "苍井优"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "時代劇",
+          "en": "時代劇"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 630,
+        "rank": 989,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 4,
+          "5": 9,
+          "6": 53,
+          "7": 250,
+          "8": 257,
+          "9": 37,
+          "10": 18
+        },
+        "collect": 906,
+        "wish": 101,
+        "doing": 17,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 59665）",
+            "url": "https://bgm.tv/subject/59665",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-213419",
+      "bangumiId": 213419,
+      "medium": "film",
+      "title": {
+        "zh": "蜘蛛侠：英雄远征",
+        "en": "Spider-Man: Far From Home"
+      },
+      "date": "2019-06-28",
+      "year": 2019,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        },
+        {
+          "zh": "2019",
+          "en": "2019"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.2,
+        "ratingCount": 464,
+        "rank": 3197,
+        "distribution": {
+          "1": 2,
+          "2": 4,
+          "3": 7,
+          "4": 21,
+          "5": 72,
+          "6": 155,
+          "7": 141,
+          "8": 56,
+          "9": 3,
+          "10": 3
+        },
+        "collect": 783,
+        "wish": 31,
+        "doing": 1,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 213419）",
+            "url": "https://bgm.tv/subject/213419",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-244049",
+      "bangumiId": 244049,
+      "medium": "film",
+      "title": {
+        "zh": "毒液：致命守护者",
+        "en": "Venom"
+      },
+      "date": "2018-10-05",
+      "year": 2018,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2018",
+          "en": "2018"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.4,
+        "ratingCount": 431,
+        "rank": 3052,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 6,
+          "4": 10,
+          "5": 49,
+          "6": 168,
+          "7": 138,
+          "8": 50,
+          "9": 3,
+          "10": 5
+        },
+        "collect": 773,
+        "wish": 18,
+        "doing": 3,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 244049）",
+            "url": "https://bgm.tv/subject/244049",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-186481",
+      "bangumiId": 186481,
+      "medium": "film",
+      "title": {
+        "zh": "七武士",
+        "en": "七人の侍"
+      },
+      "date": "1954-04-26",
+      "year": 1954,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "黑泽明",
+          "en": "黑泽明"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "武士",
+          "en": "武士"
+        },
+        {
+          "zh": "1954",
+          "en": "1954"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "日本电影",
+          "en": "日本电影"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "社会",
+          "en": "社会"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.9,
+        "ratingCount": 508,
+        "rank": 17,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 3,
+          "6": 5,
+          "7": 20,
+          "8": 119,
+          "9": 200,
+          "10": 160
+        },
+        "collect": 720,
+        "wish": 195,
+        "doing": 9,
+        "dropped": 9
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 186481）",
+            "url": "https://bgm.tv/subject/186481",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-107478",
+      "bangumiId": 107478,
+      "medium": "film",
+      "title": {
+        "zh": "浪客剑心 京都大火篇",
+        "en": "るろうに剣心 京都大火編"
+      },
+      "date": "2014-08-01",
+      "year": 2014,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "佐藤健",
+          "en": "佐藤健"
+        },
+        {
+          "zh": "浪客剑心",
+          "en": "浪客剑心"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2014",
+          "en": "2014"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "神木隆之介",
+          "en": "神木隆之介"
+        },
+        {
+          "zh": "漫改电影",
+          "en": "漫改电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.4,
+        "ratingCount": 431,
+        "rank": 1132,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 8,
+          "6": 41,
+          "7": 192,
+          "8": 152,
+          "9": 27,
+          "10": 9
+        },
+        "collect": 639,
+        "wish": 50,
+        "doing": 10,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 107478）",
+            "url": "https://bgm.tv/subject/107478",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-38655",
+      "bangumiId": 38655,
+      "medium": "film",
+      "title": {
+        "zh": "奥特曼",
+        "en": "ULTRAMAN"
+      },
+      "date": "2004-12-18",
+      "year": 2004,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "特摄",
+          "en": "特摄"
+        },
+        {
+          "zh": "奥特曼",
+          "en": "奥特曼"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "2004",
+          "en": "2004"
+        },
+        {
+          "zh": "NEXUS",
+          "en": "NEXUS"
+        },
+        {
+          "zh": "川井宪次",
+          "en": "川井宪次"
+        },
+        {
+          "zh": "长谷川圭一",
+          "en": "长谷川圭一"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 434,
+        "rank": 611,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 0,
+          "5": 5,
+          "6": 33,
+          "7": 126,
+          "8": 198,
+          "9": 53,
+          "10": 16
+        },
+        "collect": 622,
+        "wish": 78,
+        "doing": 6,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 38655）",
+            "url": "https://bgm.tv/subject/38655",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-108512",
+      "bangumiId": 108512,
+      "medium": "film",
+      "title": {
+        "zh": "寄生兽",
+        "en": "寄生獣"
+      },
+      "date": "2014-11-29",
+      "year": 2014,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "寄生獣",
+          "en": "寄生獣"
+        },
+        {
+          "zh": "漫画改",
+          "en": "漫画改"
+        },
+        {
+          "zh": "2014",
+          "en": "2014"
+        },
+        {
+          "zh": "染谷将太",
+          "en": "染谷将太"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.8,
+        "ratingCount": 377,
+        "rank": 2376,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 3,
+          "4": 5,
+          "5": 19,
+          "6": 91,
+          "7": 181,
+          "8": 60,
+          "9": 10,
+          "10": 6
+        },
+        "collect": 598,
+        "wish": 59,
+        "doing": 1,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 108512）",
+            "url": "https://bgm.tv/subject/108512",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-246700",
+      "bangumiId": 246700,
+      "medium": "film",
+      "title": {
+        "zh": "小偷家族",
+        "en": "万引き家族"
+      },
+      "date": "2018-06-08",
+      "year": 2018,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "是枝裕和",
+          "en": "是枝裕和"
+        },
+        {
+          "zh": "家庭",
+          "en": "家庭"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "2018",
+          "en": "2018"
+        },
+        {
+          "zh": "社会",
+          "en": "社会"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 421,
+        "rank": 652,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 1,
+          "4": 2,
+          "5": 9,
+          "6": 27,
+          "7": 114,
+          "8": 213,
+          "9": 33,
+          "10": 20
+        },
+        "collect": 594,
+        "wish": 99,
+        "doing": 7,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 246700）",
+            "url": "https://bgm.tv/subject/246700",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-192682",
+      "bangumiId": 192682,
+      "medium": "film",
+      "title": {
+        "zh": "釜山行",
+        "en": "부산행"
+      },
+      "date": "2016-07-20",
+      "year": 2016,
+      "country": "KR",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "韩国",
+          "en": "韩国"
+        },
+        {
+          "zh": "丧尸",
+          "en": "丧尸"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "灾难",
+          "en": "灾难"
+        },
+        {
+          "zh": "惊悚",
+          "en": "惊悚"
+        },
+        {
+          "zh": "2016",
+          "en": "2016"
+        },
+        {
+          "zh": "生存",
+          "en": "生存"
+        },
+        {
+          "zh": "人性",
+          "en": "人性"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 360,
+        "rank": 1854,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 3,
+          "4": 6,
+          "5": 19,
+          "6": 67,
+          "7": 149,
+          "8": 77,
+          "9": 13,
+          "10": 24
+        },
+        "collect": 579,
+        "wish": 26,
+        "doing": 2,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 192682）",
+            "url": "https://bgm.tv/subject/192682",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-12980",
+      "bangumiId": 12980,
+      "medium": "film",
+      "title": {
+        "zh": "关于莉莉周的一切",
+        "en": "リリイ・シュシュのすべて"
+      },
+      "date": "2001-10-06",
+      "year": 2001,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "岩井俊二",
+          "en": "岩井俊二"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "苍井优",
+          "en": "苍井优"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "2001",
+          "en": "2001"
+        },
+        {
+          "zh": "德彪西",
+          "en": "德彪西"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 406,
+        "rank": 670,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 2,
+          "4": 6,
+          "5": 7,
+          "6": 46,
+          "7": 110,
+          "8": 141,
+          "9": 61,
+          "10": 31
+        },
+        "collect": 571,
+        "wish": 207,
+        "doing": 12,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 12980）",
+            "url": "https://bgm.tv/subject/12980",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60259",
+      "bangumiId": 60259,
+      "medium": "film",
+      "title": {
+        "zh": "长江7号",
+        "en": "长江7号"
+      },
+      "date": "2008-01-30",
+      "year": 2008,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "周星驰",
+          "en": "周星驰"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "香港",
+          "en": "香港"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "2008",
+          "en": "2008"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.4,
+        "ratingCount": 274,
+        "rank": 3057,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 3,
+          "4": 12,
+          "5": 36,
+          "6": 98,
+          "7": 79,
+          "8": 32,
+          "9": 3,
+          "10": 8
+        },
+        "collect": 546,
+        "wish": 9,
+        "doing": 3,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60259）",
+            "url": "https://bgm.tv/subject/60259",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-211865",
+      "bangumiId": 211865,
+      "medium": "film",
+      "title": {
+        "zh": "Thunderbolt Fantasy 生死一剑",
+        "en": "Thunderbolt Fantasy 生死一劍"
+      },
+      "date": "2017-12-02",
+      "year": 2017,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "布袋戏",
+          "en": "布袋戏"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "虚渊玄",
+          "en": "虚渊玄"
+        },
+        {
+          "zh": "霹雳布袋戏",
+          "en": "霹雳布袋戏"
+        },
+        {
+          "zh": "2017",
+          "en": "2017"
+        },
+        {
+          "zh": "原创",
+          "en": "原创"
+        },
+        {
+          "zh": "泽野弘之",
+          "en": "泽野弘之"
+        },
+        {
+          "zh": "虚淵玄",
+          "en": "虚淵玄"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.3,
+        "ratingCount": 400,
+        "rank": 1361,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 0,
+          "4": 4,
+          "5": 7,
+          "6": 41,
+          "7": 172,
+          "8": 152,
+          "9": 15,
+          "10": 6
+        },
+        "collect": 542,
+        "wish": 27,
+        "doing": 7,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 211865）",
+            "url": "https://bgm.tv/subject/211865",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60226",
+      "bangumiId": 60226,
+      "medium": "film",
+      "title": {
+        "zh": "生化危机",
+        "en": "Resident Evil"
+      },
+      "date": "2002-03-15",
+      "year": 2002,
+      "country": "FR",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "生化危机",
+          "en": "生化危机"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "丧尸",
+          "en": "丧尸"
+        },
+        {
+          "zh": "2002",
+          "en": "2002"
+        },
+        {
+          "zh": "游戏改",
+          "en": "游戏改"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7,
+        "ratingCount": 279,
+        "rank": 1927,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 2,
+          "5": 12,
+          "6": 57,
+          "7": 124,
+          "8": 70,
+          "9": 5,
+          "10": 8
+        },
+        "collect": 493,
+        "wish": 14,
+        "doing": 1,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60226）",
+            "url": "https://bgm.tv/subject/60226",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-36055",
+      "bangumiId": 36055,
+      "medium": "film",
+      "title": {
+        "zh": "头文字D",
+        "en": "頭文字D"
+      },
+      "date": "2005-06-23",
+      "year": 2005,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "周杰伦",
+          "en": "周杰伦"
+        },
+        {
+          "zh": "头文字D",
+          "en": "头文字D"
+        },
+        {
+          "zh": "香港电影",
+          "en": "香港电影"
+        },
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "2005",
+          "en": "2005"
+        },
+        {
+          "zh": "香港",
+          "en": "香港"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.8,
+        "ratingCount": 281,
+        "rank": 2440,
+        "distribution": {
+          "1": 1,
+          "2": 3,
+          "3": 1,
+          "4": 7,
+          "5": 20,
+          "6": 62,
+          "7": 126,
+          "8": 47,
+          "9": 2,
+          "10": 12
+        },
+        "collect": 479,
+        "wish": 24,
+        "doing": 1,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 36055）",
+            "url": "https://bgm.tv/subject/36055",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-560263",
+      "bangumiId": 560263,
+      "medium": "film",
+      "title": {
+        "zh": "F1：狂飙飞车",
+        "en": "F1: The Movie"
+      },
+      "date": "2025-06-27",
+      "year": 2025,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "赛车",
+          "en": "赛车"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "运动",
+          "en": "运动"
+        },
+        {
+          "zh": "2025",
+          "en": "2025"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "原创",
+          "en": "原创"
+        },
+        {
+          "zh": "剧情",
+          "en": "剧情"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 351,
+        "rank": 847,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 4,
+          "5": 7,
+          "6": 31,
+          "7": 111,
+          "8": 151,
+          "9": 35,
+          "10": 11
+        },
+        "collect": 473,
+        "wish": 37,
+        "doing": 4,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 560263）",
+            "url": "https://bgm.tv/subject/560263",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-280505",
+      "bangumiId": 280505,
+      "medium": "film",
+      "title": {
+        "zh": "浪客剑心 最终章 The Beginning",
+        "en": "るろうに剣心 最終章 The Beginning"
+      },
+      "date": "2021-06-04",
+      "year": 2021,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "浪客剑心",
+          "en": "浪客剑心"
+        },
+        {
+          "zh": "2021",
+          "en": "2021"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "有村架纯",
+          "en": "有村架纯"
+        },
+        {
+          "zh": "佐藤健",
+          "en": "佐藤健"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 299,
+        "rank": 800,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 2,
+          "5": 10,
+          "6": 25,
+          "7": 89,
+          "8": 131,
+          "9": 27,
+          "10": 14
+        },
+        "collect": 471,
+        "wish": 65,
+        "doing": 9,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 280505）",
+            "url": "https://bgm.tv/subject/280505",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-465932",
+      "bangumiId": 465932,
+      "medium": "film",
+      "title": {
+        "zh": "布莱泽奥特曼 大电影 大怪兽东京决战",
+        "en": "ウルトラマンブレーザー THE MOVIE 大怪獣首都激突"
+      },
+      "date": "2024-02-23",
+      "year": 2024,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "奥特曼",
+          "en": "奥特曼"
+        },
+        {
+          "zh": "特摄",
+          "en": "特摄"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "2024",
+          "en": "2024"
+        },
+        {
+          "zh": "圆谷",
+          "en": "圆谷"
+        },
+        {
+          "zh": "田口清隆",
+          "en": "田口清隆"
+        },
+        {
+          "zh": "布莱泽奥特曼",
+          "en": "布莱泽奥特曼"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 4.7,
+        "ratingCount": 310,
+        "rank": 3604,
+        "distribution": {
+          "1": 11,
+          "2": 10,
+          "3": 34,
+          "4": 82,
+          "5": 78,
+          "6": 64,
+          "7": 21,
+          "8": 7,
+          "9": 0,
+          "10": 3
+        },
+        "collect": 428,
+        "wish": 40,
+        "doing": 7,
+        "dropped": 9
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 465932）",
+            "url": "https://bgm.tv/subject/465932",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-354531",
+      "bangumiId": 354531,
+      "medium": "film",
+      "title": {
+        "zh": "沙丘2",
+        "en": "Dune: Part Two"
+      },
+      "date": "2024-03-01",
+      "year": 2024,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "2024",
+          "en": "2024"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "太空歌剧",
+          "en": "太空歌剧"
+        },
+        {
+          "zh": "沙丘",
+          "en": "沙丘"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 308,
+        "rank": 1819,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 3,
+          "4": 5,
+          "5": 19,
+          "6": 53,
+          "7": 102,
+          "8": 96,
+          "9": 22,
+          "10": 6
+        },
+        "collect": 414,
+        "wish": 46,
+        "doing": 5,
+        "dropped": 8
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 354531）",
+            "url": "https://bgm.tv/subject/354531",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60229",
+      "bangumiId": 60229,
+      "medium": "film",
+      "title": {
+        "zh": "生化危机2：启示录",
+        "en": "Resident Evil: Apocalypse"
+      },
+      "date": "2004-09-10",
+      "year": 2004,
+      "country": "FR",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "生化危机",
+          "en": "生化危机"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "丧尸",
+          "en": "丧尸"
+        },
+        {
+          "zh": "2004",
+          "en": "2004"
+        },
+        {
+          "zh": "游戏改",
+          "en": "游戏改"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.8,
+        "ratingCount": 213,
+        "rank": 2372,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 4,
+          "5": 12,
+          "6": 60,
+          "7": 99,
+          "8": 28,
+          "9": 4,
+          "10": 6
+        },
+        "collect": 383,
+        "wish": 6,
+        "doing": 1,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60229）",
+            "url": "https://bgm.tv/subject/60229",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-282417",
+      "bangumiId": 282417,
+      "medium": "film",
+      "title": {
+        "zh": "死侍与金刚狼",
+        "en": "Deadpool & Wolverine"
+      },
+      "date": "2024-07-26",
+      "year": 2024,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "漫威",
+          "en": "漫威"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2024",
+          "en": "2024"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "死侍",
+          "en": "死侍"
+        },
+        {
+          "zh": "marvel",
+          "en": "marvel"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        },
+        {
+          "zh": "超级英雄",
+          "en": "超级英雄"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.5,
+        "ratingCount": 247,
+        "rank": 2963,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 5,
+          "4": 14,
+          "5": 23,
+          "6": 62,
+          "7": 102,
+          "8": 34,
+          "9": 4,
+          "10": 1
+        },
+        "collect": 380,
+        "wish": 37,
+        "doing": 3,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 282417）",
+            "url": "https://bgm.tv/subject/282417",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60218",
+      "bangumiId": 60218,
+      "medium": "film",
+      "title": {
+        "zh": "生化危机3：灭绝",
+        "en": "Resident Evil: Extinction"
+      },
+      "date": "2007-09-21",
+      "year": 2007,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "生化危机",
+          "en": "生化危机"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "丧尸",
+          "en": "丧尸"
+        },
+        {
+          "zh": "2007",
+          "en": "2007"
+        },
+        {
+          "zh": "游戏改",
+          "en": "游戏改"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.1,
+        "ratingCount": 203,
+        "rank": 3258,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 4,
+          "4": 5,
+          "5": 33,
+          "6": 95,
+          "7": 49,
+          "8": 11,
+          "9": 0,
+          "10": 4
+        },
+        "collect": 372,
+        "wish": 7,
+        "doing": 0,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60218）",
+            "url": "https://bgm.tv/subject/60218",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-278683",
+      "bangumiId": 278683,
+      "medium": "film",
+      "title": {
+        "zh": "Thunderbolt Fantasy 西幽玹歌",
+        "en": "Thunderbolt Fantasy 西幽玹歌"
+      },
+      "date": "2019-10-25",
+      "year": 2019,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "布袋戏",
+          "en": "布袋戏"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "虚渊玄",
+          "en": "虚渊玄"
+        },
+        {
+          "zh": "原创",
+          "en": "原创"
+        },
+        {
+          "zh": "泽野弘之",
+          "en": "泽野弘之"
+        },
+        {
+          "zh": "东离剑游记",
+          "en": "东离剑游记"
+        },
+        {
+          "zh": "武侠",
+          "en": "武侠"
+        },
+        {
+          "zh": "2019年10月",
+          "en": "2019年10月"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 280,
+        "rank": 960,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 3,
+          "6": 26,
+          "7": 97,
+          "8": 127,
+          "9": 18,
+          "10": 6
+        },
+        "collect": 370,
+        "wish": 39,
+        "doing": 8,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 278683）",
+            "url": "https://bgm.tv/subject/278683",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-60217",
+      "bangumiId": 60217,
+      "medium": "film",
+      "title": {
+        "zh": "生化危机4：战神再生",
+        "en": "Resident Evil: Afterlife"
+      },
+      "date": "2010-09-10",
+      "year": 2010,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "生化危机",
+          "en": "生化危机"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "丧尸",
+          "en": "丧尸"
+        },
+        {
+          "zh": "2010",
+          "en": "2010"
+        },
+        {
+          "zh": "游戏改",
+          "en": "游戏改"
+        },
+        {
+          "zh": "欧美电影",
+          "en": "欧美电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 5.7,
+        "ratingCount": 189,
+        "rank": 3430,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 6,
+          "4": 19,
+          "5": 37,
+          "6": 85,
+          "7": 31,
+          "8": 7,
+          "9": 1,
+          "10": 1
+        },
+        "collect": 344,
+        "wish": 8,
+        "doing": 1,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 60217）",
+            "url": "https://bgm.tv/subject/60217",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-383125",
+      "bangumiId": 383125,
+      "medium": "film",
+      "title": {
+        "zh": "大话西游之月光宝盒",
+        "en": "西遊記第壹佰零壹回之月光寶盒"
+      },
+      "date": "1995-01-21",
+      "year": 1995,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "周星驰",
+          "en": "周星驰"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "香港",
+          "en": "香港"
+        },
+        {
+          "zh": "搞笑",
+          "en": "搞笑"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 176,
+        "rank": 1040,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 3,
+          "5": 7,
+          "6": 19,
+          "7": 62,
+          "8": 56,
+          "9": 12,
+          "10": 16
+        },
+        "collect": 322,
+        "wish": 17,
+        "doing": 4,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 383125）",
+            "url": "https://bgm.tv/subject/383125",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-13238",
+      "bangumiId": 13238,
+      "medium": "film",
+      "title": {
+        "zh": "娜娜",
+        "en": "NANA"
+      },
+      "date": "2005-09-03",
+      "year": 2005,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "中岛美嘉",
+          "en": "中岛美嘉"
+        },
+        {
+          "zh": "NANA",
+          "en": "NANA"
+        },
+        {
+          "zh": "宫崎葵",
+          "en": "宫崎葵"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "2005",
+          "en": "2005"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 234,
+        "rank": 1845,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 3,
+          "5": 13,
+          "6": 46,
+          "7": 84,
+          "8": 65,
+          "9": 17,
+          "10": 4
+        },
+        "collect": 322,
+        "wish": 66,
+        "doing": 5,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 13238）",
+            "url": "https://bgm.tv/subject/13238",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-383126",
+      "bangumiId": 383126,
+      "medium": "film",
+      "title": {
+        "zh": "大话西游之大圣娶亲",
+        "en": "西遊記大結局之仙履奇緣"
+      },
+      "date": "1995-02-04",
+      "year": 1995,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "周星驰",
+          "en": "周星驰"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "香港",
+          "en": "香港"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        },
+        {
+          "zh": "华语电影",
+          "en": "华语电影"
+        },
+        {
+          "zh": "香港电影",
+          "en": "香港电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 187,
+        "rank": 529,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 5,
+          "6": 13,
+          "7": 54,
+          "8": 70,
+          "9": 24,
+          "10": 19
+        },
+        "collect": 313,
+        "wish": 16,
+        "doing": 0,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 383126）",
+            "url": "https://bgm.tv/subject/383126",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-286244",
+      "bangumiId": 286244,
+      "medium": "film",
+      "title": {
+        "zh": "碧蓝之海",
+        "en": "ぐらんぶる"
+      },
+      "date": "2020-08-07",
+      "year": 2020,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "搞笑",
+          "en": "搞笑"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫画改",
+          "en": "漫画改"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "剧场版",
+          "en": "剧场版"
+        },
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "2020年",
+          "en": "2020年"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.7,
+        "ratingCount": 212,
+        "rank": 2556,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 7,
+          "5": 17,
+          "6": 56,
+          "7": 83,
+          "8": 32,
+          "9": 7,
+          "10": 7
+        },
+        "collect": 313,
+        "wish": 61,
+        "doing": 6,
+        "dropped": 11
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 286244）",
+            "url": "https://bgm.tv/subject/286244",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-274310",
+      "bangumiId": 274310,
+      "medium": "film",
+      "title": {
+        "zh": "少林足球",
+        "en": "少林足球"
+      },
+      "date": "2001-07-12",
+      "year": 2001,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "周星驰",
+          "en": "周星驰"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "经典",
+          "en": "经典"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "香港电影",
+          "en": "香港电影"
+        },
+        {
+          "zh": "2001",
+          "en": "2001"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.3,
+        "ratingCount": 167,
+        "rank": 1309,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 0,
+          "5": 6,
+          "6": 13,
+          "7": 69,
+          "8": 62,
+          "9": 12,
+          "10": 2
+        },
+        "collect": 279,
+        "wish": 15,
+        "doing": 4,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 274310）",
+            "url": "https://bgm.tv/subject/274310",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-36139",
+      "bangumiId": 36139,
+      "medium": "film",
+      "title": {
+        "zh": "交响情人梦 最终乐章 前篇",
+        "en": "のだめカンタービレ 最終楽章 前編"
+      },
+      "date": "2009-12-19",
+      "year": 2009,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "玉木宏",
+          "en": "玉木宏"
+        },
+        {
+          "zh": "上野樹里",
+          "en": "上野樹里"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "日剧",
+          "en": "日剧"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2009",
+          "en": "2009"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "音乐",
+          "en": "音乐"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 171,
+        "rank": 572,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 20,
+          "7": 41,
+          "8": 72,
+          "9": 23,
+          "10": 12
+        },
+        "collect": 268,
+        "wish": 26,
+        "doing": 3,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 36139）",
+            "url": "https://bgm.tv/subject/36139",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-36144",
+      "bangumiId": 36144,
+      "medium": "film",
+      "title": {
+        "zh": "交响情人梦 最终乐章 后篇",
+        "en": "のだめカンタービレ 最終楽章 後編"
+      },
+      "date": "2010-04-17",
+      "year": 2010,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "玉木宏",
+          "en": "玉木宏"
+        },
+        {
+          "zh": "上野樹里",
+          "en": "上野樹里"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "日剧",
+          "en": "日剧"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "2010",
+          "en": "2010"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 159,
+        "rank": 488,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 3,
+          "6": 13,
+          "7": 40,
+          "8": 64,
+          "9": 26,
+          "10": 12
+        },
+        "collect": 257,
+        "wish": 34,
+        "doing": 2,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 36144）",
+            "url": "https://bgm.tv/subject/36144",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-167038",
+      "bangumiId": 167038,
+      "medium": "film",
+      "title": {
+        "zh": "雪国列车",
+        "en": "설국열차"
+      },
+      "date": "2013-08-01",
+      "year": 2013,
+      "country": "KR",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "韩国",
+          "en": "韩国"
+        },
+        {
+          "zh": "灾难",
+          "en": "灾难"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "奉俊昊",
+          "en": "奉俊昊"
+        },
+        {
+          "zh": "隐喻",
+          "en": "隐喻"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.7,
+        "ratingCount": 131,
+        "rank": 2587,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 3,
+          "4": 5,
+          "5": 15,
+          "6": 26,
+          "7": 52,
+          "8": 23,
+          "9": 5,
+          "10": 2
+        },
+        "collect": 214,
+        "wish": 17,
+        "doing": 1,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 167038）",
+            "url": "https://bgm.tv/subject/167038",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-159809",
+      "bangumiId": 159809,
+      "medium": "film",
+      "title": {
+        "zh": "刺客信条",
+        "en": "Assassin's Creed"
+      },
+      "date": "2016-12-21",
+      "year": 2016,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "游戏改",
+          "en": "游戏改"
+        },
+        {
+          "zh": "刺客信条",
+          "en": "刺客信条"
+        },
+        {
+          "zh": "2017",
+          "en": "2017"
+        },
+        {
+          "zh": "法鲨",
+          "en": "法鲨"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 5.5,
+        "ratingCount": 139,
+        "rank": 3482,
+        "distribution": {
+          "1": 0,
+          "2": 3,
+          "3": 4,
+          "4": 20,
+          "5": 37,
+          "6": 47,
+          "7": 21,
+          "8": 7,
+          "9": 0,
+          "10": 0
+        },
+        "collect": 207,
+        "wish": 17,
+        "doing": 0,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 159809）",
+            "url": "https://bgm.tv/subject/159809",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-149763",
+      "bangumiId": 149763,
+      "medium": "film",
+      "title": {
+        "zh": "回到未来3",
+        "en": "Back to the Future Part Ⅲ"
+      },
+      "date": "1990-05-25",
+      "year": 1990,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "回到未来",
+          "en": "回到未来"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "时间旅行",
+          "en": "时间旅行"
+        },
+        {
+          "zh": "美影",
+          "en": "美影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 122,
+        "rank": 519,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 11,
+          "7": 31,
+          "8": 56,
+          "9": 13,
+          "10": 10
+        },
+        "collect": 198,
+        "wish": 24,
+        "doing": 3,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 149763）",
+            "url": "https://bgm.tv/subject/149763",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-208722",
+      "bangumiId": 208722,
+      "medium": "film",
+      "title": {
+        "zh": "恋爱回旋",
+        "en": "ミックス。"
+      },
+      "date": "2017-10-21",
+      "year": 2017,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "新垣結衣",
+          "en": "新垣結衣"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "2017",
+          "en": "2017"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "瑛太",
+          "en": "瑛太"
+        },
+        {
+          "zh": "日剧",
+          "en": "日剧"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.6,
+        "ratingCount": 127,
+        "rank": 2693,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 6,
+          "5": 11,
+          "6": 37,
+          "7": 54,
+          "8": 14,
+          "9": 3,
+          "10": 2
+        },
+        "collect": 193,
+        "wish": 30,
+        "doing": 1,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 208722）",
+            "url": "https://bgm.tv/subject/208722",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-130803",
+      "bangumiId": 130803,
+      "medium": "film",
+      "title": {
+        "zh": "歌牌情缘 上之句",
+        "en": "ちはやふる 上の句"
+      },
+      "date": "2016-03-19",
+      "year": 2016,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "2016",
+          "en": "2016"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "真人版",
+          "en": "真人版"
+        },
+        {
+          "zh": "漫画改",
+          "en": "漫画改"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "広瀬すず",
+          "en": "広瀬すず"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 132,
+        "rank": 954,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 4,
+          "6": 15,
+          "7": 37,
+          "8": 55,
+          "9": 12,
+          "10": 7
+        },
+        "collect": 192,
+        "wish": 66,
+        "doing": 3,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 130803）",
+            "url": "https://bgm.tv/subject/130803",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-13240",
+      "bangumiId": 13240,
+      "medium": "film",
+      "title": {
+        "zh": "NANA2",
+        "en": "NANA2"
+      },
+      "date": "2006-12-09",
+      "year": 2006,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "中岛美嘉",
+          "en": "中岛美嘉"
+        },
+        {
+          "zh": "NANA",
+          "en": "NANA"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "成宮寛貴",
+          "en": "成宮寛貴"
+        },
+        {
+          "zh": "漫画衍生",
+          "en": "漫画衍生"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.2,
+        "ratingCount": 123,
+        "rank": 3158,
+        "distribution": {
+          "1": 3,
+          "2": 3,
+          "3": 0,
+          "4": 7,
+          "5": 8,
+          "6": 54,
+          "7": 30,
+          "8": 14,
+          "9": 3,
+          "10": 1
+        },
+        "collect": 187,
+        "wish": 25,
+        "doing": 3,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 13240）",
+            "url": "https://bgm.tv/subject/13240",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-333977",
+      "bangumiId": 333977,
+      "medium": "film",
+      "title": {
+        "zh": "憨豆的黄金周",
+        "en": "Mr. Bean's Holiday"
+      },
+      "date": "2007-03-30",
+      "year": 2007,
+      "country": "GB",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "憨豆先生",
+          "en": "憨豆先生"
+        },
+        {
+          "zh": "英国",
+          "en": "英国"
+        },
+        {
+          "zh": "英剧",
+          "en": "英剧"
+        },
+        {
+          "zh": "搞笑",
+          "en": "搞笑"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "2007",
+          "en": "2007"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 101,
+        "rank": 580,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 7,
+          "7": 33,
+          "8": 39,
+          "9": 15,
+          "10": 6
+        },
+        "collect": 185,
+        "wish": 11,
+        "doing": 1,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 333977）",
+            "url": "https://bgm.tv/subject/333977",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-260678",
+      "bangumiId": 260678,
+      "medium": "film",
+      "title": {
+        "zh": "东邪西毒",
+        "en": "東邪西毒"
+      },
+      "date": "1994-09-17",
+      "year": 1994,
+      "country": "HK",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "王家卫",
+          "en": "王家卫"
+        },
+        {
+          "zh": "1994",
+          "en": "1994"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "香港电影",
+          "en": "香港电影"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "武侠",
+          "en": "武侠"
+        },
+        {
+          "zh": "小说改",
+          "en": "小说改"
+        },
+        {
+          "zh": "香港",
+          "en": "香港"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 112,
+        "rank": 475,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 4,
+          "6": 4,
+          "7": 31,
+          "8": 36,
+          "9": 18,
+          "10": 16
+        },
+        "collect": 180,
+        "wish": 43,
+        "doing": 3,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 260678）",
+            "url": "https://bgm.tv/subject/260678",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-105046",
+      "bangumiId": 105046,
+      "medium": "film",
+      "title": {
+        "zh": "梦与狂想的王国",
+        "en": "夢と狂気の王国"
+      },
+      "date": "2013-11-16",
+      "year": 2013,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "纪录片",
+          "en": "纪录片"
+        },
+        {
+          "zh": "宫崎骏",
+          "en": "宫崎骏"
+        },
+        {
+          "zh": "吉卜力",
+          "en": "吉卜力"
+        },
+        {
+          "zh": "高畑勋",
+          "en": "高畑勋"
+        },
+        {
+          "zh": "铃木敏夫",
+          "en": "铃木敏夫"
+        },
+        {
+          "zh": "庵野秀明",
+          "en": "庵野秀明"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "2013",
+          "en": "2013"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 102,
+        "rank": 539,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 3,
+          "7": 30,
+          "8": 52,
+          "9": 13,
+          "10": 3
+        },
+        "collect": 167,
+        "wish": 92,
+        "doing": 3,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 105046）",
+            "url": "https://bgm.tv/subject/105046",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-163469",
+      "bangumiId": 163469,
+      "medium": "film",
+      "title": {
+        "zh": "琳达！琳达！琳达！",
+        "en": "リンダ リンダ リンダ"
+      },
+      "date": "2005-07-23",
+      "year": 2005,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "音乐",
+          "en": "音乐"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "2005",
+          "en": "2005"
+        },
+        {
+          "zh": "山下敦弘",
+          "en": "山下敦弘"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "剧情",
+          "en": "剧情"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 115,
+        "rank": 311,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 8,
+          "7": 22,
+          "8": 45,
+          "9": 30,
+          "10": 9
+        },
+        "collect": 158,
+        "wish": 90,
+        "doing": 7,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 163469）",
+            "url": "https://bgm.tv/subject/163469",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-138545",
+      "bangumiId": 138545,
+      "medium": "film",
+      "title": {
+        "zh": "歌牌情缘 下之句",
+        "en": "ちはやふる 下の句"
+      },
+      "date": "2016-04-29",
+      "year": 2016,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "2016",
+          "en": "2016"
+        },
+        {
+          "zh": "漫改",
+          "en": "漫改"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "広瀬すず",
+          "en": "広瀬すず"
+        },
+        {
+          "zh": "漫画改",
+          "en": "漫画改"
+        },
+        {
+          "zh": "真人映画",
+          "en": "真人映画"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 96,
+        "rank": 1070,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 17,
+          "7": 32,
+          "8": 35,
+          "9": 5,
+          "10": 6
+        },
+        "collect": 148,
+        "wish": 40,
+        "doing": 3,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 138545）",
+            "url": "https://bgm.tv/subject/138545",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-443178",
+      "bangumiId": 443178,
+      "medium": "film",
+      "title": {
+        "zh": "碟中谍6：全面瓦解",
+        "en": "Mission: Impossible - Fallout"
+      },
+      "date": "2018-07-27",
+      "year": 2018,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "动作",
+          "en": "动作"
+        },
+        {
+          "zh": "碟中谍",
+          "en": "碟中谍"
+        },
+        {
+          "zh": "汤姆·克鲁斯",
+          "en": "汤姆·克鲁斯"
+        },
+        {
+          "zh": "特工",
+          "en": "特工"
+        },
+        {
+          "zh": "2018",
+          "en": "2018"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "谍战",
+          "en": "谍战"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.2,
+        "ratingCount": 82,
+        "rank": 1643,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 14,
+          "7": 36,
+          "8": 26,
+          "9": 1,
+          "10": 2
+        },
+        "collect": 144,
+        "wish": 4,
+        "doing": 2,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 443178）",
+            "url": "https://bgm.tv/subject/443178",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-145920",
+      "bangumiId": 145920,
+      "medium": "film",
+      "title": {
+        "zh": "百元之恋",
+        "en": "百円の恋"
+      },
+      "date": "2014-12-20",
+      "year": 2014,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "映画",
+          "en": "映画"
+        },
+        {
+          "zh": "安藤樱",
+          "en": "安藤樱"
+        },
+        {
+          "zh": "励志",
+          "en": "励志"
+        },
+        {
+          "zh": "2014",
+          "en": "2014"
+        },
+        {
+          "zh": "原创",
+          "en": "原创"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.2,
+        "ratingCount": 87,
+        "rank": 1483,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 2,
+          "6": 15,
+          "7": 34,
+          "8": 25,
+          "9": 6,
+          "10": 3
+        },
+        "collect": 134,
+        "wish": 24,
+        "doing": 2,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 145920）",
+            "url": "https://bgm.tv/subject/145920",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-333177",
+      "bangumiId": 333177,
+      "medium": "film",
+      "title": {
+        "zh": "乱",
+        "en": "乱"
+      },
+      "date": "1985-06-01",
+      "year": 1985,
+      "country": "JP",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "黑泽明",
+          "en": "黑泽明"
+        },
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "日影",
+          "en": "日影"
+        },
+        {
+          "zh": "战争",
+          "en": "战争"
+        },
+        {
+          "zh": "法国",
+          "en": "法国"
+        },
+        {
+          "zh": "乱",
+          "en": "乱"
+        },
+        {
+          "zh": "1985",
+          "en": "1985"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 95,
+        "rank": 355,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 5,
+          "7": 21,
+          "8": 30,
+          "9": 25,
+          "10": 11
+        },
+        "collect": 133,
+        "wish": 45,
+        "doing": 7,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 333177）",
+            "url": "https://bgm.tv/subject/333177",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-36149",
+      "bangumiId": 36149,
+      "medium": "film",
+      "title": {
+        "zh": "空中大灌篮",
+        "en": "Space Jam"
+      },
+      "date": "1996-11-10",
+      "year": 1996,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "1996",
+          "en": "1996"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "体育",
+          "en": "体育"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "运动",
+          "en": "运动"
+        },
+        {
+          "zh": "Michael_Chapman",
+          "en": "Michael_Chapman"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.4,
+        "ratingCount": 65,
+        "rank": 2862,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 8,
+          "6": 25,
+          "7": 23,
+          "8": 6,
+          "9": 1,
+          "10": 0
+        },
+        "collect": 97,
+        "wish": 4,
+        "doing": 2,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 36149）",
+            "url": "https://bgm.tv/subject/36149",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-319866",
+      "bangumiId": 319866,
+      "medium": "film",
+      "title": {
+        "zh": "猫和老鼠",
+        "en": "Tom & Jerry"
+      },
+      "date": "2021-02-26",
+      "year": 2021,
+      "country": "US",
+      "platform": "电影",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "电影",
+          "en": "电影"
+        },
+        {
+          "zh": "2021",
+          "en": "2021"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "3D真人",
+          "en": "3D真人"
+        },
+        {
+          "zh": "动画",
+          "en": "动画"
+        },
+        {
+          "zh": "喜剧",
+          "en": "喜剧"
+        },
+        {
+          "zh": "冒险",
+          "en": "冒险"
+        }
+      ],
+      "episodes": null,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 4.8,
+        "ratingCount": 64,
+        "rank": 3555,
+        "distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 4,
+          "4": 20,
+          "5": 12,
+          "6": 19,
+          "7": 3,
+          "8": 2,
+          "9": 0,
+          "10": 0
+        },
+        "collect": 86,
+        "wish": 10,
+        "doing": 0,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 319866）",
+            "url": "https://bgm.tv/subject/319866",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    }
+  ]
+}

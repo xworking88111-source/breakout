@@ -11,9 +11,13 @@
     "data:fetch": "node scripts/fetch_anilist.mjs",
     "data:build": "node scripts/build_dataset.mjs",
     "data:validate": "node scripts/validate_dataset.mjs",
-    "data:all": "npm run data:fetch && npm run data:build && npm run data:validate"
+    "data:all": "npm run data:fetch && npm run data:build && npm run data:validate && npm run data:benchmark",
+    "data:benchmark": "node scripts/benchmark.mjs"
   },
   "engines": {
     "node": ">=22"
+  },
+  "devDependencies": {
+    "opencc-js": "^1.4.2"
   }
 }

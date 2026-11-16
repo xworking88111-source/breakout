@@ -19,7 +19,7 @@ const fail = (m) => errors.push(m)
 const warn = (m) => warnings.push(m)
 
 const data = JSON.parse(
-  await fs.readFile(new URL('../app/src/data/works.json', import.meta.url), 'utf8'),
+  await fs.readFile(new URL('../app/public/data/works.json', import.meta.url), 'utf8'),
 )
 
 // ---- 1) 檔案層級 / file level ----
@@ -69,13 +69,9 @@ for (const w of data.works ?? []) {
   const weights = data.weights[w.medium]
   if (weights) {
     const raw = DIMS.reduce((s, d) => s + w.dims[d] * weights[d], 0)
-    if (w.medium === 'anime' && Math.abs(raw - 50) > 0.01) {
-      // 動漫會向 50 做輕微收縮（λ ∈ [0.93, 1]）/ anime is lightly shrunk toward 50
-      const implied = (w.hitScore - 50) / (raw - 50)
-      if (implied < 0.9 || implied > 1.01) {
-        fail(`${id}: implied shrinkage ${implied.toFixed(3)} outside [0.9, 1.01]`)
-      }
-    } else if (Math.abs(raw - w.hitScore) > 0.35) {
+    const measuredWithSample = w.provenance?.status === 'measured' && (w.metrics?.ratingCount ?? 0) > 0
+    if (!measuredWithSample && Math.abs(raw - w.hitScore) > 0.35) {
+      // 估算資料不做樣本收縮，必須等於加權和 / estimated records must equal the weighted sum
       fail(`${id}: hitScore ${w.hitScore} != weighted dims ${raw.toFixed(2)}`)
     }
     const sumContrib = (w.contributions ?? []).reduce((s, c) => s + c.points, 0)

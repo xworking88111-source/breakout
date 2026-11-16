@@ -67,6 +67,7 @@ node scripts/validate_dataset.mjs  # 驗證資料集
 | 來源 | 內容 | 認證 | 限制 |
 |---|---|---|---|
 | [AniList GraphQL](https://anilist.co) | 動漫評分、人氣、收藏、趨勢 | 免 key | 約 30–90 req/min |
+| [Bangumi API v0](https://api.bgm.tv/v0) | 小說／電影評分、評分分布、收藏數 | 免 key（需 UA） | 每次搜尋最多 10 筆，以標籤批次累積 |
 | 公開報導（36氪、央視、澎湃、DataEye 榜單報導等） | 短劇／小說／電影的編輯資料與佐證 | — | 逐筆標註連結 |
 | 官方票房統計與維基百科 | 電影票房 | — | 公開資料 |
 
@@ -74,10 +75,11 @@ node scripts/validate_dataset.mjs  # 驗證資料集
 
 ### 資料集與演算法
 
-- 資料集：`app/src/data/works.json`（87 筆示範資料）
-- 演算法：`scripts/build_dataset.mjs`（v0.1，五維加權 + 樣本收縮）
+- 資料集：`app/public/data/works.json`（1,088 筆；1.9 MB / gzip 283 KB）
+- 演算法：`scripts/build_dataset.mjs`（v0.1，五維加權 + 樣本收縮 + 錨點估算 SOP）
 - 驗證器：`scripts/validate_dataset.mjs`（CI 會跑）
-- 完整公式、權重、資料字典、限制：[docs/02-量化評分機制](docs/02-量化評分機制.md)
+- 效能診斷：`node scripts/benchmark.mjs`（計分 0.14 ms／1,088 部；權重擾動 ρ = 0.999）
+- 完整公式、權重、資料字典、估算 SOP、限制：[docs/02-量化評分機制](docs/02-量化評分機制.md)
 
 ### GitHub Pages 部署（免費）
 
@@ -170,6 +172,7 @@ node scripts/validate_dataset.mjs
 | Source | Content | Auth | Limits |
 |---|---|---|---|
 | [AniList GraphQL](https://anilist.co) | Anime scores, popularity, favourites, trend | no key | ~30–90 req/min |
+| [Bangumi API v0](https://api.bgm.tv/v0) | Novel / film ratings, distributions, collections | no key (UA required) | 10 rows per search; batched by tag |
 | Public reporting (36Kr, CCTV, The Paper, DataEye coverage, etc.) | Editorial data and evidence for short dramas / novels / films | — | per-record links |
 | Official box-office statistics and Wikipedia | Film box office | — | public data |
 
@@ -177,10 +180,11 @@ node scripts/validate_dataset.mjs
 
 ### Dataset and algorithm
 
-- Dataset: `app/src/data/works.json` (87 sample records)
-- Algorithm: `scripts/build_dataset.mjs` (v0.1, five weighted dimensions + sample shrinkage)
+- Dataset: `app/public/data/works.json` (1,088 records; 1.9 MB / 283 KB gzipped)
+- Algorithm: `scripts/build_dataset.mjs` (v0.1, five weighted dimensions + sample shrinkage + anchor-based estimation SOP)
 - Validator: `scripts/validate_dataset.mjs` (run in CI)
-- Full formula, weights, data dictionary and limitations: [docs/02](docs/02-量化評分機制.md)
+- Benchmark: `node scripts/benchmark.mjs` (0.14 ms to score 1,088 works; weight-perturbation ρ = 0.999)
+- Full formula, weights, data dictionary, estimation SOP and limitations: [docs/02](docs/02-量化評分機制.md)
 
 ### Deploy to GitHub Pages (free)
 

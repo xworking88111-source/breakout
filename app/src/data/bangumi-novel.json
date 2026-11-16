@@ -1,0 +1,7147 @@
+{
+  "dataset": "bangumi-novel",
+  "source": "Bangumi API v0 (https://api.bgm.tv/v0)",
+  "snapshotDate": "2026-11-16",
+  "license": "Bangumi 使用者貢獻資料；僅取事實欄位，不轉載簡介全文 / factual fields only",
+  "count": 86,
+  "items": [
+    {
+      "id": "bgm-101114",
+      "bangumiId": 101114,
+      "medium": "novel",
+      "title": {
+        "zh": "无职转生 ～到了异世界就拿出真本事～",
+        "en": "無職転生 ～異世界行ったら本気だす～"
+      },
+      "date": "2014-01-23",
+      "year": 2014,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "异世界",
+          "en": "异世界"
+        },
+        {
+          "zh": "后宫",
+          "en": "后宫"
+        },
+        {
+          "zh": "無職転生",
+          "en": "無職転生"
+        },
+        {
+          "zh": "理不尽な孫の手",
+          "en": "理不尽な孫の手"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "穿越",
+          "en": "穿越"
+        },
+        {
+          "zh": "情感",
+          "en": "情感"
+        }
+      ],
+      "episodes": 26,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 3483,
+        "rank": 267,
+        "distribution": {
+          "1": 44,
+          "2": 10,
+          "3": 11,
+          "4": 23,
+          "5": 46,
+          "6": 141,
+          "7": 480,
+          "8": 1092,
+          "9": 997,
+          "10": 639
+        },
+        "collect": 4119,
+        "wish": 697,
+        "doing": 935,
+        "dropped": 140
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 101114）",
+            "url": "https://bgm.tv/subject/101114",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-499",
+      "bangumiId": 499,
+      "medium": "novel",
+      "title": {
+        "zh": "文学少女",
+        "en": "文学少女"
+      },
+      "date": "2006-04-28",
+      "year": 2006,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "文学少女",
+          "en": "文学少女"
+        },
+        {
+          "zh": "野村美月",
+          "en": "野村美月"
+        },
+        {
+          "zh": "天野远子",
+          "en": "天野远子"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "吃书妖怪",
+          "en": "吃书妖怪"
+        },
+        {
+          "zh": "神作",
+          "en": "神作"
+        },
+        {
+          "zh": "黑暗文学史",
+          "en": "黑暗文学史"
+        }
+      ],
+      "episodes": 8,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 3535,
+        "rank": 90,
+        "distribution": {
+          "1": 8,
+          "2": 4,
+          "3": 5,
+          "4": 22,
+          "5": 53,
+          "6": 128,
+          "7": 353,
+          "8": 937,
+          "9": 1216,
+          "10": 809
+        },
+        "collect": 3918,
+        "wish": 1990,
+        "doing": 993,
+        "dropped": 109
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 499）",
+            "url": "https://bgm.tv/subject/499",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-223229",
+      "bangumiId": 223229,
+      "medium": "novel",
+      "title": {
+        "zh": "妹妹人生",
+        "en": "いもーとらいふ"
+      },
+      "date": "2016-07-09",
+      "year": 2016,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "入间人间",
+          "en": "入间人间"
+        },
+        {
+          "zh": "兄妹",
+          "en": "兄妹"
+        },
+        {
+          "zh": "纯爱",
+          "en": "纯爱"
+        },
+        {
+          "zh": "妹控",
+          "en": "妹控"
+        },
+        {
+          "zh": "意义与价值",
+          "en": "意义与价值"
+        },
+        {
+          "zh": "苦涩",
+          "en": "苦涩"
+        },
+        {
+          "zh": "入間人間",
+          "en": "入間人間"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 2870,
+        "rank": 97,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 3,
+          "4": 7,
+          "5": 23,
+          "6": 114,
+          "7": 311,
+          "8": 842,
+          "9": 998,
+          "10": 570
+        },
+        "collect": 3800,
+        "wish": 1619,
+        "doing": 348,
+        "dropped": 31
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 223229）",
+            "url": "https://bgm.tv/subject/223229",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-37782",
+      "bangumiId": 37782,
+      "medium": "novel",
+      "title": {
+        "zh": "来自新世界",
+        "en": "新世界より"
+      },
+      "date": "2008-01-23",
+      "year": 2008,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "反乌托邦",
+          "en": "反乌托邦"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "贵志佑介",
+          "en": "贵志佑介"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "自新世界",
+          "en": "自新世界"
+        },
+        {
+          "zh": "神作",
+          "en": "神作"
+        },
+        {
+          "zh": "伦理",
+          "en": "伦理"
+        },
+        {
+          "zh": "SF",
+          "en": "SF"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 2340,
+        "rank": 12,
+        "distribution": {
+          "1": 5,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 16,
+          "6": 32,
+          "7": 97,
+          "8": 421,
+          "9": 969,
+          "10": 791
+        },
+        "collect": 2997,
+        "wish": 1875,
+        "doing": 349,
+        "dropped": 33
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 37782）",
+            "url": "https://bgm.tv/subject/37782",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-19441",
+      "bangumiId": 19441,
+      "medium": "novel",
+      "title": {
+        "zh": "我的青春恋爱物语果然有问题",
+        "en": "やはり俺の青春ラブコメはまちがっている。"
+      },
+      "date": "2011-03-18",
+      "year": 2011,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "渡航",
+          "en": "渡航"
+        },
+        {
+          "zh": "我的青春恋爱物语果然有问题",
+          "en": "我的青春恋爱物语果然有问题"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "这本轻小说真厉害!",
+          "en": "这本轻小说真厉害!"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "大老师",
+          "en": "大老师"
+        }
+      ],
+      "episodes": 18,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 2603,
+        "rank": 322,
+        "distribution": {
+          "1": 9,
+          "2": 2,
+          "3": 9,
+          "4": 14,
+          "5": 33,
+          "6": 117,
+          "7": 421,
+          "8": 912,
+          "9": 732,
+          "10": 354
+        },
+        "collect": 2929,
+        "wish": 749,
+        "doing": 900,
+        "dropped": 103
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 19441）",
+            "url": "https://bgm.tv/subject/19441",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-2815",
+      "bangumiId": 2815,
+      "medium": "novel",
+      "title": {
+        "zh": "空之境界",
+        "en": "空の境界"
+      },
+      "date": "2004-06-08",
+      "year": 2004,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "Type-Moon",
+          "en": "Type-Moon"
+        },
+        {
+          "zh": "奈须蘑菇",
+          "en": "奈须蘑菇"
+        },
+        {
+          "zh": "空之境界",
+          "en": "空之境界"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "两仪式",
+          "en": "两仪式"
+        },
+        {
+          "zh": "奈須きのこ",
+          "en": "奈須きのこ"
+        },
+        {
+          "zh": "月世界",
+          "en": "月世界"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.6,
+        "ratingCount": 2180,
+        "rank": 54,
+        "distribution": {
+          "1": 4,
+          "2": 3,
+          "3": 5,
+          "4": 9,
+          "5": 9,
+          "6": 59,
+          "7": 181,
+          "8": 597,
+          "9": 782,
+          "10": 531
+        },
+        "collect": 2914,
+        "wish": 934,
+        "doing": 236,
+        "dropped": 31
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 2815）",
+            "url": "https://bgm.tv/subject/2815",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-9586",
+      "bangumiId": 9586,
+      "medium": "novel",
+      "title": {
+        "zh": "三体Ⅱ：黑暗森林",
+        "en": "三体Ⅱ：黑暗森林"
+      },
+      "date": "2008-05-01",
+      "year": 2008,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "三体",
+          "en": "三体"
+        },
+        {
+          "zh": "硬科幻",
+          "en": "硬科幻"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "地球往事三部曲",
+          "en": "地球往事三部曲"
+        },
+        {
+          "zh": "黑暗森林",
+          "en": "黑暗森林"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 2038,
+        "rank": 10,
+        "distribution": {
+          "1": 18,
+          "2": 3,
+          "3": 3,
+          "4": 6,
+          "5": 14,
+          "6": 35,
+          "7": 84,
+          "8": 291,
+          "9": 731,
+          "10": 853
+        },
+        "collect": 2845,
+        "wish": 111,
+        "doing": 63,
+        "dropped": 17
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 9586）",
+            "url": "https://bgm.tv/subject/9586",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-90411",
+      "bangumiId": 90411,
+      "medium": "novel",
+      "title": {
+        "zh": "地球往事三部曲",
+        "en": "地球往事三部曲"
+      },
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "三体",
+          "en": "三体"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "地球往事三部曲",
+          "en": "地球往事三部曲"
+        },
+        {
+          "zh": "2008",
+          "en": "2008"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        }
+      ],
+      "episodes": 3,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.7,
+        "ratingCount": 1824,
+        "rank": 52,
+        "distribution": {
+          "1": 20,
+          "2": 3,
+          "3": 7,
+          "4": 8,
+          "5": 17,
+          "6": 35,
+          "7": 117,
+          "8": 419,
+          "9": 718,
+          "10": 480
+        },
+        "collect": 2636,
+        "wish": 129,
+        "doing": 65,
+        "dropped": 21
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 90411）",
+            "url": "https://bgm.tv/subject/90411",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-9585",
+      "bangumiId": 9585,
+      "medium": "novel",
+      "title": {
+        "zh": "三体",
+        "en": "三体"
+      },
+      "date": "2008-01-01",
+      "year": 2008,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "三体",
+          "en": "三体"
+        },
+        {
+          "zh": "硬科幻",
+          "en": "硬科幻"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "国产科幻",
+          "en": "国产科幻"
+        },
+        {
+          "zh": "地球往事三部曲",
+          "en": "地球往事三部曲"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.4,
+        "ratingCount": 1713,
+        "rank": 148,
+        "distribution": {
+          "1": 12,
+          "2": 1,
+          "3": 3,
+          "4": 9,
+          "5": 11,
+          "6": 47,
+          "7": 180,
+          "8": 546,
+          "9": 628,
+          "10": 276
+        },
+        "collect": 2452,
+        "wish": 137,
+        "doing": 62,
+        "dropped": 10
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 9585）",
+            "url": "https://bgm.tv/subject/9585",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-10538",
+      "bangumiId": 10538,
+      "medium": "novel",
+      "title": {
+        "zh": "三体Ⅲ：死神永生",
+        "en": "三体Ⅲ：死神永生"
+      },
+      "date": "2010-11-01",
+      "year": 2010,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "刘慈欣",
+          "en": "刘慈欣"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "硬科幻",
+          "en": "硬科幻"
+        },
+        {
+          "zh": "三体",
+          "en": "三体"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "地球往事三部曲",
+          "en": "地球往事三部曲"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "国产科幻",
+          "en": "国产科幻"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 1434,
+        "rank": 103,
+        "distribution": {
+          "1": 12,
+          "2": 2,
+          "3": 7,
+          "4": 9,
+          "5": 15,
+          "6": 45,
+          "7": 122,
+          "8": 387,
+          "9": 505,
+          "10": 330
+        },
+        "collect": 2035,
+        "wish": 96,
+        "doing": 28,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 10538）",
+            "url": "https://bgm.tv/subject/10538",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-118913",
+      "bangumiId": 118913,
+      "medium": "novel",
+      "title": {
+        "zh": "三日间的幸福",
+        "en": "三日間の幸福"
+      },
+      "date": "2013-12-25",
+      "year": 2013,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "三秋縋",
+          "en": "三秋縋"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "轻文学",
+          "en": "轻文学"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        },
+        {
+          "zh": "人生反省",
+          "en": "人生反省"
+        },
+        {
+          "zh": "三日間の幸福",
+          "en": "三日間の幸福"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 1494,
+        "rank": 1696,
+        "distribution": {
+          "1": 3,
+          "2": 1,
+          "3": 3,
+          "4": 13,
+          "5": 32,
+          "6": 121,
+          "7": 426,
+          "8": 644,
+          "9": 178,
+          "10": 73
+        },
+        "collect": 1987,
+        "wish": 580,
+        "doing": 64,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 118913）",
+            "url": "https://bgm.tv/subject/118913",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-343241",
+      "bangumiId": 343241,
+      "medium": "novel",
+      "title": {
+        "zh": "败犬女主太多了！",
+        "en": "負けヒロインが多すぎる！"
+      },
+      "date": "2021-07-21",
+      "year": 2021,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "败犬",
+          "en": "败犬"
+        },
+        {
+          "zh": "搞笑",
+          "en": "搞笑"
+        },
+        {
+          "zh": "雨森たきび",
+          "en": "雨森たきび"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "恋爱喜剧",
+          "en": "恋爱喜剧"
+        }
+      ],
+      "episodes": 10,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 2561,
+        "rank": 780,
+        "distribution": {
+          "1": 20,
+          "2": 3,
+          "3": 3,
+          "4": 7,
+          "5": 33,
+          "6": 132,
+          "7": 526,
+          "8": 1186,
+          "9": 419,
+          "10": 232
+        },
+        "collect": 1946,
+        "wish": 1142,
+        "doing": 2361,
+        "dropped": 65
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 343241）",
+            "url": "https://bgm.tv/subject/343241",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-6686",
+      "bangumiId": 6686,
+      "medium": "novel",
+      "title": {
+        "zh": "白夜行",
+        "en": "白夜行"
+      },
+      "date": "2002-05-17",
+      "year": 2002,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "东野圭吾",
+          "en": "东野圭吾"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "犯罪",
+          "en": "犯罪"
+        },
+        {
+          "zh": "沒有救贖",
+          "en": "沒有救贖"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "悲傷",
+          "en": "悲傷"
+        },
+        {
+          "zh": "虐",
+          "en": "虐"
+        }
+      ],
+      "episodes": 1,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 1354,
+        "rank": 742,
+        "distribution": {
+          "1": 4,
+          "2": 6,
+          "3": 4,
+          "4": 15,
+          "5": 30,
+          "6": 94,
+          "7": 243,
+          "8": 522,
+          "9": 285,
+          "10": 151
+        },
+        "collect": 1868,
+        "wish": 175,
+        "doing": 44,
+        "dropped": 18
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 6686）",
+            "url": "https://bgm.tv/subject/6686",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-289878",
+      "bangumiId": 289878,
+      "medium": "novel",
+      "title": {
+        "zh": "通往夏天的隧道，再见的出口",
+        "en": "夏へのトンネル、さよならの出口"
+      },
+      "date": "2019-07-18",
+      "year": 2019,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "八目迷",
+          "en": "八目迷"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "轻文学",
+          "en": "轻文学"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "2019",
+          "en": "2019"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.9,
+        "ratingCount": 1230,
+        "rank": 6837,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 5,
+          "4": 22,
+          "5": 75,
+          "6": 318,
+          "7": 526,
+          "8": 215,
+          "9": 44,
+          "10": 25
+        },
+        "collect": 1719,
+        "wish": 324,
+        "doing": 71,
+        "dropped": 10
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 289878）",
+            "url": "https://bgm.tv/subject/289878",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-81467",
+      "bangumiId": 81467,
+      "medium": "novel",
+      "title": {
+        "zh": "安达与岛村",
+        "en": "安達としまむら"
+      },
+      "date": "2013-03-10",
+      "year": 2013,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "百合",
+          "en": "百合"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "入間人間",
+          "en": "入間人間"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "安达与岛村",
+          "en": "安达与岛村"
+        },
+        {
+          "zh": "入间人间",
+          "en": "入间人间"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 13,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.8,
+        "ratingCount": 1747,
+        "rank": 38,
+        "distribution": {
+          "1": 5,
+          "2": 3,
+          "3": 3,
+          "4": 7,
+          "5": 8,
+          "6": 46,
+          "7": 131,
+          "8": 390,
+          "9": 646,
+          "10": 508
+        },
+        "collect": 1654,
+        "wish": 1504,
+        "doing": 1319,
+        "dropped": 52
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 81467）",
+            "url": "https://bgm.tv/subject/81467",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-505",
+      "bangumiId": 505,
+      "medium": "novel",
+      "title": {
+        "zh": "凉宫春日系列",
+        "en": "涼宮ハルヒ シリーズ"
+      },
+      "date": "2003-06-06",
+      "year": 2003,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "谷川流",
+          "en": "谷川流"
+        },
+        {
+          "zh": "凉宫春日",
+          "en": "凉宫春日"
+        },
+        {
+          "zh": "SOS",
+          "en": "SOS"
+        },
+        {
+          "zh": "长门有希",
+          "en": "长门有希"
+        },
+        {
+          "zh": "团长",
+          "en": "团长"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "吐槽",
+          "en": "吐槽"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.4,
+        "ratingCount": 1489,
+        "rank": 152,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 3,
+          "4": 8,
+          "5": 13,
+          "6": 46,
+          "7": 177,
+          "8": 476,
+          "9": 528,
+          "10": 235
+        },
+        "collect": 1642,
+        "wish": 650,
+        "doing": 577,
+        "dropped": 48
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 505）",
+            "url": "https://bgm.tv/subject/505",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-2176",
+      "bangumiId": 2176,
+      "medium": "novel",
+      "title": {
+        "zh": "人间失格",
+        "en": "人間失格"
+      },
+      "date": "1948-07-25",
+      "year": 1948,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "太宰治",
+          "en": "太宰治"
+        },
+        {
+          "zh": "人间失格",
+          "en": "人间失格"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "日本文学",
+          "en": "日本文学"
+        },
+        {
+          "zh": "黑暗系",
+          "en": "黑暗系"
+        },
+        {
+          "zh": "郁系",
+          "en": "郁系"
+        },
+        {
+          "zh": "无赖派",
+          "en": "无赖派"
+        },
+        {
+          "zh": "自杀",
+          "en": "自杀"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 1040,
+        "rank": 1003,
+        "distribution": {
+          "1": 6,
+          "2": 3,
+          "3": 1,
+          "4": 12,
+          "5": 22,
+          "6": 84,
+          "7": 240,
+          "8": 355,
+          "9": 214,
+          "10": 103
+        },
+        "collect": 1524,
+        "wish": 223,
+        "doing": 51,
+        "dropped": 9
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 2176）",
+            "url": "https://bgm.tv/subject/2176",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-26",
+      "bangumiId": 26,
+      "medium": "novel",
+      "title": {
+        "zh": "“文学少女”与渴望死亡的小丑",
+        "en": "“文学少女”と死にたがりの道化"
+      },
+      "date": "2006-04-28",
+      "year": 2006,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "文学少女",
+          "en": "文学少女"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "野村美月",
+          "en": "野村美月"
+        },
+        {
+          "zh": "人间失格",
+          "en": "人间失格"
+        },
+        {
+          "zh": "竹冈美穗",
+          "en": "竹冈美穗"
+        },
+        {
+          "zh": "文学少女与渴望死亡的小丑",
+          "en": "文学少女与渴望死亡的小丑"
+        },
+        {
+          "zh": "远子学姐",
+          "en": "远子学姐"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 1010,
+        "rank": 575,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 3,
+          "4": 6,
+          "5": 8,
+          "6": 73,
+          "7": 184,
+          "8": 403,
+          "9": 238,
+          "10": 94
+        },
+        "collect": 1498,
+        "wish": 112,
+        "doing": 30,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 26）",
+            "url": "https://bgm.tv/subject/26",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-1988",
+      "bangumiId": 1988,
+      "medium": "novel",
+      "title": {
+        "zh": "物语系列",
+        "en": "〈物語〉シリーズ"
+      },
+      "date": "2006-11-01",
+      "year": 2006,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "西尾維新",
+          "en": "西尾維新"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "化物語",
+          "en": "化物語"
+        },
+        {
+          "zh": "物语系列",
+          "en": "物语系列"
+        },
+        {
+          "zh": "吐槽",
+          "en": "吐槽"
+        },
+        {
+          "zh": "西尾维新",
+          "en": "西尾维新"
+        },
+        {
+          "zh": "战场原",
+          "en": "战场原"
+        },
+        {
+          "zh": "荡漾",
+          "en": "荡漾"
+        }
+      ],
+      "episodes": 32,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 1537,
+        "rank": 115,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 2,
+          "4": 5,
+          "5": 12,
+          "6": 44,
+          "7": 159,
+          "8": 504,
+          "9": 526,
+          "10": 283
+        },
+        "collect": 1468,
+        "wish": 953,
+        "doing": 778,
+        "dropped": 50
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 1988）",
+            "url": "https://bgm.tv/subject/1988",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-1177",
+      "bangumiId": 1177,
+      "medium": "novel",
+      "title": {
+        "zh": "戏言系列",
+        "en": "戯言シリーズ"
+      },
+      "date": "2002-02-05",
+      "year": 2002,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "西尾维新",
+          "en": "西尾维新"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "戏言",
+          "en": "戏言"
+        },
+        {
+          "zh": "伪推理",
+          "en": "伪推理"
+        },
+        {
+          "zh": "新本格",
+          "en": "新本格"
+        },
+        {
+          "zh": "神吐槽",
+          "en": "神吐槽"
+        },
+        {
+          "zh": "崩坏",
+          "en": "崩坏"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        }
+      ],
+      "episodes": 10,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 1100,
+        "rank": 217,
+        "distribution": {
+          "1": 0,
+          "2": 4,
+          "3": 5,
+          "4": 8,
+          "5": 10,
+          "6": 42,
+          "7": 180,
+          "8": 341,
+          "9": 301,
+          "10": 209
+        },
+        "collect": 1277,
+        "wish": 823,
+        "doing": 308,
+        "dropped": 30
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 1177）",
+            "url": "https://bgm.tv/subject/1177",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-27902",
+      "bangumiId": 27902,
+      "medium": "novel",
+      "title": {
+        "zh": "冰菓",
+        "en": "氷菓"
+      },
+      "date": "2001-10-01",
+      "year": 2001,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "米泽穗信",
+          "en": "米泽穗信"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "古典部系列",
+          "en": "古典部系列"
+        },
+        {
+          "zh": "氷菓",
+          "en": "氷菓"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 859,
+        "rank": 677,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 1,
+          "5": 12,
+          "6": 50,
+          "7": 174,
+          "8": 389,
+          "9": 158,
+          "10": 73
+        },
+        "collect": 1274,
+        "wish": 293,
+        "doing": 103,
+        "dropped": 19
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 27902）",
+            "url": "https://bgm.tv/subject/27902",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-507",
+      "bangumiId": 507,
+      "medium": "novel",
+      "title": {
+        "zh": "银河英雄传说",
+        "en": "銀河英雄伝説"
+      },
+      "date": "1982-11-30",
+      "year": 1982,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "田中芳树",
+          "en": "田中芳树"
+        },
+        {
+          "zh": "银河英雄传说",
+          "en": "银河英雄传说"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "我的征途是星辰大海",
+          "en": "我的征途是星辰大海"
+        },
+        {
+          "zh": "太空歌剧",
+          "en": "太空歌剧"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "神作",
+          "en": "神作"
+        },
+        {
+          "zh": "SF",
+          "en": "SF"
+        }
+      ],
+      "episodes": 10,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 1046,
+        "rank": 15,
+        "distribution": {
+          "1": 4,
+          "2": 1,
+          "3": 2,
+          "4": 3,
+          "5": 6,
+          "6": 20,
+          "7": 55,
+          "8": 184,
+          "9": 361,
+          "10": 410
+        },
+        "collect": 1174,
+        "wish": 1005,
+        "doing": 312,
+        "dropped": 34
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 507）",
+            "url": "https://bgm.tv/subject/507",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-10786",
+      "bangumiId": 10786,
+      "medium": "novel",
+      "title": {
+        "zh": "盗墓笔记",
+        "en": "盜墓筆記"
+      },
+      "date": "2007-09-17",
+      "year": 2007,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "盗墓笔记",
+          "en": "盗墓笔记"
+        },
+        {
+          "zh": "瓶邪",
+          "en": "瓶邪"
+        },
+        {
+          "zh": "南派三叔",
+          "en": "南派三叔"
+        },
+        {
+          "zh": "万年大坑",
+          "en": "万年大坑"
+        },
+        {
+          "zh": "小哥",
+          "en": "小哥"
+        },
+        {
+          "zh": "基",
+          "en": "基"
+        },
+        {
+          "zh": "天真",
+          "en": "天真"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 10,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 1063,
+        "rank": 425,
+        "distribution": {
+          "1": 10,
+          "2": 5,
+          "3": 5,
+          "4": 11,
+          "5": 15,
+          "6": 73,
+          "7": 177,
+          "8": 320,
+          "9": 225,
+          "10": 222
+        },
+        "collect": 1152,
+        "wish": 135,
+        "doing": 249,
+        "dropped": 45
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 10786）",
+            "url": "https://bgm.tv/subject/10786",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-280977",
+      "bangumiId": 280977,
+      "medium": "novel",
+      "title": {
+        "zh": "关于我在无意间被隔壁的天使变成废柴这件事",
+        "en": "お隣の天使様にいつの間にか駄目人間にされていた件"
+      },
+      "date": "2019-06-14",
+      "year": 2019,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "纯爱",
+          "en": "纯爱"
+        },
+        {
+          "zh": "狗粮",
+          "en": "狗粮"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "佐伯さん",
+          "en": "佐伯さん"
+        },
+        {
+          "zh": "GA文庫",
+          "en": "GA文庫"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        }
+      ],
+      "episodes": 13,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7,
+        "ratingCount": 1332,
+        "rank": 5713,
+        "distribution": {
+          "1": 10,
+          "2": 6,
+          "3": 12,
+          "4": 24,
+          "5": 96,
+          "6": 258,
+          "7": 431,
+          "8": 371,
+          "9": 64,
+          "10": 60
+        },
+        "collect": 1136,
+        "wish": 419,
+        "doing": 694,
+        "dropped": 159
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 280977）",
+            "url": "https://bgm.tv/subject/280977",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-37447",
+      "bangumiId": 37447,
+      "medium": "novel",
+      "title": {
+        "zh": "〈古典部〉系列",
+        "en": "〈古典部〉シリーズ"
+      },
+      "date": "2001-10-01",
+      "year": 2001,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "米泽穗信",
+          "en": "米泽穗信"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "古典部系列",
+          "en": "古典部系列"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "冰菓",
+          "en": "冰菓"
+        }
+      ],
+      "episodes": 6,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 883,
+        "rank": 216,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 4,
+          "6": 19,
+          "7": 102,
+          "8": 409,
+          "9": 253,
+          "10": 94
+        },
+        "collect": 1098,
+        "wish": 439,
+        "doing": 276,
+        "dropped": 20
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 37447）",
+            "url": "https://bgm.tv/subject/37447",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-920",
+      "bangumiId": 920,
+      "medium": "novel",
+      "title": {
+        "zh": "挪威的森林",
+        "en": "ノルウェイの森"
+      },
+      "date": "1987-09-04",
+      "year": 1987,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "村上春树",
+          "en": "村上春树"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "村上春樹",
+          "en": "村上春樹"
+        },
+        {
+          "zh": "意识流",
+          "en": "意识流"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        },
+        {
+          "zh": "挪威森林",
+          "en": "挪威森林"
+        },
+        {
+          "zh": "孤独",
+          "en": "孤独"
+        },
+        {
+          "zh": "林少华",
+          "en": "林少华"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 722,
+        "rank": 608,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 3,
+          "4": 3,
+          "5": 7,
+          "6": 47,
+          "7": 144,
+          "8": 285,
+          "9": 154,
+          "10": 77
+        },
+        "collect": 1019,
+        "wish": 124,
+        "doing": 35,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 920）",
+            "url": "https://bgm.tv/subject/920",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-123217",
+      "bangumiId": 123217,
+      "medium": "novel",
+      "title": {
+        "zh": "三国演义",
+        "en": "三國演義"
+      },
+      "date": null,
+      "year": 0,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "四大名著",
+          "en": "四大名著"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "罗贯中",
+          "en": "罗贯中"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "三国",
+          "en": "三国"
+        },
+        {
+          "zh": "历史",
+          "en": "历史"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "历史小说",
+          "en": "历史小说"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 641,
+        "rank": 19,
+        "distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 1,
+          "4": 2,
+          "5": 2,
+          "6": 14,
+          "7": 42,
+          "8": 99,
+          "9": 210,
+          "10": 267
+        },
+        "collect": 983,
+        "wish": 61,
+        "doing": 24,
+        "dropped": 8
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 123217）",
+            "url": "https://bgm.tv/subject/123217",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-251073",
+      "bangumiId": 251073,
+      "medium": "novel",
+      "title": {
+        "zh": "义忆",
+        "en": "君の話"
+      },
+      "date": "2018-07-19",
+      "year": 2018,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "三秋缒",
+          "en": "三秋缒"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "轻文学",
+          "en": "轻文学"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "虚无感",
+          "en": "虚无感"
+        },
+        {
+          "zh": "三秋縋",
+          "en": "三秋縋"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "致郁",
+          "en": "致郁"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 718,
+        "rank": 456,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 3,
+          "5": 7,
+          "6": 41,
+          "7": 122,
+          "8": 280,
+          "9": 187,
+          "10": 75
+        },
+        "collect": 918,
+        "wish": 480,
+        "doing": 65,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 251073）",
+            "url": "https://bgm.tv/subject/251073",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-117017",
+      "bangumiId": 117017,
+      "medium": "novel",
+      "title": {
+        "zh": "解忧杂货店",
+        "en": "ナミヤ雑貨店の奇蹟"
+      },
+      "date": "2014-11-22",
+      "year": 2014,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "東野圭吾",
+          "en": "東野圭吾"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "东野圭吾",
+          "en": "东野圭吾"
+        },
+        {
+          "zh": "多线时空",
+          "en": "多线时空"
+        },
+        {
+          "zh": "奇幻温情",
+          "en": "奇幻温情"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 623,
+        "rank": 2416,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 4,
+          "4": 5,
+          "5": 16,
+          "6": 85,
+          "7": 181,
+          "8": 229,
+          "9": 71,
+          "10": 30
+        },
+        "collect": 872,
+        "wish": 56,
+        "doing": 12,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 117017）",
+            "url": "https://bgm.tv/subject/117017",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-385991",
+      "bangumiId": 385991,
+      "medium": "novel",
+      "title": {
+        "zh": "我想成为你的眼泪",
+        "en": "わたしはあなたの涙になりたい"
+      },
+      "date": "2022-07-20",
+      "year": 2022,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "四季大雅",
+          "en": "四季大雅"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "催泪",
+          "en": "催泪"
+        },
+        {
+          "zh": "悲剧",
+          "en": "悲剧"
+        },
+        {
+          "zh": "生死",
+          "en": "生死"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "2022",
+          "en": "2022"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.4,
+        "ratingCount": 643,
+        "rank": 3122,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 13,
+          "4": 19,
+          "5": 39,
+          "6": 93,
+          "7": 142,
+          "8": 183,
+          "9": 104,
+          "10": 47
+        },
+        "collect": 829,
+        "wish": 463,
+        "doing": 44,
+        "dropped": 14
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 385991）",
+            "url": "https://bgm.tv/subject/385991",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-304096",
+      "bangumiId": 304096,
+      "medium": "novel",
+      "title": {
+        "zh": "在昨日的春天等待你",
+        "en": "きのうの春で、君を待つ"
+      },
+      "date": "2020-04-17",
+      "year": 2020,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "八目迷",
+          "en": "八目迷"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "轮回",
+          "en": "轮回"
+        },
+        {
+          "zh": "轻文学",
+          "en": "轻文学"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "幼驯染",
+          "en": "幼驯染"
+        },
+        {
+          "zh": "纯爱",
+          "en": "纯爱"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 606,
+        "rank": 5358,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 10,
+          "5": 30,
+          "6": 122,
+          "7": 249,
+          "8": 139,
+          "9": 38,
+          "10": 15
+        },
+        "collect": 821,
+        "wish": 219,
+        "doing": 47,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 304096）",
+            "url": "https://bgm.tv/subject/304096",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-50538",
+      "bangumiId": 50538,
+      "medium": "novel",
+      "title": {
+        "zh": "游戏人生",
+        "en": "ノーゲーム・ノーライフ"
+      },
+      "date": "2012-04-25",
+      "year": 2012,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "榎宮祐",
+          "en": "榎宮祐"
+        },
+        {
+          "zh": "游戏人生",
+          "en": "游戏人生"
+        },
+        {
+          "zh": "作者一人包办插画写作",
+          "en": "作者一人包办插画写作"
+        },
+        {
+          "zh": "妹控",
+          "en": "妹控"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "幻想",
+          "en": "幻想"
+        },
+        {
+          "zh": "NogameNolife",
+          "en": "NogameNolife"
+        }
+      ],
+      "episodes": 13,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 899,
+        "rank": 818,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 17,
+          "6": 49,
+          "7": 191,
+          "8": 417,
+          "9": 155,
+          "10": 65
+        },
+        "collect": 809,
+        "wish": 449,
+        "doing": 597,
+        "dropped": 50
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 50538）",
+            "url": "https://bgm.tv/subject/50538",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-573423",
+      "bangumiId": 573423,
+      "medium": "novel",
+      "title": {
+        "zh": "玩玩的恋爱关系",
+        "en": "あそびのかんけい"
+      },
+      "date": "2025-05-20",
+      "year": 2025,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "葵关南",
+          "en": "葵关南"
+        },
+        {
+          "zh": "恋爱喜剧",
+          "en": "恋爱喜剧"
+        },
+        {
+          "zh": "深崎暮人",
+          "en": "深崎暮人"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "误解系",
+          "en": "误解系"
+        }
+      ],
+      "episodes": 4,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 1165,
+        "rank": 508,
+        "distribution": {
+          "1": 3,
+          "2": 1,
+          "3": 1,
+          "4": 4,
+          "5": 12,
+          "6": 42,
+          "7": 171,
+          "8": 582,
+          "9": 281,
+          "10": 68
+        },
+        "collect": 806,
+        "wish": 1072,
+        "doing": 1358,
+        "dropped": 19
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 573423）",
+            "url": "https://bgm.tv/subject/573423",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-370560",
+      "bangumiId": 370560,
+      "medium": "novel",
+      "title": {
+        "zh": "我买下了与她的每周密会",
+        "en": "週に一度クラスメイトを買う話"
+      },
+      "date": "2023-02-17",
+      "year": 2023,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "百合",
+          "en": "百合"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "羽田宇佐",
+          "en": "羽田宇佐"
+        },
+        {
+          "zh": "扭曲",
+          "en": "扭曲"
+        },
+        {
+          "zh": "细腻",
+          "en": "细腻"
+        },
+        {
+          "zh": "WEB",
+          "en": "WEB"
+        }
+      ],
+      "episodes": 10,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 1388,
+        "rank": 266,
+        "distribution": {
+          "1": 8,
+          "2": 3,
+          "3": 1,
+          "4": 4,
+          "5": 24,
+          "6": 69,
+          "7": 215,
+          "8": 430,
+          "9": 389,
+          "10": 245
+        },
+        "collect": 804,
+        "wish": 1905,
+        "doing": 1646,
+        "dropped": 57
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 370560）",
+            "url": "https://bgm.tv/subject/370560",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-1831",
+      "bangumiId": 1831,
+      "medium": "novel",
+      "title": {
+        "zh": "全金属狂潮",
+        "en": "フルメタル・パニック!"
+      },
+      "date": "1998-09-18",
+      "year": 1998,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "贺东招二",
+          "en": "贺东招二"
+        },
+        {
+          "zh": "全金属狂潮",
+          "en": "全金属狂潮"
+        },
+        {
+          "zh": "军事狂",
+          "en": "军事狂"
+        },
+        {
+          "zh": "相良宗介",
+          "en": "相良宗介"
+        },
+        {
+          "zh": "军事",
+          "en": "军事"
+        },
+        {
+          "zh": "フルメタル・パニック!",
+          "en": "フルメタル・パニック!"
+        },
+        {
+          "zh": "萝卜",
+          "en": "萝卜"
+        }
+      ],
+      "episodes": 23,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.6,
+        "ratingCount": 704,
+        "rank": 68,
+        "distribution": {
+          "1": 3,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 7,
+          "6": 14,
+          "7": 63,
+          "8": 197,
+          "9": 263,
+          "10": 156
+        },
+        "collect": 804,
+        "wish": 721,
+        "doing": 184,
+        "dropped": 17
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 1831）",
+            "url": "https://bgm.tv/subject/1831",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-448224",
+      "bangumiId": 448224,
+      "medium": "novel",
+      "title": {
+        "zh": "象首迷宫",
+        "en": "エレファントヘッド"
+      },
+      "date": "2023-09-26",
+      "year": 2023,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "白井智之",
+          "en": "白井智之"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "猎奇",
+          "en": "猎奇"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "2023",
+          "en": "2023"
+        },
+        {
+          "zh": "设定系",
+          "en": "设定系"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.6,
+        "ratingCount": 591,
+        "rank": 79,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 2,
+          "5": 5,
+          "6": 17,
+          "7": 46,
+          "8": 165,
+          "9": 243,
+          "10": 111
+        },
+        "collect": 746,
+        "wish": 581,
+        "doing": 55,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 448224）",
+            "url": "https://bgm.tv/subject/448224",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-328731",
+      "bangumiId": 328731,
+      "medium": "novel",
+      "title": {
+        "zh": "义妹生活",
+        "en": "義妹生活"
+      },
+      "date": "2021-01-25",
+      "year": 2021,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "日常",
+          "en": "日常"
+        },
+        {
+          "zh": "义妹",
+          "en": "义妹"
+        },
+        {
+          "zh": "三河ごーすと",
+          "en": "三河ごーすと"
+        },
+        {
+          "zh": "兄妹",
+          "en": "兄妹"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "Hiten",
+          "en": "Hiten"
+        }
+      ],
+      "episodes": 18,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 954,
+        "rank": 5170,
+        "distribution": {
+          "1": 5,
+          "2": 4,
+          "3": 7,
+          "4": 24,
+          "5": 54,
+          "6": 154,
+          "7": 359,
+          "8": 238,
+          "9": 78,
+          "10": 31
+        },
+        "collect": 740,
+        "wish": 385,
+        "doing": 792,
+        "dropped": 73
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 328731）",
+            "url": "https://bgm.tv/subject/328731",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-78306",
+      "bangumiId": 78306,
+      "medium": "novel",
+      "title": {
+        "zh": "哈利·波特",
+        "en": "Harry Potter"
+      },
+      "date": "1997-06-26",
+      "year": 1997,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "J.K.罗琳",
+          "en": "J.K.罗琳"
+        },
+        {
+          "zh": "魔幻",
+          "en": "魔幻"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "英国",
+          "en": "英国"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "魔法",
+          "en": "魔法"
+        },
+        {
+          "zh": "童年",
+          "en": "童年"
+        }
+      ],
+      "episodes": 7,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 502,
+        "rank": 279,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 7,
+          "6": 23,
+          "7": 81,
+          "8": 167,
+          "9": 135,
+          "10": 85
+        },
+        "collect": 735,
+        "wish": 68,
+        "doing": 25,
+        "dropped": 10
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 78306）",
+            "url": "https://bgm.tv/subject/78306",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-123224",
+      "bangumiId": 123224,
+      "medium": "novel",
+      "title": {
+        "zh": "红楼梦",
+        "en": "紅樓夢"
+      },
+      "date": null,
+      "year": 0,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "四大名著",
+          "en": "四大名著"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "红楼梦",
+          "en": "红楼梦"
+        },
+        {
+          "zh": "曹雪芹",
+          "en": "曹雪芹"
+        },
+        {
+          "zh": "神作",
+          "en": "神作"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 530,
+        "rank": 23,
+        "distribution": {
+          "1": 10,
+          "2": 5,
+          "3": 5,
+          "4": 4,
+          "5": 5,
+          "6": 12,
+          "7": 24,
+          "8": 47,
+          "9": 125,
+          "10": 293
+        },
+        "collect": 718,
+        "wish": 114,
+        "doing": 70,
+        "dropped": 28
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 123224）",
+            "url": "https://bgm.tv/subject/123224",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-9706",
+      "bangumiId": 9706,
+      "medium": "novel",
+      "title": {
+        "zh": "宫泽贤治全集 第三卷",
+        "en": "宮澤賢治全集 第三卷"
+      },
+      "date": null,
+      "year": 0,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "宫泽贤治",
+          "en": "宫泽贤治"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "童话",
+          "en": "童话"
+        },
+        {
+          "zh": "日本文学",
+          "en": "日本文学"
+        },
+        {
+          "zh": "银河铁道之夜",
+          "en": "银河铁道之夜"
+        },
+        {
+          "zh": "宮沢賢治",
+          "en": "宮沢賢治"
+        },
+        {
+          "zh": "銀河鉄道の夜",
+          "en": "銀河鉄道の夜"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 435,
+        "rank": 257,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 6,
+          "6": 16,
+          "7": 54,
+          "8": 176,
+          "9": 131,
+          "10": 52
+        },
+        "collect": 658,
+        "wish": 304,
+        "doing": 54,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 9706）",
+            "url": "https://bgm.tv/subject/9706",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-300270",
+      "bangumiId": 300270,
+      "medium": "novel",
+      "title": {
+        "zh": "我们不可能成为恋人！绝对不行。 (※似乎可行？)",
+        "en": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）"
+      },
+      "date": "2020-02-21",
+      "year": 2020,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "百合",
+          "en": "百合"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "みかみてれん",
+          "en": "みかみてれん"
+        },
+        {
+          "zh": "后宫",
+          "en": "后宫"
+        },
+        {
+          "zh": "竹嶋えく",
+          "en": "竹嶋えく"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "欢乐",
+          "en": "欢乐"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 8,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.3,
+        "ratingCount": 802,
+        "rank": 3688,
+        "distribution": {
+          "1": 1,
+          "2": 3,
+          "3": 7,
+          "4": 10,
+          "5": 28,
+          "6": 109,
+          "7": 284,
+          "8": 281,
+          "9": 53,
+          "10": 26
+        },
+        "collect": 650,
+        "wish": 543,
+        "doing": 861,
+        "dropped": 52
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 300270）",
+            "url": "https://bgm.tv/subject/300270",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-219247",
+      "bangumiId": 219247,
+      "medium": "novel",
+      "title": {
+        "zh": "86―不存在的战区―",
+        "en": "86―エイティシックス―"
+      },
+      "date": "2017-02-10",
+      "year": 2017,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "反乌托邦",
+          "en": "反乌托邦"
+        },
+        {
+          "zh": "安里アサト",
+          "en": "安里アサト"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "战斗",
+          "en": "战斗"
+        },
+        {
+          "zh": "电击文库",
+          "en": "电击文库"
+        },
+        {
+          "zh": "2017",
+          "en": "2017"
+        },
+        {
+          "zh": "故事性",
+          "en": "故事性"
+        }
+      ],
+      "episodes": 14,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 657,
+        "rank": 5076,
+        "distribution": {
+          "1": 3,
+          "2": 2,
+          "3": 4,
+          "4": 10,
+          "5": 37,
+          "6": 113,
+          "7": 249,
+          "8": 179,
+          "9": 39,
+          "10": 21
+        },
+        "collect": 645,
+        "wish": 303,
+        "doing": 331,
+        "dropped": 58
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 219247）",
+            "url": "https://bgm.tv/subject/219247",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-290411",
+      "bangumiId": 290411,
+      "medium": "novel",
+      "title": {
+        "zh": "诡秘之主",
+        "en": "诡秘之主"
+      },
+      "date": "2019-01-31",
+      "year": 2019,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "克苏鲁神话",
+          "en": "克苏鲁神话"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "爱潜水的乌贼",
+          "en": "爱潜水的乌贼"
+        },
+        {
+          "zh": "西幻",
+          "en": "西幻"
+        },
+        {
+          "zh": "网络小说",
+          "en": "网络小说"
+        }
+      ],
+      "episodes": 27,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 490,
+        "rank": 654,
+        "distribution": {
+          "1": 6,
+          "2": 5,
+          "3": 3,
+          "4": 4,
+          "5": 6,
+          "6": 31,
+          "7": 71,
+          "8": 175,
+          "9": 122,
+          "10": 67
+        },
+        "collect": 623,
+        "wish": 149,
+        "doing": 79,
+        "dropped": 29
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 290411）",
+            "url": "https://bgm.tv/subject/290411",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-2148",
+      "bangumiId": 2148,
+      "medium": "novel",
+      "title": {
+        "zh": "姑获鸟之夏",
+        "en": "姑獲鳥の夏"
+      },
+      "date": "1994-09-01",
+      "year": 1994,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "京极夏彦",
+          "en": "京极夏彦"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "京极堂系列",
+          "en": "京极堂系列"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "妖怪",
+          "en": "妖怪"
+        },
+        {
+          "zh": "京極夏彥",
+          "en": "京極夏彥"
+        },
+        {
+          "zh": "其实你神马也没看见",
+          "en": "其实你神马也没看见"
+        },
+        {
+          "zh": "妖异推理",
+          "en": "妖异推理"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 468,
+        "rank": 1226,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 4,
+          "5": 14,
+          "6": 40,
+          "7": 118,
+          "8": 167,
+          "9": 86,
+          "10": 38
+        },
+        "collect": 602,
+        "wish": 150,
+        "doing": 33,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 2148）",
+            "url": "https://bgm.tv/subject/2148",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-26854",
+      "bangumiId": 26854,
+      "medium": "novel",
+      "title": {
+        "zh": "〈小市民〉系列",
+        "en": "〈小市民〉シリーズ"
+      },
+      "date": "2004-12-18",
+      "year": 2004,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "米泽穗信",
+          "en": "米泽穗信"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "小市民系列",
+          "en": "小市民系列"
+        },
+        {
+          "zh": "日常推理",
+          "en": "日常推理"
+        }
+      ],
+      "episodes": 7,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 472,
+        "rank": 1560,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 3,
+          "4": 0,
+          "5": 6,
+          "6": 31,
+          "7": 132,
+          "8": 223,
+          "9": 54,
+          "10": 21
+        },
+        "collect": 584,
+        "wish": 286,
+        "doing": 161,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 26854）",
+            "url": "https://bgm.tv/subject/26854",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-22412",
+      "bangumiId": 22412,
+      "medium": "novel",
+      "title": {
+        "zh": "雨天的艾莉丝",
+        "en": "雨の日のアイリス"
+      },
+      "date": "2011-05-10",
+      "year": 2011,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "松山刚",
+          "en": "松山刚"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "机器人",
+          "en": "机器人"
+        },
+        {
+          "zh": "百合",
+          "en": "百合"
+        },
+        {
+          "zh": "SF",
+          "en": "SF"
+        },
+        {
+          "zh": "雨天的爱丽丝",
+          "en": "雨天的爱丽丝"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 443,
+        "rank": 1097,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 8,
+          "6": 27,
+          "7": 114,
+          "8": 197,
+          "9": 81,
+          "10": 16
+        },
+        "collect": 582,
+        "wish": 472,
+        "doing": 40,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 22412）",
+            "url": "https://bgm.tv/subject/22412",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-11333",
+      "bangumiId": 11333,
+      "medium": "novel",
+      "title": {
+        "zh": "小王子",
+        "en": "Le Petit Prince"
+      },
+      "date": null,
+      "year": 0,
+      "country": "FR",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "童话",
+          "en": "童话"
+        },
+        {
+          "zh": "治愈",
+          "en": "治愈"
+        },
+        {
+          "zh": "哲学",
+          "en": "哲学"
+        },
+        {
+          "zh": "埃克苏佩里",
+          "en": "埃克苏佩里"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "儿童文学",
+          "en": "儿童文学"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 341,
+        "rank": 240,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 2,
+          "6": 19,
+          "7": 58,
+          "8": 104,
+          "9": 87,
+          "10": 69
+        },
+        "collect": 563,
+        "wish": 38,
+        "doing": 9,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 11333）",
+            "url": "https://bgm.tv/subject/11333",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-545083",
+      "bangumiId": 545083,
+      "medium": "novel",
+      "title": {
+        "zh": "あそびのかんけい",
+        "en": "あそびのかんけい"
+      },
+      "date": "2025-05-20",
+      "year": 2025,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "葵せきな",
+          "en": "葵せきな"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "深崎暮人",
+          "en": "深崎暮人"
+        },
+        {
+          "zh": "恋爱喜剧",
+          "en": "恋爱喜剧"
+        },
+        {
+          "zh": "2025",
+          "en": "2025"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "葵关南",
+          "en": "葵关南"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 419,
+        "rank": 1105,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 2,
+          "6": 16,
+          "7": 107,
+          "8": 229,
+          "9": 53,
+          "10": 11
+        },
+        "collect": 546,
+        "wish": 176,
+        "doing": 58,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 545083）",
+            "url": "https://bgm.tv/subject/545083",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-84106",
+      "bangumiId": 84106,
+      "medium": "novel",
+      "title": {
+        "zh": "全职高手",
+        "en": "全职高手"
+      },
+      "date": "2012-04-01",
+      "year": 2012,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "荣耀",
+          "en": "荣耀"
+        },
+        {
+          "zh": "蝴蝶蓝",
+          "en": "蝴蝶蓝"
+        },
+        {
+          "zh": "全职高手",
+          "en": "全职高手"
+        },
+        {
+          "zh": "全职",
+          "en": "全职"
+        },
+        {
+          "zh": "网络竞技",
+          "en": "网络竞技"
+        },
+        {
+          "zh": "叶不羞",
+          "en": "叶不羞"
+        },
+        {
+          "zh": "热血",
+          "en": "热血"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        }
+      ],
+      "episodes": 24,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.8,
+        "ratingCount": 467,
+        "rank": 1077,
+        "distribution": {
+          "1": 25,
+          "2": 2,
+          "3": 3,
+          "4": 4,
+          "5": 9,
+          "6": 30,
+          "7": 70,
+          "8": 139,
+          "9": 75,
+          "10": 110
+        },
+        "collect": 523,
+        "wish": 57,
+        "doing": 94,
+        "dropped": 41
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 84106）",
+            "url": "https://bgm.tv/subject/84106",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-123576",
+      "bangumiId": 123576,
+      "medium": "novel",
+      "title": {
+        "zh": "动物庄园",
+        "en": "Animal Farm: A Fairy Story"
+      },
+      "date": "1945-08-17",
+      "year": 1945,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "乔治·奥威尔",
+          "en": "乔治·奥威尔"
+        },
+        {
+          "zh": "反乌托邦",
+          "en": "反乌托邦"
+        },
+        {
+          "zh": "讽刺",
+          "en": "讽刺"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        },
+        {
+          "zh": "1945",
+          "en": "1945"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 357,
+        "rank": 158,
+        "distribution": {
+          "1": 2,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 3,
+          "6": 18,
+          "7": 42,
+          "8": 93,
+          "9": 128,
+          "10": 70
+        },
+        "collect": 520,
+        "wish": 93,
+        "doing": 9,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 123576）",
+            "url": "https://bgm.tv/subject/123576",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-357437",
+      "bangumiId": 357437,
+      "medium": "novel",
+      "title": {
+        "zh": "银荆的告白",
+        "en": "ミモザの告白"
+      },
+      "date": "2021-07-21",
+      "year": 2021,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "八目迷",
+          "en": "八目迷"
+        },
+        {
+          "zh": "跨性别",
+          "en": "跨性别"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "伪娘",
+          "en": "伪娘"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "性别障碍",
+          "en": "性别障碍"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        }
+      ],
+      "episodes": 5,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.1,
+        "ratingCount": 460,
+        "rank": 4870,
+        "distribution": {
+          "1": 3,
+          "2": 2,
+          "3": 2,
+          "4": 10,
+          "5": 31,
+          "6": 68,
+          "7": 148,
+          "8": 156,
+          "9": 28,
+          "10": 12
+        },
+        "collect": 512,
+        "wish": 455,
+        "doing": 182,
+        "dropped": 32
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 357437）",
+            "url": "https://bgm.tv/subject/357437",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-113242",
+      "bangumiId": 113242,
+      "medium": "novel",
+      "title": {
+        "zh": "魔戒",
+        "en": "The Lord of the Rings"
+      },
+      "date": "1954-07-29",
+      "year": 1954,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "J.R.R.Tolkien",
+          "en": "J.R.R.Tolkien"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "史诗",
+          "en": "史诗"
+        },
+        {
+          "zh": "托尔金",
+          "en": "托尔金"
+        },
+        {
+          "zh": "中土大陆",
+          "en": "中土大陆"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        }
+      ],
+      "episodes": 3,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 9,
+        "ratingCount": 375,
+        "rank": 14,
+        "distribution": {
+          "1": 2,
+          "2": 2,
+          "3": 1,
+          "4": 1,
+          "5": 3,
+          "6": 5,
+          "7": 21,
+          "8": 56,
+          "9": 102,
+          "10": 182
+        },
+        "collect": 496,
+        "wish": 232,
+        "doing": 54,
+        "dropped": 13
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 113242）",
+            "url": "https://bgm.tv/subject/113242",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-145130",
+      "bangumiId": 145130,
+      "medium": "novel",
+      "title": {
+        "zh": "斗破苍穹",
+        "en": "斗破苍穹"
+      },
+      "date": "2010-07-01",
+      "year": 2010,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "玄幻",
+          "en": "玄幻"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "网络小说",
+          "en": "网络小说"
+        },
+        {
+          "zh": "天蚕土豆",
+          "en": "天蚕土豆"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "热血",
+          "en": "热血"
+        },
+        {
+          "zh": "已完结",
+          "en": "已完结"
+        }
+      ],
+      "episodes": 30,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.4,
+        "ratingCount": 325,
+        "rank": 9119,
+        "distribution": {
+          "1": 5,
+          "2": 5,
+          "3": 6,
+          "4": 9,
+          "5": 39,
+          "6": 92,
+          "7": 104,
+          "8": 47,
+          "9": 14,
+          "10": 4
+        },
+        "collect": 480,
+        "wish": 20,
+        "doing": 12,
+        "dropped": 22
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 145130）",
+            "url": "https://bgm.tv/subject/145130",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-451198",
+      "bangumiId": 451198,
+      "medium": "novel",
+      "title": {
+        "zh": "谁杀了勇者",
+        "en": "誰が勇者を殺したか"
+      },
+      "date": "2023-09-29",
+      "year": 2023,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "駄犬",
+          "en": "駄犬"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "角川スニーカー文庫",
+          "en": "角川スニーカー文庫"
+        },
+        {
+          "zh": "日本",
+          "en": "日本"
+        },
+        {
+          "zh": "异世界",
+          "en": "异世界"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 360,
+        "rank": 1404,
+        "distribution": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 0,
+          "5": 3,
+          "6": 22,
+          "7": 92,
+          "8": 186,
+          "9": 45,
+          "10": 10
+        },
+        "collect": 440,
+        "wish": 246,
+        "doing": 42,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 451198）",
+            "url": "https://bgm.tv/subject/451198",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-414466",
+      "bangumiId": 414466,
+      "medium": "novel",
+      "title": {
+        "zh": "名侦探的献祭",
+        "en": "名探偵のいけにえ―人民教会殺人事件―"
+      },
+      "date": "2022-09-15",
+      "year": 2022,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "白井智之",
+          "en": "白井智之"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "设定系",
+          "en": "设定系"
+        },
+        {
+          "zh": "2022",
+          "en": "2022"
+        },
+        {
+          "zh": "本格推理",
+          "en": "本格推理"
+        },
+        {
+          "zh": "本格",
+          "en": "本格"
+        }
+      ],
+      "episodes": 1,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 346,
+        "rank": 984,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 2,
+          "4": 5,
+          "5": 6,
+          "6": 28,
+          "7": 58,
+          "8": 133,
+          "9": 92,
+          "10": 20
+        },
+        "collect": 420,
+        "wish": 151,
+        "doing": 32,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 414466）",
+            "url": "https://bgm.tv/subject/414466",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-16672",
+      "bangumiId": 16672,
+      "medium": "novel",
+      "title": {
+        "zh": "冰与火之歌",
+        "en": "A Song of Ice and Fire"
+      },
+      "date": "1996-08-01",
+      "year": 1996,
+      "country": "US",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "史诗",
+          "en": "史诗"
+        },
+        {
+          "zh": "冰與火之歌",
+          "en": "冰與火之歌"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "中世纪",
+          "en": "中世纪"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "George.R.R.Matin",
+          "en": "George.R.R.Matin"
+        },
+        {
+          "zh": "冰与火之歌",
+          "en": "冰与火之歌"
+        }
+      ],
+      "episodes": 7,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.7,
+        "ratingCount": 420,
+        "rank": 47,
+        "distribution": {
+          "1": 2,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 5,
+          "6": 6,
+          "7": 31,
+          "8": 98,
+          "9": 157,
+          "10": 119
+        },
+        "collect": 419,
+        "wish": 318,
+        "doing": 197,
+        "dropped": 19
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 16672）",
+            "url": "https://bgm.tv/subject/16672",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-45933",
+      "bangumiId": 45933,
+      "medium": "novel",
+      "title": {
+        "zh": "悲惨世界",
+        "en": "Les Misérables"
+      },
+      "date": null,
+      "year": 0,
+      "country": "FR",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "雨果",
+          "en": "雨果"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "法国",
+          "en": "法国"
+        },
+        {
+          "zh": "悲惨世界",
+          "en": "悲惨世界"
+        },
+        {
+          "zh": "革命",
+          "en": "革命"
+        },
+        {
+          "zh": "人类苦难的百科全书",
+          "en": "人类苦难的百科全书"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.9,
+        "ratingCount": 286,
+        "rank": 33,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 5,
+          "6": 7,
+          "7": 19,
+          "8": 50,
+          "9": 98,
+          "10": 106
+        },
+        "collect": 409,
+        "wish": 134,
+        "doing": 30,
+        "dropped": 6
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 45933）",
+            "url": "https://bgm.tv/subject/45933",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-396073",
+      "bangumiId": 396073,
+      "medium": "novel",
+      "title": {
+        "zh": "无人生还",
+        "en": "And Then There Were None"
+      },
+      "date": "1939-11-06",
+      "year": 1939,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "阿加莎·克里斯蒂",
+          "en": "阿加莎·克里斯蒂"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "暴风雪山庄",
+          "en": "暴风雪山庄"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "谋杀",
+          "en": "谋杀"
+        },
+        {
+          "zh": "先驱",
+          "en": "先驱"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 277,
+        "rank": 479,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 2,
+          "5": 4,
+          "6": 10,
+          "7": 45,
+          "8": 117,
+          "9": 67,
+          "10": 31
+        },
+        "collect": 407,
+        "wish": 51,
+        "doing": 6,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 396073）",
+            "url": "https://bgm.tv/subject/396073",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-410685",
+      "bangumiId": 410685,
+      "medium": "novel",
+      "title": {
+        "zh": "东方快车谋杀案",
+        "en": "Murder on the Orient Express"
+      },
+      "date": "1934-01-01",
+      "year": 1934,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "阿加莎·克里斯蒂",
+          "en": "阿加莎·克里斯蒂"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "波洛",
+          "en": "波洛"
+        },
+        {
+          "zh": "犯罪",
+          "en": "犯罪"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.3,
+        "ratingCount": 272,
+        "rank": 261,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 7,
+          "6": 12,
+          "7": 29,
+          "8": 95,
+          "9": 94,
+          "10": 35
+        },
+        "collect": 384,
+        "wish": 77,
+        "doing": 6,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 410685）",
+            "url": "https://bgm.tv/subject/410685",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-410317",
+      "bangumiId": 410317,
+      "medium": "novel",
+      "title": {
+        "zh": "我们在「解读」上犯了错误",
+        "en": "僕らは『読み』を間違える"
+      },
+      "date": "2022-12-01",
+      "year": 2022,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "水鏡月聖",
+          "en": "水鏡月聖"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "轻厉",
+          "en": "轻厉"
+        },
+        {
+          "zh": "角川スニーカー文庫",
+          "en": "角川スニーカー文庫"
+        },
+        {
+          "zh": "推理",
+          "en": "推理"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 383,
+        "rank": 483,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 1,
+          "5": 5,
+          "6": 17,
+          "7": 66,
+          "8": 152,
+          "9": 107,
+          "10": 33
+        },
+        "collect": 374,
+        "wish": 532,
+        "doing": 214,
+        "dropped": 12
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 410317）",
+            "url": "https://bgm.tv/subject/410317",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-484776",
+      "bangumiId": 484776,
+      "medium": "novel",
+      "title": {
+        "zh": "人妻教师被班里的女高中生迷得神魂颠倒的故事",
+        "en": "人妻教師が教え子の女子高生にドはまりする話"
+      },
+      "date": "2024-09-10",
+      "year": 2024,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "百合",
+          "en": "百合"
+        },
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "入間人間",
+          "en": "入間人間"
+        },
+        {
+          "zh": "师生",
+          "en": "师生"
+        },
+        {
+          "zh": "扭曲",
+          "en": "扭曲"
+        },
+        {
+          "zh": "出轨",
+          "en": "出轨"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "反伦常",
+          "en": "反伦常"
+        }
+      ],
+      "episodes": 3,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.4,
+        "ratingCount": 304,
+        "rank": 2676,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 1,
+          "4": 2,
+          "5": 11,
+          "6": 36,
+          "7": 93,
+          "8": 121,
+          "9": 29,
+          "10": 10
+        },
+        "collect": 351,
+        "wish": 352,
+        "doing": 195,
+        "dropped": 16
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 484776）",
+            "url": "https://bgm.tv/subject/484776",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-156705",
+      "bangumiId": 156705,
+      "medium": "novel",
+      "title": {
+        "zh": "老人与海",
+        "en": "The Old Man and the Sea"
+      },
+      "date": "1952-09-01",
+      "year": 1952,
+      "country": "US",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "海明威",
+          "en": "海明威"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        },
+        {
+          "zh": "文学",
+          "en": "文学"
+        },
+        {
+          "zh": "中篇小说",
+          "en": "中篇小说"
+        },
+        {
+          "zh": "Ernest_Hemingway",
+          "en": "Ernest_Hemingway"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 207,
+        "rank": 433,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 1,
+          "5": 3,
+          "6": 9,
+          "7": 36,
+          "8": 69,
+          "9": 56,
+          "10": 31
+        },
+        "collect": 348,
+        "wish": 27,
+        "doing": 5,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 156705）",
+            "url": "https://bgm.tv/subject/156705",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-187181",
+      "bangumiId": 187181,
+      "medium": "novel",
+      "title": {
+        "zh": "斗罗大陆",
+        "en": "斗罗大陆"
+      },
+      "date": "2009-09-01",
+      "year": 2009,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "唐家三少",
+          "en": "唐家三少"
+        },
+        {
+          "zh": "玄幻",
+          "en": "玄幻"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "斗罗大陆",
+          "en": "斗罗大陆"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "异世界",
+          "en": "异世界"
+        }
+      ],
+      "episodes": 20,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 5.1,
+        "ratingCount": 231,
+        "rank": 10637,
+        "distribution": {
+          "1": 19,
+          "2": 8,
+          "3": 20,
+          "4": 21,
+          "5": 52,
+          "6": 59,
+          "7": 34,
+          "8": 14,
+          "9": 2,
+          "10": 2
+        },
+        "collect": 347,
+        "wish": 6,
+        "doing": 4,
+        "dropped": 16
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 187181）",
+            "url": "https://bgm.tv/subject/187181",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-397510",
+      "bangumiId": 397510,
+      "medium": "novel",
+      "title": {
+        "zh": "罗杰疑案",
+        "en": "The Murder of Roger Ackroyd"
+      },
+      "date": null,
+      "year": 0,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "推理",
+          "en": "推理"
+        },
+        {
+          "zh": "阿加莎·克里斯蒂",
+          "en": "阿加莎·克里斯蒂"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "叙诡",
+          "en": "叙诡"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "叙述性诡计",
+          "en": "叙述性诡计"
+        },
+        {
+          "zh": "1926",
+          "en": "1926"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 243,
+        "rank": 161,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 4,
+          "7": 27,
+          "8": 78,
+          "9": 87,
+          "10": 43
+        },
+        "collect": 332,
+        "wish": 73,
+        "doing": 5,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 397510）",
+            "url": "https://bgm.tv/subject/397510",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-126238",
+      "bangumiId": 126238,
+      "medium": "novel",
+      "title": {
+        "zh": "献给阿尔吉侬的花束",
+        "en": "Flowers for Algernon"
+      },
+      "date": "1966-03-01",
+      "year": 1966,
+      "country": "US",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "献给阿尔吉侬的花束",
+          "en": "献给阿尔吉侬的花束"
+        },
+        {
+          "zh": "人文主义",
+          "en": "人文主义"
+        },
+        {
+          "zh": "心理学",
+          "en": "心理学"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "1966",
+          "en": "1966"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 227,
+        "rank": 170,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 7,
+          "7": 25,
+          "8": 69,
+          "9": 91,
+          "10": 33
+        },
+        "collect": 320,
+        "wish": 119,
+        "doing": 25,
+        "dropped": 0
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 126238）",
+            "url": "https://bgm.tv/subject/126238",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-182843",
+      "bangumiId": 182843,
+      "medium": "novel",
+      "title": {
+        "zh": "基督山伯爵",
+        "en": "Le Comte de Monte-Cristo"
+      },
+      "date": null,
+      "year": 0,
+      "country": "FR",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "大仲马",
+          "en": "大仲马"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "世界名著",
+          "en": "世界名著"
+        },
+        {
+          "zh": "复仇",
+          "en": "复仇"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "爽文",
+          "en": "爽文"
+        },
+        {
+          "zh": "通俗小说",
+          "en": "通俗小说"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 203,
+        "rank": 468,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 2,
+          "6": 11,
+          "7": 39,
+          "8": 63,
+          "9": 62,
+          "10": 24
+        },
+        "collect": 299,
+        "wish": 67,
+        "doing": 18,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 182843）",
+            "url": "https://bgm.tv/subject/182843",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-115781",
+      "bangumiId": 115781,
+      "medium": "novel",
+      "title": {
+        "zh": "海底两万里",
+        "en": "Vingt Mille Lieues Sous Les Mers"
+      },
+      "date": "1869-11-28",
+      "year": 1869,
+      "country": "FR",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "儒勒凡尔纳",
+          "en": "儒勒凡尔纳"
+        },
+        {
+          "zh": "法国",
+          "en": "法国"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        },
+        {
+          "zh": "儒勒·凡尔纳",
+          "en": "儒勒·凡尔纳"
+        },
+        {
+          "zh": "英国",
+          "en": "英国"
+        }
+      ],
+      "episodes": 2,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.6,
+        "ratingCount": 172,
+        "rank": 1913,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 2,
+          "5": 5,
+          "6": 11,
+          "7": 50,
+          "8": 67,
+          "9": 27,
+          "10": 8
+        },
+        "collect": 291,
+        "wish": 14,
+        "doing": 6,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 115781）",
+            "url": "https://bgm.tv/subject/115781",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-185503",
+      "bangumiId": 185503,
+      "medium": "novel",
+      "title": {
+        "zh": "一九八四",
+        "en": "Nineteen Eighty-Four"
+      },
+      "date": "1984-06-08",
+      "year": 1984,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "反乌托邦",
+          "en": "反乌托邦"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "乔治奥威尔",
+          "en": "乔治奥威尔"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "乔治·奥威尔",
+          "en": "乔治·奥威尔"
+        },
+        {
+          "zh": "政治寓言",
+          "en": "政治寓言"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 181,
+        "rank": 191,
+        "distribution": {
+          "1": 1,
+          "2": 2,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 6,
+          "7": 19,
+          "8": 51,
+          "9": 62,
+          "10": 39
+        },
+        "collect": 264,
+        "wish": 33,
+        "doing": 9,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 185503）",
+            "url": "https://bgm.tv/subject/185503",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-233895",
+      "bangumiId": 233895,
+      "medium": "novel",
+      "title": {
+        "zh": "鲁滨逊漂流记",
+        "en": "The Life and Strange Surprizing Adventures of Robinson Crusoe, of York, Mariner: Who lived Eight and Twenty Years, all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, wherein all the Men perished but himself. With An Account how he was at last as strangely deliver'd by Pyrates. Written by Himself."
+      },
+      "date": "1719-04-25",
+      "year": 1719,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "文学",
+          "en": "文学"
+        },
+        {
+          "zh": "冒险",
+          "en": "冒险"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        },
+        {
+          "zh": "Daniel_Defoe",
+          "en": "Daniel_Defoe"
+        },
+        {
+          "zh": "英国",
+          "en": "英国"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 145,
+        "rank": 2312,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 15,
+          "7": 50,
+          "8": 61,
+          "9": 8,
+          "10": 8
+        },
+        "collect": 260,
+        "wish": 9,
+        "doing": 3,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 233895）",
+            "url": "https://bgm.tv/subject/233895",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-78309",
+      "bangumiId": 78309,
+      "medium": "novel",
+      "title": {
+        "zh": "哈利·波特与魔法石",
+        "en": "Harry Potter and the Philosopher's Stone"
+      },
+      "date": "1997-06-26",
+      "year": 1997,
+      "country": "GB",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "哈利波特",
+          "en": "哈利波特"
+        },
+        {
+          "zh": "J.K.罗琳",
+          "en": "J.K.罗琳"
+        },
+        {
+          "zh": "英国",
+          "en": "英国"
+        },
+        {
+          "zh": "魔幻",
+          "en": "魔幻"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "J.K.Rowling",
+          "en": "J.K.Rowling"
+        },
+        {
+          "zh": "JK罗琳",
+          "en": "JK罗琳"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8,
+        "ratingCount": 156,
+        "rank": 863,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 3,
+          "6": 11,
+          "7": 39,
+          "8": 57,
+          "9": 26,
+          "10": 20
+        },
+        "collect": 253,
+        "wish": 8,
+        "doing": 3,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 78309）",
+            "url": "https://bgm.tv/subject/78309",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-505472",
+      "bangumiId": 505472,
+      "medium": "novel",
+      "title": {
+        "zh": "这里是终局停滞委员会。",
+        "en": "こちら、終末停滞委員会。"
+      },
+      "date": "2024-07-10",
+      "year": 2024,
+      "country": "JP",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "逢縁奇演",
+          "en": "逢縁奇演"
+        },
+        {
+          "zh": "恋爱",
+          "en": "恋爱"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "校园",
+          "en": "校园"
+        },
+        {
+          "zh": "青春",
+          "en": "青春"
+        },
+        {
+          "zh": "電撃文庫",
+          "en": "電撃文庫"
+        }
+      ],
+      "episodes": 6,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 362,
+        "rank": 492,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 8,
+          "6": 12,
+          "7": 65,
+          "8": 152,
+          "9": 86,
+          "10": 38
+        },
+        "collect": 249,
+        "wish": 858,
+        "doing": 443,
+        "dropped": 19
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 505472）",
+            "url": "https://bgm.tv/subject/505472",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-187196",
+      "bangumiId": 187196,
+      "medium": "novel",
+      "title": {
+        "zh": "斗罗大陆II 绝世唐门",
+        "en": "斗罗大陆II 绝世唐门"
+      },
+      "date": "2012-12-01",
+      "year": 2012,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "唐家三少",
+          "en": "唐家三少"
+        },
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "斗罗大陆II",
+          "en": "斗罗大陆II"
+        },
+        {
+          "zh": "绝世唐门",
+          "en": "绝世唐门"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "玄幻",
+          "en": "玄幻"
+        }
+      ],
+      "episodes": 26,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 5,
+        "ratingCount": 151,
+        "rank": 10646,
+        "distribution": {
+          "1": 12,
+          "2": 3,
+          "3": 8,
+          "4": 25,
+          "5": 43,
+          "6": 36,
+          "7": 18,
+          "8": 2,
+          "9": 1,
+          "10": 3
+        },
+        "collect": 216,
+        "wish": 3,
+        "doing": 10,
+        "dropped": 14
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 187196）",
+            "url": "https://bgm.tv/subject/187196",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-10788",
+      "bangumiId": 10788,
+      "medium": "novel",
+      "title": {
+        "zh": "盗墓笔记1",
+        "en": "盗墓笔记1"
+      },
+      "date": "2007-01-01",
+      "year": 2007,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "盗墓笔记",
+          "en": "盗墓笔记"
+        },
+        {
+          "zh": "南派三叔",
+          "en": "南派三叔"
+        },
+        {
+          "zh": "七星鲁王",
+          "en": "七星鲁王"
+        },
+        {
+          "zh": "瓶邪",
+          "en": "瓶邪"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "三叔",
+          "en": "三叔"
+        },
+        {
+          "zh": "三胖子",
+          "en": "三胖子"
+        },
+        {
+          "zh": "秦岭神树",
+          "en": "秦岭神树"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 151,
+        "rank": 1021,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 3,
+          "5": 2,
+          "6": 11,
+          "7": 22,
+          "8": 67,
+          "9": 26,
+          "10": 18
+        },
+        "collect": 215,
+        "wish": 14,
+        "doing": 1,
+        "dropped": 4
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 10788）",
+            "url": "https://bgm.tv/subject/10788",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-260829",
+      "bangumiId": 260829,
+      "medium": "novel",
+      "title": {
+        "zh": "凡人修仙传",
+        "en": "凡人修仙传"
+      },
+      "date": "2010-01-01",
+      "year": 2010,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "修仙",
+          "en": "修仙"
+        },
+        {
+          "zh": "凡人流",
+          "en": "凡人流"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "玄幻",
+          "en": "玄幻"
+        },
+        {
+          "zh": "2007",
+          "en": "2007"
+        },
+        {
+          "zh": "已完结",
+          "en": "已完结"
+        }
+      ],
+      "episodes": 24,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.6,
+        "ratingCount": 159,
+        "rank": 8064,
+        "distribution": {
+          "1": 4,
+          "2": 8,
+          "3": 2,
+          "4": 5,
+          "5": 14,
+          "6": 27,
+          "7": 47,
+          "8": 31,
+          "9": 12,
+          "10": 9
+        },
+        "collect": 212,
+        "wish": 18,
+        "doing": 33,
+        "dropped": 13
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 260829）",
+            "url": "https://bgm.tv/subject/260829",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-136481",
+      "bangumiId": 136481,
+      "medium": "novel",
+      "title": {
+        "zh": "局外人",
+        "en": "L'Étranger"
+      },
+      "date": "1942-05-19",
+      "year": 1942,
+      "country": "FR",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "加缪",
+          "en": "加缪"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "荒诞",
+          "en": "荒诞"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "存在主义",
+          "en": "存在主义"
+        },
+        {
+          "zh": "西方文学",
+          "en": "西方文学"
+        },
+        {
+          "zh": "现代主义",
+          "en": "现代主义"
+        },
+        {
+          "zh": "文学",
+          "en": "文学"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.5,
+        "ratingCount": 123,
+        "rank": 242,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 4,
+          "7": 18,
+          "8": 42,
+          "9": 36,
+          "10": 23
+        },
+        "collect": 203,
+        "wish": 25,
+        "doing": 7,
+        "dropped": 0
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 136481）",
+            "url": "https://bgm.tv/subject/136481",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-10789",
+      "bangumiId": 10789,
+      "medium": "novel",
+      "title": {
+        "zh": "盗墓笔记2",
+        "en": "盗墓笔记2"
+      },
+      "date": "2007-04-01",
+      "year": 2007,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "盗墓笔记",
+          "en": "盗墓笔记"
+        },
+        {
+          "zh": "南派三叔",
+          "en": "南派三叔"
+        },
+        {
+          "zh": "瓶邪",
+          "en": "瓶邪"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "秦岭神树",
+          "en": "秦岭神树"
+        },
+        {
+          "zh": "三叔",
+          "en": "三叔"
+        },
+        {
+          "zh": "三胖子",
+          "en": "三胖子"
+        },
+        {
+          "zh": "我坚信秦岭神树在最后会再次提到",
+          "en": "我坚信秦岭神树在最后会再次提到"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 149,
+        "rank": 1076,
+        "distribution": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 11,
+          "7": 31,
+          "8": 63,
+          "9": 18,
+          "10": 21
+        },
+        "collect": 199,
+        "wish": 5,
+        "doing": 4,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 10789）",
+            "url": "https://bgm.tv/subject/10789",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-123176",
+      "bangumiId": 123176,
+      "medium": "novel",
+      "title": {
+        "zh": "神雕侠侣",
+        "en": "神鵰俠侶"
+      },
+      "date": null,
+      "year": 0,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "金庸",
+          "en": "金庸"
+        },
+        {
+          "zh": "武侠",
+          "en": "武侠"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "NTR",
+          "en": "NTR"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "江湖",
+          "en": "江湖"
+        },
+        {
+          "zh": "1959",
+          "en": "1959"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 126,
+        "rank": 1665,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 3,
+          "6": 12,
+          "7": 36,
+          "8": 52,
+          "9": 11,
+          "10": 12
+        },
+        "collect": 182,
+        "wish": 14,
+        "doing": 2,
+        "dropped": 3
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 123176）",
+            "url": "https://bgm.tv/subject/123176",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-490347",
+      "bangumiId": 490347,
+      "medium": "novel",
+      "title": {
+        "zh": "道诡异仙",
+        "en": "道诡异仙"
+      },
+      "date": "2024-10-19",
+      "year": 2024,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "克苏鲁",
+          "en": "克苏鲁"
+        },
+        {
+          "zh": "中国",
+          "en": "中国"
+        },
+        {
+          "zh": "精神病",
+          "en": "精神病"
+        },
+        {
+          "zh": "网络小说",
+          "en": "网络小说"
+        },
+        {
+          "zh": "克系",
+          "en": "克系"
+        },
+        {
+          "zh": "已完结",
+          "en": "已完结"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 135,
+        "rank": 1615,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 4,
+          "6": 10,
+          "7": 29,
+          "8": 54,
+          "9": 22,
+          "10": 12
+        },
+        "collect": 171,
+        "wish": 44,
+        "doing": 42,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 490347）",
+            "url": "https://bgm.tv/subject/490347",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-16625",
+      "bangumiId": 16625,
+      "medium": "novel",
+      "title": {
+        "zh": "权力的游戏",
+        "en": "A Game of Thrones"
+      },
+      "date": "1996-08-06",
+      "year": 1996,
+      "country": "US",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "冰与火之歌",
+          "en": "冰与火之歌"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "乔治·R·R·马丁",
+          "en": "乔治·R·R·马丁"
+        },
+        {
+          "zh": "史诗",
+          "en": "史诗"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "G·R·R·马丁",
+          "en": "G·R·R·马丁"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "杀与操",
+          "en": "杀与操"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.6,
+        "ratingCount": 116,
+        "rank": 168,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 2,
+          "7": 7,
+          "8": 37,
+          "9": 42,
+          "10": 25
+        },
+        "collect": 155,
+        "wish": 50,
+        "doing": 16,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 16625）",
+            "url": "https://bgm.tv/subject/16625",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-248220",
+      "bangumiId": 248220,
+      "medium": "novel",
+      "title": {
+        "zh": "异常生物见闻录",
+        "en": "异常生物见闻录"
+      },
+      "date": "2018-07-18",
+      "year": 2018,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "远瞳",
+          "en": "远瞳"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "希灵宇宙",
+          "en": "希灵宇宙"
+        },
+        {
+          "zh": "炸弹仁",
+          "en": "炸弹仁"
+        },
+        {
+          "zh": "走哪炸哪",
+          "en": "走哪炸哪"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        }
+      ],
+      "episodes": 19,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 111,
+        "rank": 1279,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 3,
+          "5": 2,
+          "6": 7,
+          "7": 20,
+          "8": 46,
+          "9": 21,
+          "10": 11
+        },
+        "collect": 152,
+        "wish": 49,
+        "doing": 11,
+        "dropped": 7
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 248220）",
+            "url": "https://bgm.tv/subject/248220",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-360386",
+      "bangumiId": 360386,
+      "medium": "novel",
+      "title": {
+        "zh": "黎明之剑",
+        "en": "黎明之剑"
+      },
+      "date": "2020-11-10",
+      "year": 2020,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "科幻",
+          "en": "科幻"
+        },
+        {
+          "zh": "网络小说",
+          "en": "网络小说"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "远瞳",
+          "en": "远瞳"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "起点中文网",
+          "en": "起点中文网"
+        },
+        {
+          "zh": "异世界",
+          "en": "异世界"
+        }
+      ],
+      "episodes": 9,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.1,
+        "ratingCount": 129,
+        "rank": 596,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 1,
+          "6": 11,
+          "7": 22,
+          "8": 43,
+          "9": 33,
+          "10": 18
+        },
+        "collect": 151,
+        "wish": 45,
+        "doing": 29,
+        "dropped": 9
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 360386）",
+            "url": "https://bgm.tv/subject/360386",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-182841",
+      "bangumiId": 182841,
+      "medium": "novel",
+      "title": {
+        "zh": "汤姆·索亚历险记",
+        "en": "The Adventures of Tom Sawyer"
+      },
+      "date": "1876-06-09",
+      "year": 1876,
+      "country": "US",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "名著",
+          "en": "名著"
+        },
+        {
+          "zh": "马克·吐温",
+          "en": "马克·吐温"
+        },
+        {
+          "zh": "童年",
+          "en": "童年"
+        },
+        {
+          "zh": "欧美",
+          "en": "欧美"
+        },
+        {
+          "zh": "美国",
+          "en": "美国"
+        },
+        {
+          "zh": "儿童文学",
+          "en": "儿童文学"
+        },
+        {
+          "zh": "长篇小说",
+          "en": "长篇小说"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.5,
+        "ratingCount": 74,
+        "rank": 2543,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 3,
+          "6": 6,
+          "7": 24,
+          "8": 31,
+          "9": 9,
+          "10": 1
+        },
+        "collect": 145,
+        "wish": 9,
+        "doing": 0,
+        "dropped": 0
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 182841）",
+            "url": "https://bgm.tv/subject/182841",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-1",
+      "bangumiId": 1,
+      "medium": "novel",
+      "title": {
+        "zh": "第一次的亲密接触",
+        "en": "第一次的親密接觸"
+      },
+      "date": "1998-09-25",
+      "year": 1998,
+      "country": "TW",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "痞子蔡",
+          "en": "痞子蔡"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "爱情",
+          "en": "爱情"
+        },
+        {
+          "zh": "轻舞飞扬",
+          "en": "轻舞飞扬"
+        },
+        {
+          "zh": "蔡智恒",
+          "en": "蔡智恒"
+        },
+        {
+          "zh": "台湾",
+          "en": "台湾"
+        },
+        {
+          "zh": "经典",
+          "en": "经典"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.7,
+        "ratingCount": 86,
+        "rank": 1938,
+        "distribution": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 10,
+          "7": 18,
+          "8": 39,
+          "9": 11,
+          "10": 6
+        },
+        "collect": 129,
+        "wish": 58,
+        "doing": 7,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 1）",
+            "url": "https://bgm.tv/subject/1",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-23445",
+      "bangumiId": 23445,
+      "medium": "novel",
+      "title": {
+        "zh": "鬼吹灯Ⅰ",
+        "en": "鬼吹灯Ⅰ"
+      },
+      "date": "2007-04-11",
+      "year": 2007,
+      "country": "CN",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "盗墓",
+          "en": "盗墓"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "奇幻",
+          "en": "奇幻"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "网文",
+          "en": "网文"
+        },
+        {
+          "zh": "恐怖",
+          "en": "恐怖"
+        },
+        {
+          "zh": "悬疑推理",
+          "en": "悬疑推理"
+        }
+      ],
+      "episodes": 4,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 8.2,
+        "ratingCount": 73,
+        "rank": 580,
+        "distribution": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 16,
+          "8": 23,
+          "9": 18,
+          "10": 13
+        },
+        "collect": 108,
+        "wish": 14,
+        "doing": 3,
+        "dropped": 2
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 23445）",
+            "url": "https://bgm.tv/subject/23445",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-281916",
+      "bangumiId": 281916,
+      "medium": "novel",
+      "title": {
+        "zh": "15岁的恐怖分子",
+        "en": "15歳のテロリスト"
+      },
+      "date": "2019-03-23",
+      "year": 2019,
+      "country": "GLOBAL",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "轻小说",
+          "en": "轻小说"
+        },
+        {
+          "zh": "松村涼哉",
+          "en": "松村涼哉"
+        },
+        {
+          "zh": "犯罪",
+          "en": "犯罪"
+        },
+        {
+          "zh": "小说",
+          "en": "小说"
+        },
+        {
+          "zh": "悬疑",
+          "en": "悬疑"
+        },
+        {
+          "zh": "轻文学",
+          "en": "轻文学"
+        },
+        {
+          "zh": "悬疑推理",
+          "en": "悬疑推理"
+        },
+        {
+          "zh": "一卷全",
+          "en": "一卷全"
+        }
+      ],
+      "episodes": 0,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 6.8,
+        "ratingCount": 49,
+        "rank": 6770,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 16,
+          "7": 25,
+          "8": 4,
+          "9": 1,
+          "10": 1
+        },
+        "collect": 72,
+        "wish": 36,
+        "doing": 2,
+        "dropped": 1
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 281916）",
+            "url": "https://bgm.tv/subject/281916",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bgm-107965",
+      "bangumiId": 107965,
+      "medium": "novel",
+      "title": {
+        "zh": "妖刀记",
+        "en": "妖刀記"
+      },
+      "date": "2008-03-28",
+      "year": 2008,
+      "country": "TW",
+      "platform": "小说",
+      "genres": [],
+      "tags": [
+        {
+          "zh": "后宫",
+          "en": "后宫"
+        },
+        {
+          "zh": "武侠",
+          "en": "武侠"
+        },
+        {
+          "zh": "国产",
+          "en": "国产"
+        },
+        {
+          "zh": "情色武侠",
+          "en": "情色武侠"
+        },
+        {
+          "zh": "默默猴",
+          "en": "默默猴"
+        },
+        {
+          "zh": "网络小说",
+          "en": "网络小说"
+        },
+        {
+          "zh": "妖刀记",
+          "en": "妖刀记"
+        },
+        {
+          "zh": "王道",
+          "en": "王道"
+        }
+      ],
+      "episodes": 50,
+      "episodeMinutes": null,
+      "status": "FINISHED",
+      "metrics": {
+        "score": 7.9,
+        "ratingCount": 34,
+        "rank": 1867,
+        "distribution": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 5,
+          "7": 6,
+          "8": 10,
+          "9": 7,
+          "10": 5
+        },
+        "collect": 47,
+        "wish": 25,
+        "doing": 13,
+        "dropped": 5
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "Bangumi 番組計劃（subject 107965）",
+            "url": "https://bgm.tv/subject/107965",
+            "fetchedAt": "2026-11-16",
+            "note": "評分、評分人數、收藏數為 Bangumi 公開資料快照"
+          }
+        ]
+      }
+    }
+  ]
+}
