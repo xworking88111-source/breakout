@@ -78,15 +78,10 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMetho
     <div className="home">
       <section className="hero">
         <div className="hero-copy">
-          <span className="kicker">
-            <i className="pulse" /> {t('home.kicker')} · v0.1
-          </span>
-          <h1>
-            {t('home.title.a')}
-            <br />
-            <span className="grad">{t('home.title.b')}</span>
-          </h1>
-          <p className="hero-sub">{t('home.sub')}</p>
+          <span className="kicker">{t('home.kicker')}</span>
+          <span className="hero-eyebrow">{t('home.eyebrow')}</span>
+          <h1>{t('home.title.a')}</h1>
+          <p className="hero-sub">{t('home.sub').replace('{n}', works.length.toLocaleString(lang === 'zh' ? 'zh-TW' : 'en-US'))}</p>
           <div className="hero-actions">
             <button className="btn btn-primary" onClick={() => onCharts()}>
               {t('home.cta.charts')} →
@@ -95,11 +90,6 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMetho
               {t('home.cta.method')}
             </button>
           </div>
-          <ul className="trust-row">
-            <li>{t('home.trust.1')}</li>
-            <li>{t('home.trust.2')}</li>
-            <li>{t('home.trust.3')}</li>
-          </ul>
           <div className="hero-stats">
             <div>
               <strong>{works.length}</strong>
@@ -122,9 +112,7 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMetho
         <div className="hero-panel">
           <div className="panel-head">
             <span>{t('home.hot')}</span>
-            <span className="panel-live">
-              <i className="pulse" /> LIVE
-            </span>
+            <span className="panel-date">{data.snapshotDate}</span>
           </div>
           <p className="panel-sub">{t('home.hot.sub')}</p>
           <div className="panel-list">
@@ -242,7 +230,7 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMetho
           </div>
           {related.length > 0 && (
             <p className="mood-related">
-              {lang === 'zh' ? '看過這部的人也看：' : 'Also considered: '}
+              {lang === 'zh' ? '相似作品：' : 'Similar: '}
               {related.map((r, i) => (
                 <button key={r.id} className="inline-link" onClick={() => onOpen(r.id)}>
                   {titleOf(r, lang)}

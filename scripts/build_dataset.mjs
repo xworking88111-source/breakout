@@ -539,7 +539,30 @@ async function main() {
 
   const merged = [...anime, ...novels, ...films, ...seeds]
   computeCrossoverAll(merged) // v0.2：正交化破圈維度 / orthogonalised crossover
-  const works = merged.map(scoreWork)
+  // 只發布「已逐筆驗證」的短劇（每部都有作品專屬頁面且標題可對上）。
+  // Publish only verified short dramas (per-title page with matching title).
+  const verification = await readJson(path.join(ROOT, 'data/verified-shortdrama.json'), { byId: {} })
+  const verifiedMap = verification.byId ?? {}
+  const excluded = []
+  const INCLUDE_UNVERIFIED = process.env.INCLUDE_UNVERIFIED === '1'
+  const publishable = merged.filter((w) => {
+    if (w.medium !== 'shortdrama') return true
+    if (INCLUDE_UNVERIFIED) return true
+    const v = verifiedMap[w.id]
+    if (!v) {
+      excluded.push({ id: w.id, title: w.title.zh, year: w.year })
+      return false
+    }
+    w.verification = v
+    w.provenance.sources = [
+      { name: '作品專屬頁面（已驗證）', url: v.url, fetchedAt: v.checkedAt, note: '逐筆比對標題' },
+      ...(w.provenance.sources ?? []),
+    ]
+    return true
+  })
+  await fs.writeFile(path.join(ROOT, 'data/excluded-shortdrama.json'), JSON.stringify(excluded, null, 1), 'utf8')
+
+  const works = publishable.map(scoreWork)
   // 去重：先比 id，再比正規化標題（同作品可能有不同來源）/ de-dup by id, then by normalised title
   const normTitle = (t) => String(t ?? '').toLowerCase().replace(/[\s·・:：,，.。!！?？、\-_／/()（）「」『』\[\]【】]/g, '')
   const uniq = new Map()
@@ -551,7 +574,9 @@ async function main() {
         ? w.id
         : `${w.medium}:${normTitle(w.title.zh) || w.id}`
     const prev = uniq.get(key)
-    if (!prev || (w._priority ?? 3) < (prev._priority ?? 3)) uniq.set(key, w)
+    const isVerified = (x) => (verifiedMap[x.id] ? 0 : 1)
+    const score = (x) => isVerified(x) * 10 + (x._priority ?? 3)
+    if (!prev || score(w) < score(prev)) uniq.set(key, w)
   }
   const finalWorks = [...uniq.values()]
     .map((w) => {

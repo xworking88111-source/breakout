@@ -86,6 +86,17 @@ export function WorkDetail({
               {mediumName(work.medium, lang)}
             </span>
             <StatusBadge status={work.provenance.status} confidence={work.confidence} t={t} />
+            {work.verification && (
+              <a
+                className="badge badge-measured"
+                href={work.verification.url}
+                target="_blank"
+                rel="noreferrer noopener"
+                title={lang === 'zh' ? '作品專屬頁面，標題已比對' : 'Per-title page with matched title'}
+              >
+                ✓ {lang === 'zh' ? '來源已驗證' : 'Source verified'}
+              </a>
+            )}
             <span className="rank-chip">
               {t('work.sameMediumRank').replace('{n}', String(ranks.same))} · {t('work.rank').replace('{n}', String(ranks.overall))}
             </span>

@@ -66,6 +66,8 @@ export interface Work {
    *  Rating distribution (measured data from AniList) */
   scoreDistribution?: { score: number; amount: number }[]
   anilistId?: number
+  /** 逐筆來源驗證結果（短劇） / per-title source verification (short dramas) */
+  verification?: { url: string; checkedAt: string; matchType: string }
   provenance: Provenance
 }
 

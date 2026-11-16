@@ -3405,3 +3405,31 @@ body {
 .pager button:hover:not(:disabled) { color: var(--text); border-color: var(--line-2); }
 .pager button:disabled { opacity: 0.35; cursor: not-allowed; }
 .pager .pager-info { font-variant-numeric: tabular-nums; }
+
+
+/* v1.2 copy & hierarchy: 去口號化 / plain, task-oriented hierarchy */
+.hero-eyebrow {
+  display: block;
+  margin-top: 14px;
+  font-size: 12.5px;
+  letter-spacing: 0.16em;
+  color: var(--dim);
+}
+
+.hero h1 {
+  margin-top: 10px;
+}
+
+.panel-date {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  color: var(--dim);
+  letter-spacing: 0.04em;
+}
+
+.grad {
+  background: none;
+  -webkit-background-clip: initial;
+  background-clip: initial;
+  color: inherit;
+}
