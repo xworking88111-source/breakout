@@ -1,9 +1,12 @@
 {
- "total": 1631,
- "verified": 1171,
+ "total": 1776,
+ "verified": 1327,
  "bySource": {
-  "duanjubaike": 1171
+  "duanjubaike": 1322,
+  "www.dramabox.com": 3,
+  "www.dramaboxdb.com": 1,
+  "www.goodshort.com": 1
  },
- "unverified": 460,
- "generatedAt": "2026-11-16T08:58:58.228Z"
+ "unverified": 449,
+ "generatedAt": "2026-11-16T11:05:12.274Z"
 }

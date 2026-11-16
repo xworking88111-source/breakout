@@ -543,6 +543,26 @@ async function main() {
   // Publish only verified short dramas (per-title page with matching title).
   const verification = await readJson(path.join(ROOT, 'data/verified-shortdrama.json'), { byId: {} })
   const verifiedMap = verification.byId ?? {}
+  // 海外短劇：平台作品頁已由研究員逐頁驗證（TSV），直接併入驗證對照
+  // Overseas: platform pages were verified page-by-page by the researcher; merge them.
+  try {
+    const tsv = await fs.readFile(path.join(SEED, 'incoming/overseas-verified.tsv'), 'utf8')
+    const urls = new Set(
+      tsv
+        .split('\n')
+        .map((l) => l.split('\t')[4]?.trim())
+        .filter((u) => u && u.startsWith('http')),
+    )
+    for (const w of merged) {
+      if (w.medium !== 'shortdrama' || verifiedMap[w.id]) continue
+      const u = w.provenance?.sources?.find((x) => x.url)?.url
+      if (u && urls.has(u)) {
+        verifiedMap[w.id] = { url: u, checkedAt: new Date().toISOString().slice(0, 10), matchType: 'platform-page' }
+      }
+    }
+  } catch {
+    /* no overseas list */
+  }
   const excluded = []
   const INCLUDE_UNVERIFIED = process.env.INCLUDE_UNVERIFIED === '1'
   const publishable = merged.filter((w) => {

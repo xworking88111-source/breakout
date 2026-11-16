@@ -80,7 +80,15 @@ async function checkWork(w) {
     unverified.push({ id: w.id, title: w.title.zh, reason: 'no-url' })
     return
   }
-  const isPerTitle = !!hit || /drama\/\d+/.test(candidate) || /subject\/\d+/.test(candidate) || /item\//.test(candidate)
+  const isPerTitle =
+    !!hit ||
+    /drama\/\d+/.test(candidate) ||
+    /subject\/\d+/.test(candidate) ||
+    /item\//.test(candidate) ||
+    /\/movie\//.test(candidate) ||
+    /\/film\//.test(candidate) ||
+    /\/show\//.test(candidate) ||
+    /\/episode\//.test(candidate)
   const { status, text } = await fetchPage(candidate)
   const titleOk = text && norm(text).includes(baseTitle(w.title.zh))
   const urlOk = status === 200

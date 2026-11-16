@@ -104,7 +104,7 @@ for (const file of files) {
     seen.add(key)
 
     const tags = genresS
-      .split(/[,，、/]/)
+      .split(/[,，、/;；]/)
       .map((g) => g.trim())
       .filter(Boolean)
       .slice(0, 3)
@@ -116,7 +116,7 @@ for (const file of files) {
       id: `sdb-${year}-${String(items.length + 1).padStart(4, '0')}`,
       title: { zh: title, en: title },
       year,
-      region: /ReelShort|DramaBox|Kuku|My Drama|ShortMax|GoodShort|NetShort|PineDrama/i.test(platformS) ? 'US' : 'CN',
+      region: /ReelShort|DramaBox|Kuku|My Drama|ShortMax|GoodShort|NetShort|PineDrama|MoboReels|DreameShort|StardustTV|DramaWave|AltaTV|SnackShort|Playlet|MiniShorts/i.test(platformS) ? 'US' : 'CN',
       platform: platformS || '未查證',
       tags: tags.length ? tags.map((t) => ({ zh: t, en: t })) : [{ zh: '其他', en: 'Other' }],
       estimate: anchors,
