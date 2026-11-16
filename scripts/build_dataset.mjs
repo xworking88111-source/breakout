@@ -31,6 +31,7 @@ import * as OpenCC from 'opencc-js'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SRC = path.join(ROOT, 'app/src/data')
+let TITLE_MAP = { byNative: {}, byZh: {} }
 const PUBLIC = path.join(ROOT, 'app/public/data')
 const SEED = path.join(ROOT, 'scripts/seed')
 
@@ -96,7 +97,19 @@ const TAG2GENRE = {
   动画: 'Animation', 動畫: 'Animation', 武侠: 'Wuxia', 武俠: 'Wuxia', 仙侠: 'Xianxia', 仙俠: 'Xianxia',
   惊悚: 'Thriller', 驚悚: 'Thriller', 音乐: 'Music', 音樂: 'Music', 运动: 'Sports', 運動: 'Sports',
   家庭: 'Family', 冒险: 'Adventure', 冒險: 'Adventure', 治愈: 'Iyashikei', 治癒: 'Iyashikei',
-  耽美: 'BL', 后宫: 'Harem', 後宮: 'Harem', 偶像: 'Idol', 美食: 'Food', 职场: 'Work', 職場: 'Work',
+  穿越: 'Time Travel', 重生: 'Rebirth', 甜寵: 'Sweet Pet', 甜宠: 'Sweet Pet',
+  逆襲: 'Counterattack', 逆袭: 'Counterattack', 戰神: 'Power Fantasy', 战神: 'Power Fantasy',
+  贅婿: 'Counterattack', 赘婿: 'Counterattack', 真假千金: 'Family Drama', 復仇: 'Revenge', 复仇: 'Revenge',
+  年代: 'Period Drama', 古裝: 'Period Drama', 古装: 'Period Drama', 民國: 'Period Drama', 民国: 'Period Drama',
+  都市: 'Urban Romance', 萌寶: 'Family', 萌宝: 'Family', 銀髮: 'Family', 银发: 'Family',
+  職場: 'Work', 职场: 'Work', 校園: 'School', 校园: 'School', 玄幻: 'Fantasy', 仙俠: 'Xianxia', 仙侠: 'Xianxia',
+  武俠: 'Wuxia', 武侠: 'Wuxia', 體育: 'Sports', 体育: 'Sports', 喜劇: 'Comedy', 喜剧: 'Comedy',
+  親情: 'Family', 亲情: 'Family', 女性成長: 'Drama', 女性成长: 'Drama', 商戰: 'Drama', 商战: 'Drama',
+  諜戰: 'Thriller', 谍战: 'Thriller', 無限流: 'Suspense', 无限流: 'Suspense', 穿書: 'Time Travel', 穿书: 'Time Travel',
+  種田: 'Slice of Life', 种田: 'Slice of Life', 醫療: 'Drama', 医疗: 'Drama', 律政: 'Crime',
+  軍旅: 'Military', 军旅: 'Military', 非遺: 'Culture', 非遗: 'Culture', 文旅: 'Culture',
+  音樂: 'Music', 音乐: 'Music', 美食: 'Food', 科幻: 'Sci-Fi', 恐怖: 'Horror',
+  其他: 'Other', 耽美: 'BL', 后宫: 'Harem', 後宮: 'Harem', 偶像: 'Idol', 美食: 'Food', 职场: 'Work', 職場: 'Work',
 }
 
 function genresFromTags(tags) {
@@ -232,10 +245,13 @@ const ZH_TITLE = {
 
 function animeToWork(a) {
   const m = a.metrics
+  const tr = TITLE_MAP.byNative?.[a.title.native] ?? {}
+  const zhRaw = tr.zh ?? ZH_TITLE[a.title.native] ?? a.title.native
+  const enRaw = /[\u3040-\u30ff]/.test(a.title.en ?? '') ? tr.en ?? a.title.en : a.title.en
   return {
     id: a.id,
     medium: 'anime',
-    title: { zh: ZH_TITLE[a.title.native] ?? a.title.native, en: a.title.en, native: a.title.native },
+    title: { zh: tw(zhRaw), en: enRaw ?? a.title.romaji ?? a.title.native, native: a.title.native },
     year: a.year ?? 0,
     region: a.country ?? 'JP',
     platform: a.studio ?? undefined,
@@ -297,10 +313,12 @@ function bangumiToWork(b, medium) {
   const volumes = b.episodes ?? null
   const regionZh = REGION_ZH[b.country] ?? b.country
   const year = b.year ?? 0
+  const tr = TITLE_MAP.byZh?.[b.title.zh] ?? TITLE_MAP.byNative?.[b.title.en] ?? {}
+  const enRaw = /[\u3040-\u30ff]/.test(b.title.en ?? '') ? tr.en ?? b.title.en : b.title.en
   return {
     id: b.id,
     medium,
-    title: { zh: tw(b.title.zh), en: b.title.en },
+    title: { zh: tw(b.title.zh), en: enRaw ?? b.title.en },
     year,
     region: b.country,
     platform: b.platform ?? undefined,
@@ -388,6 +406,9 @@ function estimateFromAnchors(seed) {
     reachCandidates.push(55 + 42 * ((Math.log10(a.heatValue) - 2.903) / 1.402))
   }
   if (a.dataeyeRank) reachCandidates.push(50 + 47 * (1 - (a.dataeyeRank - 1) / 99))
+  // 月榜名次較弱：只給 50–82 的區間 / monthly ranks map to a weaker 50–82 band
+  if (a.monthlyRank) reachCandidates.push(50 + 32 * (1 - (a.monthlyRank - 1) / 99))
+  if (a.boxOfficeWan) reachCandidates.push(55 + 20 * Math.log10(a.boxOfficeWan / 100 + 1))
   const reach = reachCandidates.length ? Math.max(...reachCandidates) : 58
 
   // quality: 口碑分 + 獎項
@@ -424,11 +445,20 @@ function estimateFromAnchors(seed) {
 
 function seedToWork(s) {
   const dims = s.dims ?? estimateFromAnchors(s).dims
+  // 種子資料一律轉繁體（含 TSV 匯入的簡體劇名與平台）
+  // Convert all seed text to Traditional Chinese (TSV imports may be simplified).
+  const t = (v) => (v ? tw(String(v)) : v)
   const method = s.dims ? 'editorial' : estimateFromAnchors(s).method
   const regionZh = REGION_ZH[s.region] ?? s.region
   return {
     ...s,
-    genres: s.genres ?? genresFromTags((s.tags ?? []).map((t) => t.zh)),
+    title: { ...s.title, zh: t(s.title.zh), en: s.title.en },
+    platform: t(s.platform),
+    tags: (s.tags ?? []).map((x) => ({ zh: t(x.zh), en: t(x.en) })),
+    anchorNote: t(s.anchorNote),
+    genres: (s.genres ?? genresFromTags((s.tags ?? []).map((t) => t.zh))).length
+      ? (s.genres ?? genresFromTags((s.tags ?? []).map((t) => t.zh)))
+      : ['Other'],
     tags: s.tags ?? [],
     synopsis:
       s.synopsis ?? {
@@ -463,6 +493,7 @@ async function readJson(p, fallback = null) {
 }
 
 async function main() {
+  TITLE_MAP = await readJson(path.join(SRC, 'title-map.json'), { byNative: {}, byZh: {} })
   const animeRaw = await readJson(path.join(SRC, 'anime.json'), { items: [] })
   const novelRaw = await readJson(path.join(SRC, 'bangumi-novel.json'), { items: [] })
   const filmRaw = await readJson(path.join(SRC, 'bangumi-film.json'), { items: [] })
@@ -484,6 +515,7 @@ async function main() {
     ['shortdrama-extra-3.json', 'shortdrama'],
     ['shortdrama-extra-4.json', 'shortdrama'],
     ['shortdrama-extra-5.json', 'shortdrama'],
+    ['shortdrama-bulk.json', 'shortdrama'],
     ['novel.json', 'novel'],
     ['film.json', 'film'],
   ]) {
@@ -512,7 +544,12 @@ async function main() {
   const normTitle = (t) => String(t ?? '').toLowerCase().replace(/[\s·・:：,，.。!！?？、\-_／/()（）「」『』\[\]【】]/g, '')
   const uniq = new Map()
   for (const w of works) {
-    const key = normTitle(w.title.zh) || w.id
+    // measured 資料用 id 去重（避免同名不同季被合併）；估算資料用「媒介＋標題」去重。
+    // Measured records de-duplicate by id (so different seasons are kept); estimated records by medium + title.
+    const key =
+      w.provenance.status === 'measured'
+        ? w.id
+        : `${w.medium}:${normTitle(w.title.zh) || w.id}`
     const prev = uniq.get(key)
     if (!prev || (w._priority ?? 3) < (prev._priority ?? 3)) uniq.set(key, w)
   }

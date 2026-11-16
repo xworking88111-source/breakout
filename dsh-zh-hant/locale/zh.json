@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "繁體中文語言包",
+    "description": "為 DSH 介面加上繁體中文（zh-Hant）：把 73 個介面命名空間、3882 條字串轉成繁體，在設定 → 語言中選用。",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,2419 @@
+{
+ "source": "Wikipedia langlinks + Bangumi search fallback",
+ "snapshotDate": "2026-11-16",
+ "license": "Wikipedia 內容 CC BY-SA；此處僅存標題對照，使用時請標註來源。",
+ "counts": {
+  "jpNative": 616,
+  "byNative": 423,
+  "byZh": 77,
+  "bangumiFallback": 169
+ },
+ "byNative": {
+  "進撃の巨人": {
+   "zh": "進擊的巨人",
+   "en": "Attack on Titan"
+  },
+  "鬼滅の刃": {
+   "zh": "鬼滅之刃",
+   "en": "Demon Slayer: Kimetsu no Yaiba"
+  },
+  "僕のヒーローアカデミア": {
+   "zh": "我的英雄學院",
+   "en": "My Hero Academia"
+  },
+  "ワンパンマン": {
+   "zh": "一拳超人",
+   "en": "One-Punch Man"
+  },
+  "鋼の錬金術師 FULLMETAL ALCHEMIST": {
+   "zh": "鋼之鍊金術師 FULLMETAL ALCHEMIST",
+   "en": "Fullmetal Alchemist: Brotherhood"
+  },
+  "NARUTO -ナルト-": {
+   "zh": "火影忍者",
+   "en": "Naruto"
+  },
+  "聲の形": {
+   "zh": "聲之形",
+   "en": "A Silent Voice (manga)"
+  },
+  "ソードアート・オンライン": {
+   "zh": "刀劍神域",
+   "en": "Sword Art Online"
+  },
+  "君の名は。": {
+   "zh": "你的名字。",
+   "en": "Your Name"
+  },
+  "進撃の巨人 The Final Season": {
+   "zh": "進擊的巨人 (動畫)",
+   "en": "Attack on Titan (TV series)"
+  },
+  "チェンソーマン": {
+   "zh": "鏈鋸人",
+   "en": "Chainsaw Man"
+  },
+  "約束のネバーランド": {
+   "zh": "約定的夢幻島",
+   "en": "The Promised Neverland"
+  },
+  "モブサイコ100": {
+   "zh": "路人超能100",
+   "en": "Mob Psycho 100"
+  },
+  "Re:ゼロから始める異世界生活": {
+   "zh": "Re:從零開始的異世界生活",
+   "en": "Re:Zero"
+  },
+  "四月は君の嘘": {
+   "zh": "四月是你的謊言",
+   "en": "Your Lie in April"
+  },
+  "NARUTO -ナルト- 疾風伝": {
+   "zh": "火影忍者疾風傳",
+   "en": "Naruto: Shippūden"
+  },
+  "僕だけがいない街": {
+   "zh": "只有我不存在的城市",
+   "en": "Erased (manga)"
+  },
+  "シュタインズ・ゲート": {
+   "zh": "命運石之門",
+   "en": "Steins;Gate"
+  },
+  "ブラッククローバー": {
+   "zh": "黑色五葉草",
+   "en": "Black Clover"
+  },
+  "ハイキュー!!": {
+   "zh": "排球少年！！",
+   "en": "Haikyu!!"
+  },
+  "青春ブタ野郎はバニーガール先輩の夢を見ない": {
+   "zh": "青春豬頭少年系列",
+   "en": "Rascal Does Not Dream"
+  },
+  "ヴィンランド・サガ": {
+   "zh": "海盜戰記",
+   "en": "Vinland Saga (manga)"
+  },
+  "ヴァイオレット・エヴァーガーデン": {
+   "zh": "紫罗兰永恒花园",
+   "en": "Violet Evergarden"
+  },
+  "ホリミヤ": {
+   "zh": "堀與宮村",
+   "en": "Hori-san to Miyamura-kun"
+  },
+  "ノーゲーム・ノーライフ": {
+   "zh": "NO GAME NO LIFE 遊戲人生",
+   "en": "No Game No Life"
+  },
+  "ノラガミ": {
+   "zh": "流浪神差",
+   "en": "Noragami"
+  },
+  "七つの大罪": {
+   "zh": "七宗罪",
+   "en": "Seven deadly sins"
+  },
+  "コードギアス 反逆のルルーシュ": {
+   "zh": "Code Geass 反叛的魯路修",
+   "en": "Code Geass Lelouch of the Rebellion"
+  },
+  "ダーリン・イン・ザ・フランキス": {
+   "zh": "DARLING in the FRANXX",
+   "en": "Darling in the Franxx"
+  },
+  "寄生獣 セイの格率": {
+   "zh": "寄生兽",
+   "en": "Parasyte"
+  },
+  "新世紀エヴァンゲリオン": {
+   "zh": "新世纪福音战士",
+   "en": "Neon Genesis Evangelion"
+  },
+  "葬送のフリーレン": {
+   "zh": "葬送的芙莉蓮",
+   "en": "Frieren"
+  },
+  "鬼滅の刃 遊郭編": {
+   "zh": "鬼滅之刃 (動畫)",
+   "en": "Demon Slayer: Kimetsu no Yaiba (TV series)"
+  },
+  "炎炎ノ消防隊": {
+   "zh": "炎炎消防隊",
+   "en": "Fire Force"
+  },
+  "千と千尋の神隠し": {
+   "zh": "千与千寻",
+   "en": "Spirited Away"
+  },
+  "カウボーイビバップ": {
+   "zh": "星際牛仔",
+   "en": "Cowboy Bebop"
+  },
+  "転生したらスライムだった件": {
+   "zh": "關於我轉生變成史萊姆這檔事",
+   "en": "That Time I Got Reincarnated as a Slime"
+  },
+  "デス・パレード": {
+   "zh": "死亡遊行",
+   "en": "Death Parade"
+  },
+  "盾の勇者の成り上がり": {
+   "zh": "盾之勇者成名錄",
+   "en": "The Rising of the Shield Hero"
+  },
+  "青の祓魔師": {
+   "zh": "青之驅魔師",
+   "en": "Blue Exorcist"
+  },
+  "俺だけレベルアップな件": {
+   "zh": "我獨自升級",
+   "en": "Solo Leveling"
+  },
+  "賭ケグルイ": {
+   "zh": "狂賭之淵",
+   "en": "Kakegurui"
+  },
+  "ようこそ実力至上主義の教室へ": {
+   "zh": "歡迎來到實力至上主義的教室",
+   "en": "Classroom of the Elite"
+  },
+  "モブサイコ100 II": {
+   "zh": "路人超能100",
+   "en": "Mob Psycho 100"
+  },
+  "東京リベンジャーズ": {
+   "zh": "東京卍復仇者",
+   "en": "Tokyo Revengers"
+  },
+  "その着せ替え人形は恋をする": {
+   "zh": "戀上換裝娃娃",
+   "en": "My Dress-Up Darling"
+  },
+  "文豪ストレイドッグス": {
+   "zh": "文豪Stray Dogs",
+   "en": "Bungo Stray Dogs"
+  },
+  "キルラキル": {
+   "zh": "KILL la KILL",
+   "en": "Kill la Kill"
+  },
+  "オーバーロード": {
+   "en": "Overload",
+   "zh": "OVERLORD"
+  },
+  "メイドインアビス": {
+   "zh": "來自深淵",
+   "en": "Made in Abyss"
+  },
+  "サイバーパンク エッジランナーズ": {
+   "zh": "赛博浪客",
+   "en": "Cyberpunk: Edgerunners"
+  },
+  "食戟のソーマ": {
+   "zh": "食戟之靈",
+   "en": "Food Wars!: Shokugeki no Soma"
+  },
+  "ハイキュー!! セカンドシーズン": {
+   "zh": "排球少年！！",
+   "en": "Haikyu!!"
+  },
+  "ダンジョンに出会いを求めるのは間違っているだろうか": {
+   "zh": "在地下城尋求邂逅是否搞錯了什麼",
+   "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+  },
+  "ソウルイーター": {
+   "zh": "SOUL EATER",
+   "en": "Soul Eater"
+  },
+  "はたらく魔王さま!": {
+   "zh": "打工吧！魔王大人",
+   "en": "The Devil Is a Part-Timer!"
+  },
+  "あの日見た花の名前を僕達はまだ知らない。": {
+   "zh": "我們仍未知道那天所看見的花的名字。",
+   "en": "Anohana"
+  },
+  "ダンダダン": {
+   "zh": "膽大黨",
+   "en": "Dandadan"
+  },
+  "アナザー": {
+   "en": "Another"
+  },
+  "やはり俺の青春ラブコメはまちがっている。": {
+   "zh": "果然我的青春戀愛喜劇搞錯了。",
+   "en": "My Youth Romantic Comedy Is Wrong, as I Expected"
+  },
+  "天元突破グレンラガン": {
+   "zh": "天元突破 紅蓮螺巖",
+   "en": "Gurren Lagann"
+  },
+  "君の膵臓をたべたい": {
+   "zh": "我想吃掉你的胰臟",
+   "en": "I Want to Eat Your Pancreas"
+  },
+  "鬼滅の刃 刀鍛冶の里編": {
+   "zh": "鬼滅之刃 (動畫)",
+   "en": "Demon Slayer: Kimetsu no Yaiba (TV series)"
+  },
+  "どろろ": {
+   "zh": "多羅羅",
+   "en": "Dororo"
+  },
+  "ハウルの動く城": {
+   "zh": "哈尔的移动城堡",
+   "en": "Howl's Moving Castle (film)"
+  },
+  "ハイキュー!! 烏野高校 VS 白鳥沢学園高校": {
+   "zh": "排球少年！！",
+   "en": "Haikyu!!"
+  },
+  "天気の子": {
+   "zh": "天气之子",
+   "en": "Weathering with You"
+  },
+  "PSYCHO-PASS サイコパス": {
+   "zh": "PSYCHO-PASS",
+   "en": "Psycho-Pass"
+  },
+  "中二病でも恋がしたい!": {
+   "zh": "中二病也想談戀愛！",
+   "en": "Love, Chunibyo & Other Delusions"
+  },
+  "ジョジョの奇妙な冒険 スターダストクルセイダース": {
+   "zh": "星塵鬥士",
+   "en": "Stardust Crusaders"
+  },
+  "薬屋のひとりごと": {
+   "zh": "藥師少女的獨語",
+   "en": "The Apothecary Diaries"
+  },
+  "【推しの子】": {
+   "zh": "【我推的孩子】",
+   "en": "Oshi no Ko"
+  },
+  "終わりのセラフ": {
+   "zh": "終結的熾天使",
+   "en": "Seraph of the End"
+  },
+  "ブルーロック": {
+   "zh": "BLUE LOCK 藍色監獄",
+   "en": "Blue Lock"
+  },
+  "小林さんちのメイドラゴン": {
+   "zh": "小林家的龍女僕",
+   "en": "Miss Kobayashi's Dragon Maid"
+  },
+  "ヲタクに恋は難しい": {
+   "zh": "阿宅的戀愛太難",
+   "en": "Wotakoi: Love Is Hard for Otaku"
+  },
+  "魔法少女まどか☆マギカ": {
+   "zh": "魔法少女小圓",
+   "en": "Puella Magi Madoka Magica"
+  },
+  "五等分の花嫁": {
+   "zh": "五等分的新娘",
+   "en": "The Quintessential Quintuplets"
+  },
+  "古見さんは、コミュ症です。": {
+   "zh": "古见同学有交流障碍症",
+   "en": "Komi Can't Communicate"
+  },
+  "不滅のあなたへ": {
+   "zh": "致不灭的你",
+   "en": "To Your Eternity"
+  },
+  "ジョジョの奇妙な冒険 ダイヤモンドは砕けない": {
+   "zh": "不滅鑽石",
+   "en": "Diamond Is Unbreakable"
+  },
+  "俺だけレベルアップな件 Season 2 -Arise from the Shadow-": {
+   "zh": "我獨自升級",
+   "en": "Solo Leveling"
+  },
+  "ハイスクールDxD": {
+   "zh": "惡魔高校D×D",
+   "en": "High School DxD"
+  },
+  "ノラガミ ARAGOTO": {
+   "zh": "流浪神差",
+   "en": "Noragami"
+  },
+  "彼女、お借りします": {
+   "zh": "租借女友",
+   "en": "Rent-A-Girlfriend"
+  },
+  "ゴブリンスレイヤー": {
+   "zh": "哥布林殺手",
+   "en": "Goblin Slayer"
+  },
+  "もののけ姫": {
+   "zh": "魔法公主",
+   "en": "Princess Mononoke"
+  },
+  "炎炎ノ消防隊 弐ノ章": {
+   "zh": "炎炎消防隊",
+   "en": "Fire Force"
+  },
+  "THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール": {
+   "zh": "高校之神",
+   "en": "The God of High School"
+  },
+  "かぐや様は告らせたい-ウルトラロマンティック-": {
+   "zh": "輝夜姬想讓人告白～天才們的戀愛頭腦戰～",
+   "en": "Kaguya-sama: Love Is War"
+  },
+  "マッシュル-MASHLE-": {
+   "zh": "肌肉魔法使-MASHLE-",
+   "en": "Mashle"
+  },
+  "ハイキュー!! TO THE TOP": {
+   "zh": "排球少年！！",
+   "en": "Haikyu!!"
+  },
+  "デュラララ!!": {
+   "zh": "無頭騎士異聞錄 DuRaRaRa!!",
+   "en": "Durarara!!"
+  },
+  "残響のテロル": {
+   "zh": "東京殘響",
+   "en": "Terror in Resonance"
+  },
+  "ソードアート・オンライン アリシゼーション": {
+   "zh": "刀劍神域 (動畫)",
+   "en": "Sword Art Online (TV series)"
+  },
+  "会長はメイド様!": {
+   "zh": "學生會長是女僕！",
+   "en": "Maid Sama!"
+  },
+  "黒子のバスケ": {
+   "zh": "黑子的籃球",
+   "en": "Kuroko's Basketball"
+  },
+  "七つの大罪 戒めの復活": {
+   "zh": "七大罪 (漫畫)",
+   "en": "The Seven Deadly Sins (manga)"
+  },
+  "ワンダーエッグ・プライオリティ": {
+   "zh": "奇蛋物语",
+   "en": "Wonder Egg Priority"
+  },
+  "鬼滅の刃 柱稽古編": {
+   "zh": "鬼滅之刃 (動畫)",
+   "en": "Demon Slayer: Kimetsu no Yaiba (TV series)"
+  },
+  "サムライチャンプルー": {
+   "zh": "混沌武士",
+   "en": "Samurai Champloo"
+  },
+  "となりのトトロ": {
+   "zh": "龙猫",
+   "en": "My Neighbor Totoro"
+  },
+  "けいおん!": {
+   "zh": "K-ON！輕音部",
+   "en": "K-On!"
+  },
+  "ヴィンランド・サガ SEASON2": {
+   "zh": "海盜戰記",
+   "en": "Vinland Saga (manga)"
+  },
+  "境界の彼方": {
+   "zh": "境界的彼方",
+   "en": "Beyond the Boundary"
+  },
+  "やはり俺の青春ラブコメはまちがっている。続": {
+   "zh": "果然我的青春戀愛喜劇搞錯了。 (動畫)"
+  },
+  "さくら荘のペットな彼女": {
+   "zh": "櫻花莊的寵物女孩",
+   "en": "The Pet Girl of Sakurasou"
+  },
+  "エルフェンリート": {
+   "zh": "妖精的旋律",
+   "en": "Elfen Lied"
+  },
+  "ニセコイ": {
+   "zh": "偽戀",
+   "en": "Nisekoi"
+  },
+  "イジらないで、長瀞さん": {
+   "zh": "不要欺負我，長瀞同學",
+   "en": "Don't Toy with Me, Miss Nagatoro"
+  },
+  "ゴールデンタイム": {
+   "zh": "黃金時段",
+   "en": "Prime time"
+  },
+  "鋼の錬金術師": {
+   "zh": "鋼之鍊金術師",
+   "en": "Fullmetal Alchemist"
+  },
+  "ガチアクタ": {
+   "zh": "GACHIAKUTA",
+   "en": "Gachiakuta"
+  },
+  "ようこそ実力至上主義の教室へ 2nd Season": {
+   "zh": "歡迎來到實力至上主義的教室 (動畫)",
+   "en": "Classroom of the Elite (TV series)"
+  },
+  "となりの怪物くん": {
+   "zh": "鄰座的怪同學",
+   "en": "My Little Monster"
+  },
+  "青春ブタ野郎はゆめみる少女の夢を見ない": {
+   "zh": "青春豬頭少年系列",
+   "en": "Rascal Does Not Dream"
+  },
+  "ドラゴンボールZ": {
+   "zh": "七龍珠Z",
+   "en": "Dragon Ball Z"
+  },
+  "魔法科高校の劣等生": {
+   "zh": "魔法科高中的劣等生",
+   "en": "The Irregular at Magic High School"
+  },
+  "プラスティックメモリーズ": {
+   "zh": "可塑性記憶",
+   "en": "Plastic Memories"
+  },
+  "食戟のソーマ 弍ノ皿": {
+   "zh": "食戟之靈",
+   "en": "Food Wars!: Shokugeki no Soma"
+  },
+  "桜蘭高校ホスト部": {
+   "zh": "櫻蘭高校男公關部",
+   "en": "Ouran High School Host Club"
+  },
+  "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に": {
+   "zh": "新世紀福音戰士劇場版",
+   "en": "The End of Evangelion"
+  },
+  "君に届け": {
+   "zh": "只想告訴你",
+   "en": "Kimi ni Todoke"
+  },
+  "チェンソーマン レゼ篇": {
+   "zh": "鏈鋸人 (動畫)",
+   "en": "Chainsaw Man (TV series)"
+  },
+  "デッドマン・ワンダーランド": {
+   "zh": "死囚樂園",
+   "en": "Deadman Wonderland"
+  },
+  "デート・ア・ライブ": {
+   "zh": "約會大作戰",
+   "en": "Date A Live"
+  },
+  "トニカクカワイイ": {
+   "zh": "總之就是很可愛",
+   "en": "Fly Me to the Moon (manga)"
+  },
+  "言の葉の庭": {
+   "zh": "言葉之庭",
+   "en": "The Garden of Words"
+  },
+  "魔法使いの嫁": {
+   "zh": "魔法使的新娘",
+   "en": "The Ancient Magus' Bride"
+  },
+  "アオハライド": {
+   "zh": "閃爍的青春",
+   "en": "Ao Haru Ride"
+  },
+  "政宗くんのリベンジ": {
+   "zh": "政宗君的復仇",
+   "en": "Masamune-kun's Revenge"
+  },
+  "ゾン100～ゾンビになるまでにしたい100のこと～": {
+   "zh": "殭屍100～在成為殭屍前要做的100件事～",
+   "en": "Zom 100: Bucket List of the Dead"
+  },
+  "ギルティクラウン": {
+   "zh": "罪惡王冠",
+   "en": "Guilty Crown"
+  },
+  "ログ・ホライズン": {
+   "zh": "記錄的地平線",
+   "en": "Log Horizon"
+  },
+  "ぐらんぶる": {
+   "zh": "GRANDBLUE 碧藍之海",
+   "en": "Grand Blue Dreaming"
+  },
+  "賭ケグルイ××": {
+   "zh": "狂賭之淵",
+   "en": "Kakegurui"
+  },
+  "ドラゴンボール": {
+   "zh": "七龙珠",
+   "en": "Dragon Ball"
+  },
+  "とんがり帽子のアトリエ": {
+   "zh": "魔法帽的工作室",
+   "en": "Witch Hat Atelier"
+  },
+  "五等分の花嫁∬": {
+   "zh": "五等分的新娘",
+   "en": "The Quintessential Quintuplets"
+  },
+  "SK∞ エスケーエイト": {
+   "zh": "SK∞",
+   "en": "SK8 the Infinity"
+  },
+  "ダンガンロンパ 希望の学園と絶望の高校生 The Animation": {
+   "zh": "槍彈辯駁 希望學園與絕望高中生",
+   "en": "Danganronpa: Trigger Happy Havoc"
+  },
+  "マギ The labyrinth of magic": {
+   "zh": "魔奇少年",
+   "en": "Magi: The Labyrinth of Magic"
+  },
+  "ありふれた職業で世界最強": {
+   "zh": "平凡職業造就世界最強",
+   "en": "Arifureta"
+  },
+  "ユーリ!!! on ICE": {
+   "zh": "Yuri!!! on ICE",
+   "en": "Yuri on Ice"
+  },
+  "ノーゲーム・ノーライフ ゼロ": {
+   "zh": "NO GAME NO LIFE 遊戲人生",
+   "en": "No Game No Life"
+  },
+  "ダンジョン飯": {
+   "zh": "迷宮飯",
+   "en": "Delicious in Dungeon"
+  },
+  "サマータイムレンダ": {
+   "zh": "夏日時光 (漫畫)",
+   "en": "Summer Time Rendering"
+  },
+  "食戟のソーマ 餐ノ皿": {
+   "zh": "食戟之靈 (動畫)"
+  },
+  "やはり俺の青春ラブコメはまちがっている。完": {
+   "zh": "果然我的青春戀愛喜劇搞錯了。 (動畫)"
+  },
+  "BORUTO-ボルト- NARUTO NEXT GENERATIONS": {
+   "zh": "博人传-火影次世代-",
+   "en": "Boruto"
+  },
+  "王様ランキング": {
+   "zh": "國王排名",
+   "en": "Ranking of Kings"
+  },
+  "ドメスティックな彼女": {
+   "zh": "家有女友",
+   "en": "Domestic Girlfriend"
+  },
+  "シュタインズ・ゲート ゼロ": {
+   "zh": "命運石之門",
+   "en": "Steins;Gate"
+  },
+  "僕のヒーローアカデミア THE MOVIE 〜2人の英雄〜": {
+   "zh": "我的英雄學院 (動畫)",
+   "en": "My Hero Academia (TV series)"
+  },
+  "ソードアート・オンライン アリシゼーション War of Underworld": {
+   "zh": "刀劍神域 (動畫)",
+   "en": "Sword Art Online (TV series)"
+  },
+  "月刊少女野崎くん": {
+   "zh": "月刊少女野崎同學",
+   "en": "Monthly Girls' Nozaki-kun"
+  },
+  "ドラゴンボール超": {
+   "zh": "龍珠超",
+   "en": "Dragon Ball Super (TV series)"
+  },
+  "可愛いだけじゃない式守さん": {
+   "zh": "式守同學不只可愛而已",
+   "en": "Shikimori's Not Just a Cutie"
+  },
+  "殺戮の天使": {
+   "zh": "殺戮的天使",
+   "en": "Angels of Death (video game)"
+  },
+  "暁のヨナ": {
+   "zh": "晨曦公主",
+   "en": "Yona of the Dawn"
+  },
+  "薫る花は凛と咲く": {
+   "zh": "薰香花朵凛然綻放",
+   "en": "The Fragrant Flower Blooms with Dignity"
+  },
+  "リコリス・リコイル": {
+   "zh": "Lycoris Recoil 莉可麗絲",
+   "en": "Lycoris Recoil"
+  },
+  "ヴァニタスの手記": {
+   "zh": "瓦尼塔斯的手札",
+   "en": "The Case Study of Vanitas"
+  },
+  "時々ボソッとロシア語でデレる隣のアーリャさん": {
+   "zh": "不時輕聲地以俄語遮羞的鄰座艾莉同學",
+   "en": "Alya Sometimes Hides Her Feelings in Russian"
+  },
+  "ギヴン": {
+   "zh": "GIVEN 被贈與的未來",
+   "en": "Given (manga)"
+  },
+  "山田くんとLv999の恋をする": {
+   "zh": "和山田談場Lv999的戀愛",
+   "en": "My Love Story with Yamada-kun at Lv999"
+  },
+  "NANA-ナナ-": {
+   "zh": "NANA",
+   "en": "Nana (manga)"
+  },
+  "下ネタという概念が存在しない退屈な世界": {
+   "zh": "下流梗不存在的灰暗世界",
+   "en": "Shimoneta"
+  },
+  "異世界魔王と召喚少女の奴隷魔術": {
+   "zh": "異世界魔王與召喚少女的奴隸魔術",
+   "en": "How Not to Summon a Demon Lord"
+  },
+  "世界最高の暗殺者、異世界貴族に転生する": {
+   "zh": "世界頂尖的暗殺者轉生為異世界貴族",
+   "en": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+  },
+  "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来": {
+   "zh": "劇場版「鬼滅之刃」無限城篇 第一章 猗窩座再襲",
+   "en": "Demon Slayer: Kimetsu no Yaiba – The Movie: Infinity Castle"
+  },
+  "すずめの戸締まり": {
+   "zh": "鈴芽之旅",
+   "en": "Suzume"
+  },
+  "火垂るの墓": {
+   "zh": "萤火虫之墓",
+   "en": "Grave of the Fireflies"
+  },
+  "七つの大罪 神々の逆鱗": {
+   "zh": "七大罪 (漫畫)",
+   "en": "The Seven Deadly Sins (manga)"
+  },
+  "Re:ゼロから始める異世界生活 3rd season": {
+   "zh": "Re:從零開始的異世界生活 (動畫)",
+   "en": "Re:Zero (TV series)"
+  },
+  "キズナイーバー": {
+   "zh": "制約之絆",
+   "en": "Kiznaiver"
+  },
+  "はたらく細胞": {
+   "zh": "工作細胞",
+   "en": "Cells at Work!"
+  },
+  "GATE 自衛隊 彼の地にて、斯く戦えり": {
+   "zh": "GATE 奇幻自衛隊",
+   "en": "Gate (novel series)"
+  },
+  "トリニティセブン": {
+   "zh": "TRINITY SEVEN 魔道書7使者",
+   "en": "Trinity Seven"
+  },
+  "その着せ替え人形は恋をする Season 2": {
+   "zh": "戀上換裝娃娃",
+   "en": "My Dress-Up Darling"
+  },
+  "甲鉄城のカバネリ": {
+   "zh": "甲鐵城的卡巴內里",
+   "en": "Kabaneri of the Iron Fortress"
+  },
+  "ブラック・ブレット": {
+   "zh": "黑色子彈",
+   "en": "Black Bullet"
+  },
+  "蛍火の杜へ": {
+   "zh": "螢火之森",
+   "en": "Hotarubi no Mori e"
+  },
+  "シャングリラ・フロンティア": {
+   "zh": "香格里拉·開拓異境～糞作獵手挑戰神作～",
+   "en": "Shangri-La Frontier"
+  },
+  "男子高校生の日常": {
+   "zh": "男子高中生的日常",
+   "en": "Daily Lives of High School Boys"
+  },
+  "おおかみこどもの雨と雪": {
+   "zh": "狼的孩子雨和雪",
+   "en": "Wolf Children"
+  },
+  "泣きたい私は猫をかぶる": {
+   "zh": "想哭的我戴上了貓的面具",
+   "en": "A Whisker Away"
+  },
+  "ようこそ実力至上主義の教室へ 3rd Season": {
+   "zh": "歡迎來到實力至上主義的教室 (動畫)",
+   "en": "Classroom of the Elite (TV series)"
+  },
+  "ドロヘドロ": {
+   "zh": "异兽魔都",
+   "en": "Dorohedoro"
+  },
+  "とある魔術の禁書目録": {
+   "zh": "魔法禁書目錄",
+   "en": "A Certain Magical Index"
+  },
+  "坂本ですが?": {
+   "zh": "在下坂本，有何貴幹？",
+   "en": "Haven't You Heard? I'm Sakamoto"
+  },
+  "ココロコネクト": {
+   "zh": "心連·情結",
+   "en": "Kokoro Connect"
+  },
+  "山田くんと7人の魔女": {
+   "zh": "山田君與7人魔女",
+   "en": "Yamada-kun and the Seven Witches"
+  },
+  "崖の上のポニョ": {
+   "zh": "崖上的波妞",
+   "en": "Ponyo"
+  },
+  "ジョゼと虎と魚たち": {
+   "zh": "喬瑟與虎與魚群",
+   "en": "Josee, the Tiger and the Fish"
+  },
+  "ひげを剃る。そして女子高生を拾う。": {
+   "zh": "刮掉鬍子的我與撿到的女高中生",
+   "en": "Higehiro"
+  },
+  "剣風伝奇ベルセルク": {
+   "zh": "烙印勇士",
+   "en": "Berserk (manga)"
+  },
+  "魔女の宅急便": {
+   "zh": "魔女宅急便 (小說)",
+   "en": "Kiki's Delivery Service (novel)"
+  },
+  "エロマンガ先生": {
+   "zh": "情色漫畫老師",
+   "en": "Eromanga Sensei"
+  },
+  "賢者の孫": {
+   "zh": "賢者之孫",
+   "en": "Wise Man's Grandchild"
+  },
+  "灰と幻想のグリムガル": {
+   "zh": "灰與幻想的格林姆迦爾",
+   "en": "Grimgar of Fantasy and Ash"
+  },
+  "痛いのは嫌なので防御力に極振りしたいと思います。": {
+   "zh": "怕痛的我，把防禦力點滿就對了",
+   "en": "Bofuri"
+  },
+  "赤髪の白雪姫": {
+   "zh": "赤髮白雪姬",
+   "en": "Snow White with the Red Hair"
+  },
+  "クズの本懐": {
+   "zh": "人渣的本愿",
+   "en": "Scum's Wish"
+  },
+  "狼と香辛料": {
+   "zh": "狼與辛香料",
+   "en": "Spice and Wolf"
+  },
+  "杖と剣のウィストリア": {
+   "zh": "杖與劍的魔劍譚",
+   "en": "Wistoria: Wand and Sword"
+  },
+  "ブレンド・S": {
+   "zh": "調教咖啡廳",
+   "en": "Blend S"
+  },
+  "冴えない彼女の育てかた": {
+   "zh": "不起眼女主角培育法",
+   "en": "Saekano"
+  },
+  "青の祓魔師 京都不浄王篇": {
+   "zh": "青之驅魔師 (動畫)"
+  },
+  "新世界より": {
+   "en": "From the New World (disambiguation)",
+   "zh": "来自新世界"
+  },
+  "ひぐらしのなく頃に": {
+   "zh": "暮蟬悲鳴時",
+   "en": "Higurashi When They Cry"
+  },
+  "お隣の天使様にいつの間にか駄目人間にされていた件": {
+   "zh": "關於我在無意間被隔壁的天使變成廢柴這件事",
+   "en": "The Angel Next Door Spoils Me Rotten"
+  },
+  "DARKER THAN BLACK -黒の契約者-": {
+   "zh": "DARKER THAN BLACK",
+   "en": "Darker than Black"
+  },
+  "月が導く異世界道中": {
+   "zh": "月光下的異世界之旅",
+   "en": "Tsukimichi: Moonlit Fantasy"
+  },
+  "食戟のソーマ 神ノ皿": {
+   "zh": "食戟之靈 (動畫)"
+  },
+  "ゲーマーズ!": {
+   "zh": "GAMERS電玩咖！",
+   "en": "Gamers!"
+  },
+  "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング": {
+   "zh": "我的英雄學院 (動畫)",
+   "en": "My Hero Academia (TV series)"
+  },
+  "時をかける少女": {
+   "zh": "穿越時空的少女",
+   "en": "The Girl Who Leapt Through Time"
+  },
+  "いぬやしき": {
+   "zh": "犬屋敷",
+   "en": "Inuyashiki"
+  },
+  "ダーウィンズゲーム": {
+   "zh": "達爾文遊戲",
+   "en": "Darwin's Game"
+  },
+  "七つの大罪 聖戦の予兆": {
+   "zh": "七大罪 (漫畫)",
+   "en": "The Seven Deadly Sins (manga)"
+  },
+  "神様はじめました": {
+   "zh": "元氣少女緣結神",
+   "en": "Kamisama Kiss"
+  },
+  "〈物語〉シリーズ セカンドシーズン": {
+   "zh": "物語系列 第二季"
+  },
+  "モンスター娘のいる日常": {
+   "zh": "魔物娘的同居日常",
+   "en": "Monster Musume"
+  },
+  "からかい上手の高木さん": {
+   "zh": "擅長捉弄人的高木同學",
+   "en": "Teasing Master Takagi-san"
+  },
+  "マギ The kingdom of magic": {
+   "zh": "魔奇少年",
+   "en": "Magi: The Labyrinth of Magic"
+  },
+  "トモダチゲーム": {
+   "zh": "朋友遊戲",
+   "en": "Tomodachi Game"
+  },
+  "けいおん!!": {
+   "zh": "K-ON！輕音部",
+   "en": "K-On!"
+  },
+  "ホリミヤ -piece-": {
+   "zh": "堀與宮村",
+   "en": "Hori-san to Miyamura-kun"
+  },
+  "宇宙よりも遠い場所": {
+   "zh": "比宇宙更遠的地方",
+   "en": "A Place Further than the Universe"
+  },
+  "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン": {
+   "zh": "刀劍神域外傳 Gun Gale Online",
+   "en": "Sword Art Online Alternative: Gun Gale Online"
+  },
+  "勇者刑に処す 懲罰勇者9004隊刑務記録": {
+   "zh": "判處勇者刑 懲罰勇者9004隊刑務紀錄",
+   "en": "Sentenced to Be a Hero"
+  },
+  "僕は友達が少ない": {
+   "zh": "我的朋友很少",
+   "en": "Haganai"
+  },
+  "ゆるキャン△": {
+   "zh": "搖曳露營△",
+   "en": "Laid-Back Camp"
+  },
+  "甘城ブリリアントパーク": {
+   "zh": "甘城輝煌樂園救世主",
+   "en": "Amagi Brilliant Park"
+  },
+  "アクダマドライブ": {
+   "zh": "全員惡玉",
+   "en": "Akudama Drive"
+  },
+  "僕の心のヤバイやつ": {
+   "zh": "我內心的糟糕念頭",
+   "en": "The Dangers in My Heart"
+  },
+  "メイドインアビス 深き魂の黎明": {
+   "zh": "來自深淵 (動畫)"
+  },
+  "見える子ちゃん": {
+   "zh": "陰陽眼見子",
+   "en": "Mieruko-chan"
+  },
+  "新妹魔王の契約者": {
+   "zh": "新妹魔王的契约者",
+   "en": "The Testament of Sister New Devil"
+  },
+  "宝石の国": {
+   "zh": "寶石之國",
+   "en": "Land of the Lustrous"
+  },
+  "月がきれい": {
+   "zh": "月色真美",
+   "en": "Tsuki ga Kirei"
+  },
+  "憂国のモリアーティ": {
+   "zh": "憂國的莫里亞蒂",
+   "en": "Moriarty the Patriot"
+  },
+  "異世界はスマートフォンとともに。": {
+   "zh": "帶著智慧型手機闖蕩異世界。",
+   "en": "In Another World with My Smartphone"
+  },
+  "メイドインアビス 烈日の黄金郷": {
+   "zh": "來自深淵 (動畫)"
+  },
+  "パプリカ": {
+   "zh": "紅甜椒粉",
+   "en": "Paprika"
+  },
+  "学戦都市アスタリスク": {
+   "zh": "學戰都市Asterisk",
+   "en": "The Asterisk War"
+  },
+  "ゼロの使い魔": {
+   "zh": "零之使魔",
+   "en": "The Familiar of Zero"
+  },
+  "アオのハコ": {
+   "zh": "青春之箱",
+   "en": "Blue Box (manga)"
+  },
+  "Re:ゼロから始める異世界生活 4th season": {
+   "zh": "Re:從零開始的異世界生活 (動畫)",
+   "en": "Re:Zero (TV series)"
+  },
+  "ブルーピリオド": {
+   "zh": "藍色時期 (漫畫)",
+   "en": "Blue Period (manga)"
+  },
+  "好きっていいなよ。": {
+   "zh": "只要妳說妳愛我",
+   "en": "Say I Love You (manga)"
+  },
+  "とある科学の超電磁砲": {
+   "zh": "科學超電磁砲",
+   "en": "A Certain Scientific Railgun"
+  },
+  "私がモテないのはどう考えてもお前らが悪い!": {
+   "zh": "我不受歡迎，怎麼想都是你們的錯！",
+   "en": "No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!"
+  },
+  "ゾンビランドサガ": {
+   "zh": "佐賀偶像是傳奇",
+   "en": "Zombie Land Saga"
+  },
+  "魔女の旅々": {
+   "zh": "魔女之旅",
+   "en": "Wandering Witch: The Journey of Elaina"
+  },
+  "ばらかもん": {
+   "zh": "元氣囝仔",
+   "en": "Barakamon"
+  },
+  "グレイプニル": {
+   "zh": "格萊普尼爾",
+   "en": "Gleipnir"
+  },
+  "オッドタクシー": {
+   "zh": "奇巧計程車",
+   "en": "Odd Taxi"
+  },
+  "食戟のソーマ 豪ノ皿": {
+   "zh": "食戟之靈 (動畫)"
+  },
+  "ヒナまつり": {
+   "zh": "極道超女",
+   "en": "Hinamatsuri (manga)"
+  },
+  "ポケットモンスター": {
+   "zh": "宝可梦系列",
+   "en": "Pokémon"
+  },
+  "はじめてのギャル": {
+   "zh": "辣妹與我的第一次",
+   "en": "My First Girlfriend Is a Gal"
+  },
+  "あそびあそばせ": {
+   "zh": "遊戲3人娘",
+   "en": "Asobi Asobase"
+  },
+  "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…": {
+   "zh": "轉生成女性向遊戲只有毀滅END的壞人大小姐",
+   "en": "My Next Life as a Villainess: All Routes Lead to Doom!"
+  },
+  "さよならの朝に約束の花をかざろう": {
+   "zh": "道別的早晨就用約定之花點綴吧",
+   "en": "Maquia: When the Promised Flower Blooms"
+  },
+  "タコピーの原罪": {
+   "zh": "章魚嗶的原罪",
+   "en": "Takopi's Original Sin"
+  },
+  "光が死んだ夏": {
+   "zh": "光逝去的夏天",
+   "en": "The Summer Hikaru Died"
+  },
+  "はじめの一歩 THE FIGHTING!": {
+   "zh": "第一神拳",
+   "en": "Hajime no Ippo"
+  },
+  "俺の妹がこんなに可愛いわけがない": {
+   "zh": "我的妹妹哪有這麼可愛！",
+   "en": "Oreimo"
+  },
+  "ネトゲの嫁は女の子じゃないと思った?": {
+   "zh": "線上遊戲的老婆不可能是女生？",
+   "en": "And You Thought There Is Never a Girl Online?"
+  },
+  "らき☆すた": {
+   "zh": "幸運☆星",
+   "en": "Lucky Star (manga)"
+  },
+  "グリザイアの果実": {
+   "zh": "灰色的果實",
+   "en": "The Fruit of Grisaia"
+  },
+  "ブルーロック VS. U-20 JAPAN": {
+   "zh": "BLUE LOCK 藍色監獄",
+   "en": "Blue Lock"
+  },
+  "わたしの幸せな結婚": {
+   "zh": "我的幸福婚約",
+   "en": "My Happy Marriage"
+  },
+  "ヱヴァンゲリヲン新劇場版:序": {
+   "zh": "福音戰士新劇場版：序",
+   "en": "Evangelion: 1.0 You Are (Not) Alone"
+  },
+  "黄泉のツガイ": {
+   "zh": "黃泉使者",
+   "en": "Daemons of the Shadow Realm"
+  },
+  "弱キャラ友崎くん": {
+   "zh": "弱角友崎同學",
+   "en": "Bottom-tier Character Tomozaki"
+  },
+  "ゆびさきと恋々": {
+   "zh": "指尖相觸，戀戀不捨",
+   "en": "A Sign of Affection"
+  },
+  "プランダラ": {
+   "zh": "掠奪者 (漫畫)",
+   "en": "Plunderer (manga)"
+  },
+  "To LOVEる -とらぶる-": {
+   "zh": "出包王女",
+   "en": "To Love Ru"
+  },
+  "現実主義勇者の王国再建記": {
+   "zh": "現實主義勇者的王國重建記",
+   "en": "How a Realist Hero Rebuilt the Kingdom"
+  },
+  "バキ": {
+   "zh": "刃牙",
+   "en": "Baki the Grappler"
+  },
+  "スライム倒して300年、知らないうちにレベルMAXになってました": {
+   "zh": "持續狩獵史萊姆三百年，不知不覺就練到LV MAX",
+   "en": "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
+  },
+  "俺を好きなのはお前だけかよ": {
+   "zh": "喜歡本大爺的竟然就妳一個？",
+   "en": "Oresuki"
+  },
+  "ゴールデンカムイ": {
+   "zh": "黃金神威",
+   "en": "Golden Kamuy"
+  },
+  "ブラッドラッド": {
+   "zh": "BLOOD LAD 血意少年",
+   "en": "Blood Lad"
+  },
+  "七つの大罪 憤怒の審判": {
+   "zh": "七大罪 (漫畫)",
+   "en": "The Seven Deadly Sins (manga)"
+  },
+  "メガロボクス": {
+   "zh": "MEGALO BOX",
+   "en": "Megalobox"
+  },
+  "僕のヒーローアカデミア FINAL SEASON": {
+   "zh": "我的英雄學院 (動畫)",
+   "en": "My Hero Academia (TV series)"
+  },
+  "ラブ★コン": {
+   "zh": "戀愛情結",
+   "en": "Love Com"
+  },
+  "やがて君になる": {
+   "zh": "終將成為妳",
+   "en": "Bloom Into You"
+  },
+  "無彩限のファントム・ワールド": {
+   "zh": "無彩限的幻影世界",
+   "en": "Myriad Colors Phantom World"
+  },
+  "デスマーチからはじまる異世界狂想曲": {
+   "zh": "爆肝工程師的異世界狂想曲",
+   "en": "Death March to the Parallel World Rhapsody"
+  },
+  "凪のあすから": {
+   "zh": "来自风平浪静的明天",
+   "en": "Nagi-Asu: A Lull in the Sea"
+  },
+  "君のことが大大大大大好きな100人の彼女": {
+   "zh": "超超超超超喜歡你的100個女朋友",
+   "en": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You"
+  },
+  "スーパーの裏でヤニ吸うふたり": {
+   "zh": "躲在超市後門抽菸的兩人",
+   "en": "Smoking Behind the Supermarket with You"
+  },
+  "ネト充のススメ": {
+   "zh": "網路勝利組",
+   "en": "Recovery of an MMO Junkie"
+  },
+  "さんかれあ": {
+   "zh": "殭屍哪有那麼萌？",
+   "en": "Sankarea: Undying Love"
+  },
+  "神のみぞ知るセカイ": {
+   "zh": "只有神知道的世界",
+   "en": "The World God Only Knows"
+  },
+  "異世界おじさん": {
+   "zh": "異世界歸來的舅舅",
+   "en": "Uncle from Another World"
+  },
+  "スキップとローファー": {
+   "zh": "躍動青春",
+   "en": "Skip and Loafer"
+  },
+  "ヱヴァンゲリヲン新劇場版:破": {
+   "zh": "福音戰士新劇場版：破",
+   "en": "Evangelion: 2.0 You Can (Not) Advance"
+  },
+  "ありふれた職業で世界最強 2nd season": {
+   "zh": "平凡職業造就世界最強",
+   "en": "Arifureta"
+  },
+  "六花の勇者": {
+   "zh": "六花的勇者",
+   "en": "Rokka: Braves of the Six Flowers"
+  },
+  "IS〈インフィニット・ストラトス〉": {
+   "zh": "IS〈Infinite Stratos〉",
+   "en": "Infinite Stratos"
+  },
+  "天空の城ラピュタ": {
+   "zh": "天空之城",
+   "en": "Castle in the Sky"
+  },
+  "乙女ゲー世界はモブに厳しい世界です": {
+   "zh": "女性向遊戲世界對路人角色很不友好",
+   "en": "Trapped in a Dating Sim (novel)"
+  },
+  "アンデッドアンラック": {
+   "zh": "不死不運",
+   "en": "Undead Unluck"
+  },
+  "正反対な君と僕": {
+   "zh": "相反的你和我",
+   "en": "You and I Are Polar Opposites"
+  },
+  "終末のワルキューレ": {
+   "zh": "終末的女武神",
+   "en": "Record of Ragnarok"
+  },
+  "炎炎ノ消防隊 参ノ章": {
+   "zh": "炎炎消防隊",
+   "en": "Fire Force"
+  },
+  "カノジョも彼女": {
+   "zh": "女朋友 and 女朋友",
+   "en": "Girlfriend, Girlfriend"
+  },
+  "探偵はもう、死んでいる。": {
+   "zh": "偵探已經，死了。",
+   "en": "The Detective Is Already Dead"
+  },
+  "アクセル・ワールド": {
+   "zh": "加速世界",
+   "en": "Accel World"
+  },
+  "俺の彼女と幼なじみが修羅場すぎる": {
+   "zh": "我女友與青梅竹馬的慘烈修羅場",
+   "en": "Oreshura"
+  },
+  "治癒魔法の間違った使い方": {
+   "zh": "治癒魔法的錯誤使用法～奔赴戰場的回復要員～",
+   "en": "The Wrong Way to Use Healing Magic"
+  },
+  "ぼくたちは勉強ができない": {
+   "zh": "我們真的學不來！",
+   "en": "We Never Learn"
+  },
+  "ドラゴンボールGT": {
+   "zh": "七龍珠GT",
+   "en": "Dragon Ball GT"
+  },
+  "ガヴリールドロップアウト": {
+   "zh": "廢天使加百列",
+   "en": "Gabriel DropOut"
+  },
+  "異世界魔王と召喚少女の奴隷魔術Ω": {
+   "zh": "異世界魔王與召喚少女的奴隸魔術",
+   "en": "How Not to Summon a Demon Lord"
+  },
+  "俺だけ入れる隠しダンジョン": {
+   "zh": "只有我能進入的隱藏迷宮",
+   "en": "The Hidden Dungeon Only I Can Enter"
+  },
+  "BNA ビー・エヌ・エー": {
+   "zh": "动物新世代 BNA",
+   "en": "BNA: Brand New Animal"
+  },
+  "プラチナエンド": {
+   "zh": "Platinum End",
+   "en": "Platinum End"
+  },
+  "阿波連さんははかれない": {
+   "zh": "不會拿捏距離的阿波連同學",
+   "en": "Aharen-san Is Indecipherable"
+  },
+  "たまこまーけっと": {
+   "zh": "玉子市場",
+   "en": "Tamako Market"
+  },
+  "ルックバック": {
+   "zh": "驀然回首 (漫畫)",
+   "en": "Look Back (manga)"
+  },
+  "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました": {
+   "zh": "因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生",
+   "en": "Banished from the Hero's Party"
+  },
+  "ストライク・ザ・ブラッド": {
+   "zh": "噬血狂襲",
+   "en": "Strike the Blood"
+  },
+  "チ。-地球の運動について-": {
+   "zh": "地。-關於地球的運動-",
+   "en": "Orb: On the Movements of the Earth"
+  },
+  "ロザリオとバンパイア": {
+   "zh": "十字架與吸血鬼",
+   "en": "Rosario + Vampire"
+  },
+  "田中くんはいつもけだるげ": {
+   "zh": "田中君總是如此慵懶",
+   "en": "Tanaka-kun Is Always Listless"
+  },
+  "ピンポン THE ANIMATION": {
+   "zh": "乒乓 (漫畫)",
+   "en": "Ping Pong (manga)"
+  },
+  "双星の陰陽師": {
+   "zh": "雙星之陰陽師",
+   "en": "Twin Star Exorcists"
+  },
+  "がっこうぐらし!": {
+   "zh": "學園孤島",
+   "en": "School-Live!"
+  },
+  "ドラゴンボール超 ブロリー": {
+   "zh": "七龍珠超 布羅利",
+   "en": "Dragon Ball Super: Broly"
+  },
+  "杖と剣のウィストリア Season2": {
+   "zh": "杖與劍的魔劍譚",
+   "en": "Wistoria: Wand and Sword"
+  },
+  "骸骨騎士様、只今異世界へお出掛け中": {
+   "zh": "骸骨騎士大人異世界冒險中",
+   "en": "Skeleton Knight in Another World"
+  },
+  "ヱヴァンゲリヲン新劇場版:Q": {
+   "zh": "福音戰士新劇場版：Q",
+   "en": "Evangelion: 3.0 You Can (Not) Redo"
+  },
+  "ちはやふる": {
+   "zh": "花牌情緣",
+   "en": "Chihayafuru"
+  },
+  "理系が恋に落ちたので証明してみた。": {
+   "zh": "理科生墜入情網，故嘗試證明。",
+   "en": "Science Fell in Love, So I Tried to Prove It"
+  },
+  "月が導く異世界道中 第二幕": {
+   "zh": "月光下的異世界之旅",
+   "en": "Tsukimichi: Moonlit Fantasy"
+  },
+  "無能なナナ": {
+   "zh": "無能力者娜娜",
+   "en": "Talentless Nana"
+  },
+  "とんでもスキルで異世界放浪メシ": {
+   "zh": "擁有超常技能的異世界流浪美食家",
+   "en": "Campfire Cooking in Another World with My Absurd Skill"
+  },
+  "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期": {
+   "zh": "歡迎來到實力至上主義的教室 (動畫)",
+   "en": "Classroom of the Elite (TV series)"
+  },
+  "問題児たちが異世界から来るそうですよ?": {
+   "zh": "問題兒童都來自異世界？",
+   "en": "Problem Children Are Coming from Another World, Aren't They?"
+  },
+  "君に届け 2ND SEASON": {
+   "zh": "只想告訴你",
+   "en": "Kimi ni Todoke"
+  },
+  "転生したら剣でした": {
+   "zh": "轉生就是劍",
+   "en": "Reincarnated as a Sword"
+  },
+  "バクマン。": {
+   "zh": "爆漫王。",
+   "en": "Bakuman"
+  },
+  "アブソリュート・デュオ": {
+   "zh": "絕對雙刃",
+   "en": "Absolute Duo"
+  },
+  "ワールドトリガー": {
+   "zh": "境界觸發者",
+   "en": "World Trigger"
+  },
+  "たまこラブストーリー": {
+   "zh": "玉子市場",
+   "en": "Tamako Market"
+  },
+  "終末なにしてますか? 忙しいですか? 救ってもらっていいですか?": {
+   "zh": "末日時在做什麼？系列",
+   "en": "WorldEnd"
+  },
+  "ラグナクリムゾン": {
+   "zh": "狩龍人拉格納",
+   "en": "Ragna Crimson"
+  },
+  "魔都精兵のスレイブ": {
+   "zh": "魔都精兵的奴隸",
+   "en": "Chained Soldier"
+  },
+  "異世界のんびり農家": {
+   "zh": "異世界悠閒農家",
+   "en": "Farming Life in Another World"
+  },
+  "ラザロ": {
+   "zh": "拉撒路",
+   "en": "Lazarus of Bethany"
+  },
+  "氷の城壁": {
+   "zh": "冰之城牆",
+   "en": "The Ramparts of Ice"
+  },
+  "ヤニねこ": {
+   "zh": "尼古喵喵",
+   "en": "Chainsmoker Cat"
+  },
+  "転生貴族、鑑定スキルで成り上がる": {
+   "zh": "轉生貴族憑鑑定技能扭轉人生～繼承弱小領土後，招募優秀人才打造最強領土～",
+   "en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
+  },
+  "夜桜さんちの大作戦": {
+   "zh": "夜櫻家大作戰",
+   "en": "Mission: Yozakura Family"
+  },
+  "追放された転生重騎士はゲーム知識で無双する": {
+   "zh": "遭到流放的轉生重騎士憑藉遊戲知識大開無雙",
+   "en": "The Exiled Heavy Knight Knows How to Game the System"
+  },
+  "勇者パーティを追い出された器用貧乏": {
+   "zh": "泛而不精的我被逐出了勇者队伍～因为队伍需要成为赋予术士的原剑士，走向万能之路～",
+   "en": "Jack-of-All-Trades, Party of None"
+  },
+  "愛してるゲームを終わらせたい": {
+   "zh": "想結束這場「我愛你」的遊戲",
+   "en": "I Want to End This Love Game"
+  },
+  "二十世紀電氣目録-ユーレカ・エヴリカ-": {
+   "zh": "二十世纪电气目录",
+   "en": "Sparks of Tomorrow"
+  },
+  "乙女ゲー世界はモブに厳しい世界です2": {
+   "zh": "女性向遊戲世界對路人角色很不友好",
+   "en": "Trapped in a Dating Sim (novel)"
+  },
+  "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～": {
+   "zh": "地獄模式 ～喜歡挑戰特殊成就的玩家在廢設定的異世界成為無雙～",
+   "en": "Hell Mode"
+  },
+  "透明な夜に駆ける君と、目に見えない恋をした。": {
+   "zh": "與奔馳於透明之夜的你，談一場看不見的戀愛。",
+   "en": "Love Unseen Beneath the Clear Night Sky"
+  },
+  "ホタルの嫁入り": {
+   "zh": "螢火蟲的出嫁",
+   "en": "Firefly Wedding"
+  },
+  "天幕のジャードゥーガル": {
+   "zh": "穹廬下的魔女",
+   "en": "A Witch's Life in Mongol"
+  },
+  "どうも、好きな人に惚れ薬を依頼された魔女です。": {
+   "zh": "你好，身为魔女的我，被心上人委托制作迷情药",
+   "en": "Hello, I am a Witch, and My Crush Wants Me to Make a Love Potion!"
+  },
+  "ドラゴンボール超 ビルス": {
+   "zh": "龍珠超",
+   "en": "Dragon Ball Super (TV series)"
+  },
+  "凶乱令嬢ニア・リストン": {
+   "zh": "亂世千金倪亞·利斯頓 轉生為嬌弱千金的弒神武人華麗無雙錄",
+   "en": "Nia Liston: The Merciless Maiden"
+  },
+  "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい": {
+   "zh": "一覺醒來就有了最強裝備跟太空船 決定以自家獨棟建築為目標當傭兵自由過活",
+   "en": "Reborn as a Space Mercenary"
+  },
+  "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる": {
+   "zh": "魔法★探險家 轉生為成人遊戲萬年男二又怎樣，我要活用遊戲知識自由生活",
+   "en": "Magical Explorer"
+  },
+  "貸した魔力は【リボ払い】で強制徴収": {
+   "zh": "用【循環利息】強制收回借出的魔力",
+   "en": "Magic Repo Man"
+  },
+  "塩対応の佐藤さんが俺にだけ甘い": {
+   "zh": "冷淡的佐藤同學只對我撒嬌",
+   "en": "The Salty Koharu Has a Soft Spot for Me"
+  },
+  "信者ゼロの女神サマと始める異世界攻略": {
+   "zh": "和沒有信徒的女神大人一起攻略異世界",
+   "en": "Full Clearing Another World Under a Goddess with Zero Believers"
+  },
+  "世界最強の魔女、始めました": {
+   "en": "The World's Strongest Witch",
+   "zh": "世界最强的魔女，就此开始"
+  },
+  "転生した大聖女は、聖女であることをひた隠す": {
+   "zh": "轉生後的大聖女，極力隱瞞聖女的身分",
+   "en": "A Tale of the Secret Saint"
+  },
+  "FX戦士くるみちゃん": {
+   "zh": "FX战士久留美",
+   "en": "FX Fighter Kurumi-chan"
+  },
+  "ロメリア戦記 〜魔王を倒した後も人類やばそうだから軍隊組織した〜": {
+   "zh": "罗梅莉亚战记 ～虽然打倒了魔王但人类看起来还是很危险所以我组建了军队～",
+   "en": "Romelia War Chronicle"
+  },
+  "朱色の仮面": {
+   "en": "The Vermilion Mask",
+   "zh": "朱色假面"
+  },
+  "とある暗部の少女共棲": {
+   "zh": "暗部共生少女",
+   "en": "A Certain Dark Item"
+  },
+  "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった": {
+   "zh": "极致软弱千金小姐，不小心答应了精明未婚夫的赌局",
+   "en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet from My Cunning Fiancé"
+  },
+  "魔法騎士レイアース (2026)": {
+   "zh": "魔法騎士",
+   "en": "Magic Knight Rayearth"
+  },
+  "デモンズ・クレスト": {
+   "zh": "恶魔纹章",
+   "en": "Demons' Crest"
+  },
+  "彼方から": {
+   "zh": "來自遠方 (漫畫)",
+   "en": "From Far Away"
+  },
+  "おじさんはカワイイものがお好き。": {
+   "zh": "大叔喜歡可愛小玩意",
+   "en": "Uncle's Obsession with Cute Things"
+  },
+  "縁結びの妖狐ちゃん": {
+   "zh": "狐妖小红娘",
+   "en": "Fox Spirit Matchmaker"
+  },
+  "空の境界": {
+   "zh": "空之境界",
+   "en": "The Garden of Sinners"
+  },
+  "三日間の幸福": {
+   "zh": "三秋縋"
+  },
+  "夏へのトンネル、さよならの出口": {
+   "zh": "通往夏天的隧道，再見的出口",
+   "en": "The Tunnel to Summer, the Exit of Goodbyes"
+  },
+  "安達としまむら": {
+   "zh": "安達與島村",
+   "en": "Adachi and Shimamura"
+  },
+  "“文学少女”と死にたがりの道化": {
+   "zh": "文學少女",
+   "en": "Book Girl"
+  },
+  "〈物語〉シリーズ": {
+   "zh": "物語系列",
+   "en": "Monogatari (series)"
+  },
+  "戯言シリーズ": {
+   "zh": "戲言系列",
+   "en": "Zaregoto"
+  },
+  "〈古典部〉シリーズ": {
+   "zh": "古籍研究社系列"
+  },
+  "ノルウェイの森": {
+   "zh": "挪威的森林 (小说)",
+   "en": "Norwegian Wood (novel)"
+  },
+  "ナミヤ雑貨店の奇蹟": {
+   "zh": "解憂雜貨店",
+   "en": "The Miracles of the Namiya General Store"
+  },
+  "あそびのかんけい": {
+   "zh": "玩玩的戀愛關係",
+   "en": "Playful Relationships"
+  },
+  "週に一度クラスメイトを買う話": {
+   "zh": "我買下了與她的每週密會",
+   "en": "Buying a Classmate Once a Week"
+  },
+  "フルメタル・パニック!": {
+   "zh": "驚爆危機",
+   "en": "Full Metal Panic!"
+  },
+  "姑獲鳥の夏": {
+   "zh": "姑獲鳥之夏",
+   "en": "The Summer of the Ubume"
+  },
+  "〈小市民〉シリーズ": {
+   "zh": "小市民系列",
+   "en": "Shōshimin Series"
+  },
+  "雨の日のアイリス": {
+   "zh": "雨天的艾莉絲"
+  },
+  "ミモザの告白": {
+   "zh": "銀荊的告白",
+   "en": "The Mimosa Confessions"
+  },
+  "誰が勇者を殺したか": {
+   "zh": "誰殺了勇者",
+   "en": "Who Killed the Hero?"
+  },
+  "こちら、終末停滞委員会。": {
+   "zh": "這裡是終局停滯委員會。",
+   "en": "This Is the End Stagnation Committee"
+  },
+  "シン・ウルトラマン": {
+   "zh": "新·奥特曼",
+   "en": "Shin Ultraman"
+  },
+  "花束みたいな恋をした": {
+   "zh": "她和他的戀愛花期"
+  },
+  "ウルトラマンティガ THE FINAL ODYSSEY": {
+   "zh": "迪迦奥特曼：最终圣战",
+   "en": "Ultraman Tiga: The Final Odyssey"
+  },
+  "るろうに剣心": {
+   "zh": "浪客剑心",
+   "en": "Rurouni Kenshin"
+  },
+  "七人の侍": {
+   "zh": "七武士",
+   "en": "Seven Samurai"
+  },
+  "るろうに剣心 京都大火編": {
+   "zh": "浪客劍心 (電影)",
+   "en": "Rurouni Kenshin (film)"
+  },
+  "万引き家族": {
+   "zh": "小偷家族",
+   "en": "Shoplifters (film)"
+  },
+  "リリイ・シュシュのすべて": {
+   "zh": "关于莉莉周的一切",
+   "en": "All About Lily Chou-Chou"
+  },
+  "るろうに剣心 最終章 The Beginning": {
+   "zh": "浪客劍心 (電影)",
+   "en": "Rurouni Kenshin (film)"
+  },
+  "ウルトラマンブレーザー THE MOVIE 大怪獣首都激突": {
+   "zh": "布莱泽奥特曼",
+   "en": "Ultraman Blazar"
+  },
+  "ミックス。": {
+   "zh": "乒乓情人夢",
+   "en": "Mixed Doubles (2017 film)"
+  },
+  "夢と狂気の王国": {
+   "zh": "夢與瘋狂之王國",
+   "en": "The Kingdom of Dreams and Madness"
+  },
+  "リンダ リンダ リンダ": {
+   "zh": "琳達！琳達！",
+   "en": "Linda Linda Linda"
+  },
+  "百円の恋": {
+   "zh": "百元之戀",
+   "en": "100 Yen Love"
+  },
+  "東京喰種 トーキョーグール": {
+   "zh": "东京喰种"
+  },
+  "進撃の巨人 Season２": {
+   "zh": "进击的巨人"
+  },
+  "進撃の巨人 Season３": {
+   "zh": "进击的巨人"
+  },
+  "僕のヒーローアカデミア２": {
+   "zh": "我的英雄学院"
+  },
+  "進撃の巨人 Season３ Part.2": {
+   "zh": "进击的巨人"
+  },
+  "僕のヒーローアカデミア３": {
+   "zh": "我的英雄学院"
+  },
+  "かぐや様は告らせたい～天才たちの恋愛頭脳戦～": {
+   "zh": "辉夜大小姐想让我告白～天才们的恋爱头脑战～"
+  },
+  "とらドラ！": {
+   "zh": "龙与虎"
+  },
+  "アカメが斬る！": {
+   "zh": "斩·赤红之瞳！"
+  },
+  "僕のヒーローアカデミア４": {
+   "zh": "我的英雄学院"
+  },
+  "この素晴らしい世界に祝福を！": {
+   "zh": "为美好的世界献上祝福！"
+  },
+  "鬼滅の刃 無限列車編": {
+   "zh": "鬼灭之刃 无限列车篇"
+  },
+  "ジョジョの奇妙な冒険 (TV)": {
+   "zh": "JOJO的奇妙冒险"
+  },
+  "ワンパンマン 2": {
+   "zh": "一拳超人"
+  },
+  "無職転生 ～異世界行ったら本気だす～": {
+   "zh": "无职转生～到了异世界就拿出真本事～"
+  },
+  "ソードアート・オンライン II": {
+   "zh": "刀剑神域 第二季"
+  },
+  "進撃の巨人 The Final Season Part 2": {
+   "zh": "进击的巨人 最终季 Part.2"
+  },
+  "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～": {
+   "zh": "辉夜大小姐想让我告白?～天才们的恋爱头脑战～"
+  },
+  "Charlotte(シャーロット)": {
+   "zh": "夏洛特"
+  },
+  "僕のヒーローアカデミア５": {
+   "zh": "我的英雄学院"
+  },
+  "東京喰種[トーキョーグール]√A": {
+   "zh": "东京喰种√A"
+  },
+  "Re:ゼロから始める異世界生活 2nd Season": {
+   "zh": "Re：从零开始的异世界生活 第二季"
+  },
+  "この素晴らしい世界に祝福を！2": {
+   "zh": "为美好的世界献上祝福！ 第二季"
+  },
+  "コードギアス 反逆のルルーシュ R2": {
+   "zh": "Code Geass 反叛的鲁路修R2"
+  },
+  "鬼滅の刃 無限列車編 (TV)": {
+   "zh": "鬼灭之刃 无限列车篇"
+  },
+  "SPY×FAMILY 第2クール": {
+   "zh": "间谍过家家 第2部分"
+  },
+  "86－エイティシックス－": {
+   "zh": "86 -不存在的战区-"
+  },
+  "無職転生 ～異世界行ったら本気だす～ 第2クール": {
+   "zh": "无职转生～到了异世界就拿出真本事～"
+  },
+  "転生したらスライムだった件 第2期": {
+   "zh": "关于我转生变成史莱姆这档事 第二季"
+  },
+  "約束のネバーランド2": {
+   "zh": "约定的梦幻岛"
+  },
+  "陰の実力者になりたくて！": {
+   "zh": "想要成为影之实力者！"
+  },
+  "Re:ゼロから始める異世界生活 2nd Season Part 2": {
+   "zh": "Re：从零开始的异世界生活 第二季"
+  },
+  "フルーツバスケット 1st Season": {
+   "zh": "水果篮子 第一季"
+  },
+  "東京喰種-トーキョーグール-:re": {
+   "zh": "东京喰种:re"
+  },
+  "ジョジョの奇妙な冒険 黄金の風": {
+   "zh": "JOJO的奇妙冒险 黄金之风"
+  },
+  "ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編": {
+   "zh": "JOJO的奇妙冒险 星尘斗士 埃及篇"
+  },
+  "よふかしのうた": {
+   "zh": "彻夜之歌"
+  },
+  "転生したらスライムだった件 第2期 第2クール": {
+   "zh": "关于我转生变成史莱姆这档事 第二季"
+  },
+  "僕のヒーローアカデミア６": {
+   "zh": "我的英雄学院"
+  },
+  "無職転生Ⅱ ～異世界行ったら本気だす～": {
+   "zh": "无职转生 第二季 ～到了异世界就拿出真本事～"
+  },
+  "ぼっち・ざ・ろっく！": {
+   "zh": "孤独摇滚！"
+  },
+  "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～": {
+   "zh": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～"
+  },
+  "オーバーロードⅡ": {
+   "zh": "OVERLORD 第二季"
+  },
+  "モブサイコ100 Ⅲ": {
+   "zh": "灵能百分百 第三季"
+  },
+  "ハイキュー!! TO THE TOP 2": {
+   "zh": "排球少年 TO THE TOP"
+  },
+  "秒速５センチメートル": {
+   "zh": "秒速5厘米"
+  },
+  "監獄学園〈プリズンスクール〉": {
+   "zh": "监狱学园"
+  },
+  "オーバーロードⅢ": {
+   "zh": "OVERLORD 第三季"
+  },
+  "落第騎士の英雄譚（キャバルリィ）": {
+   "zh": "落第骑士英雄谭"
+  },
+  "盾の勇者の成り上がり Season 2": {
+   "zh": "盾之勇者成名录 第二季"
+  },
+  "ダンジョンに出会いを求めるのは間違っているだろうかⅡ": {
+   "zh": "在地下城寻求邂逅是否搞错了什么"
+  },
+  "この素晴らしい世界に祝福を！紅伝説": {
+   "zh": "电影 为美好的世界献上祝福！红传说"
+  },
+  "Fate/Zero 2ndシーズン": {
+   "zh": "Fate/Zero"
+  },
+  "地縛少年 花子くん": {
+   "zh": "地缚少年花子君"
+  },
+  "文豪ストレイドッグス 第2シーズン": {
+   "zh": "文豪野犬 第二季"
+  },
+  "東京喰種-トーキョーグール-:re 2": {
+   "zh": "东京喰种:re"
+  },
+  "葬送のフリーレン 第2期": {
+   "zh": "葬送的芙莉莲 第二季"
+  },
+  "ダンダダン 第2期": {
+   "zh": "胆大党 第二季"
+  },
+  "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール": {
+   "zh": "无职转生 第二季 ～到了异世界就拿出真本事～"
+  },
+  "薬屋のひとりごと 第2期": {
+   "zh": "药屋少女的呢喃 第二季"
+  },
+  "３月のライオン": {
+   "zh": "3月的狮子"
+  },
+  "N・H・Kにようこそ！": {
+   "zh": "欢迎加入NHK！"
+  },
+  "Fate/stay night [Unlimited Blade Works] 2ndシーズン": {
+   "zh": "Fate/stay night [Unlimited Blade Works] 第二季"
+  },
+  "劇場版 ヴァイオレット・エヴァーガーデン": {
+   "zh": "剧场版 紫罗兰永恒花园"
+  },
+  "慎重勇者～この勇者が俺ＴＵＥＥＥくせに慎重すぎる～": {
+   "zh": "慎重勇者 ～这个勇者明明超强却过分慎重～"
+  },
+  "ロクでなし魔術講師と禁忌教典(アカシックレコード)": {
+   "zh": "不正经的魔术讲师与禁忌教典"
+  },
+  "涼宮ハルヒの憂鬱": {
+   "zh": "凉宫春日的忧郁"
+  },
+  "ダンジョンに出会いを求めるのは間違っているだろうかⅢ": {
+   "zh": "在地下城寻求邂逅是否搞错了什么"
+  },
+  "86－エイティシックス－ 第2クール": {
+   "zh": "86 -不存在的战区- 第2部分"
+  },
+  "陰の実力者になりたくて！ 2nd season": {
+   "zh": "想要成为影之实力者！ 第二季"
+  },
+  "終わりのセラフ　名古屋決戦編": {
+   "zh": "终结的炽天使 名古屋决战篇"
+  },
+  "文豪ストレイドッグス 第3シーズン": {
+   "zh": "文豪野犬 第三季"
+  },
+  "ハイスクールDxD NEW": {
+   "zh": "恶魔高校 D×D NEW"
+  },
+  "ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)": {
+   "zh": "刀剑神域 爱丽丝篇 异界战争"
+  },
+  "ソードアート・オンライン -オーディナル・スケール-": {
+   "zh": "刀剑神域"
+  },
+  "ジョジョの奇妙な冒険 ストーンオーシャン": {
+   "zh": "JOJO的奇妙冒险 石之海"
+  },
+  "転生したらスライムだった件 第3期": {
+   "zh": "关于我转生变成史莱姆这档事 第三季"
+  },
+  "斉木楠雄のΨ難 2": {
+   "zh": "齐木楠雄的灾难"
+  },
+  "バッカーノ！": {
+   "zh": "永生之酒"
+  },
+  "僕のヒーローアカデミア 7": {
+   "zh": "我的英雄学院"
+  },
+  "フルーツバスケット 2nd Season": {
+   "zh": "水果篮子 第二季"
+  },
+  "マッシュル-MASHLE- 神覚者候補選抜試験編": {
+   "zh": "物理魔法使马修 神觉者候补选拔试验篇"
+  },
+  "中二病でも恋がしたい！戀": {
+   "zh": "中二病也要谈恋爱！恋"
+  },
+  "黒子のバスケ 2nd SEASON": {
+   "zh": "黑子的篮球"
+  },
+  "【推しの子】第2期": {
+   "zh": "【我推的孩子】 第二季"
+  },
+  "オーバーロードⅣ": {
+   "zh": "OVERLORD"
+  },
+  "トモちゃんは女の子！": {
+   "zh": "智酱是女生！"
+  },
+  "ハイスクールDxD BorN": {
+   "zh": "恶魔高校 D×D BorN"
+  },
+  "フルーツバスケットThe Final": {
+   "zh": "水果篮子 最终季"
+  },
+  "無職転生Ⅲ ～異世界行ったら本気だす～": {
+   "zh": "无职转生 第三季 ～到了异世界就拿出真本事～"
+  },
+  "干物妹！うまるちゃん": {
+   "zh": "干物妹！小埋"
+  },
+  "『食戟のソーマ 餐ノ皿』 遠月列車篇": {
+   "zh": "食戟之灵 餐之皿 远月列车篇"
+  },
+  "魔入りました！入間くん": {
+   "zh": "入间同学入魔了"
+  },
+  "古見さんは、コミュ症です。2": {
+   "zh": "古见同学有交流障碍症 第二季"
+  },
+  "リトルウィッチアカデミア (TV)": {
+   "zh": "小魔女学园"
+  },
+  "ニセコイ：": {
+   "zh": "伪恋"
+  },
+  "小林さんちのメイドラゴンＳ": {
+   "zh": "小林家的龙女仆"
+  },
+  "黒子のバスケ 3rd SEASON": {
+   "zh": "黑子的篮球"
+  },
+  "はたらく魔王さま！！": {
+   "zh": "打工吧！魔王大人"
+  },
+  "蜘蛛ですが、なにか？": {
+   "zh": "转生成蜘蛛又怎样！"
+  },
+  "ワンパンマン３": {
+   "zh": "一拳超人"
+  },
+  "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～": {
+   "zh": "在异世界获得超强能力的我，在现实世界照样无敌～等级提升改变人生命运～"
+  },
+  "響け！ユーフォニアム": {
+   "zh": "吹响吧！上低音号"
+  },
+  "宇崎ちゃんは遊びたい！": {
+   "zh": "宇崎学妹想要玩！"
+  },
+  "盾の勇者の成り上がり Season 3": {
+   "zh": "盾之勇者成名录 第三季"
+  },
+  "かぐや様は告らせたい -ファーストキッスは終わらない-": {
+   "zh": "辉夜大小姐想让我告白～天才们的恋爱头脑战～"
+  },
+  "デート・ア・ライブⅡ": {
+   "zh": "约会大作战"
+  },
+  "涼宮ハルヒの消失": {
+   "zh": "凉宫春日的消失"
+  },
+  "転生したらスライムだった件 第4期 第1&2クール": {
+   "zh": "关于我转生变成史莱姆这档事 第四季"
+  },
+  "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~": {
+   "zh": "紫罗兰永恒花园 外传 - 永远与自动手记人偶 -"
+  },
+  "東京リベンジャーズ 聖夜決戦編": {
+   "zh": "东京复仇者 圣夜决战篇"
+  },
+  "Dr.STONE NEW WORLD 第2クール": {
+   "zh": "石纪元 新世界 第2部分"
+  },
+  "劇場版 シュタインズゲート 負荷領域のデジャヴ": {
+   "zh": "剧场版 空之境界 第一章 俯瞰风景"
+  },
+  "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ Ⅱ": {
+   "zh": "魔王学院的不适任者～史上最强的魔王始祖，转生就读子孙们的学校～"
+  },
+  "PSYCHO-PASS サイコパス2": {
+   "zh": "心理测量者2"
+  },
+  "ハイスクールDxD HERO": {
+   "zh": "恶魔高校 D×D HERO"
+  },
+  "彼女、お借りします 第2期": {
+   "zh": "租借女友 第二季"
+  },
+  "負けヒロインが多すぎる！": {
+   "zh": "败犬女主太多了！"
+  },
+  "ログ・ホライズン 2": {
+   "zh": "记录的地平线"
+  },
+  "ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇": {
+   "zh": "在地下城寻求邂逅是否搞错了什么"
+  },
+  "３月のライオン 第2シリーズ": {
+   "zh": "3月的狮子 第二季"
+  },
+  "ジョジョの奇妙な冒険 ストーンオーシャン 2クール": {
+   "zh": "JOJO的奇妙冒险 石之海"
+  },
+  "イド：インヴェイデッド": {
+   "zh": "异度侵入"
+  },
+  "GATE 自衛隊 彼の地にて、斯く戦えり 第2クール": {
+   "zh": "GATE 奇幻自卫队"
+  },
+  "戦闘員、派遣します！": {
+   "zh": "派遣战斗员！"
+  },
+  "ダンベル何キロ持てる？": {
+   "zh": "流汗吧！健身少女"
+  },
+  "この素晴らしい世界に爆焔を！": {
+   "zh": "为美好的世界献上爆焰！"
+  },
+  "サイバーパンク: エッジランナーズ2": {
+   "zh": "赛博朋克：边缘行者 2"
+  },
+  "劇場版 魔法少女まどか☆マギカ 叛逆の物語": {
+   "zh": "剧场版 魔法少女小圆 [新篇] 叛逆的物语"
+  },
+  "本好きの下剋上 司書になるためには手段を選んでいられません": {
+   "zh": "小书痴的下克上 〜为了成为图书管理员而不择手段〜"
+  },
+  "ゴブリンスレイヤーⅡ": {
+   "zh": "哥布林杀手 第二季"
+  },
+  "シャングリラ・フロンティア 2nd season": {
+   "zh": "香格里拉边境 第二季"
+  },
+  "薬屋のひとりごと 第3期": {
+   "zh": "药屋少女的呢喃 第三季"
+  },
+  "ブラッククローバー 第2期": {
+   "zh": "黑色五叶草"
+  },
+  "クラスで２番目に可愛い女の子と友だちになった": {
+   "zh": "和班上第二可爱的女孩成为朋友"
+  },
+  "炎炎ノ消防隊 参ノ章 第2クール": {
+   "zh": "炎炎消防队 叁之章 第2部分"
+  },
+  "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが": {
+   "zh": "明明只是暗杀者，我的面板数值却比勇者还要强"
+  },
+  "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？": {
+   "zh": "身为魔王的我娶了奴隶精灵为妻，该如何表白我的爱？"
+  },
+  "正反対な君と僕 第2期": {
+   "zh": "相反的你和我 第二季"
+  },
+  "テムパル～アイテムの力～": {
+   "zh": "装备我最强"
+  },
+  "転生したら剣でした 第2期": {
+   "zh": "转生就是剑"
+  },
+  "骸骨騎士様、只今異世界へお出掛け中Ⅱ": {
+   "zh": "骸骨骑士大人异世界冒险中"
+  },
+  "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~": {
+   "zh": "恶女不才，请多关照 ～雏宫蝶鼠换身传～"
+  },
+  "生徒会にも穴はある！": {
+   "zh": "学生会也有洞！"
+  },
+  "アオのハコ Season２": {
+   "zh": "青之箱"
+  },
+  "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE": {
+   "zh": "JOJO的奇妙冒险"
+  },
+  "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～": {
+   "zh": "被放逐的作弊赋予魔术师享受随心所欲的第二人生。"
+  },
+  "魔入りました！入間くん 第4シリーズ": {
+   "zh": "入间同学入魔了 第四季"
+  },
+  "氷の城壁 第2期": {
+   "zh": "冰之城墙 第二季"
+  },
+  "東京リベンジャーズ 三天戦争編": {
+   "zh": "东京复仇者 三天战争篇"
+  },
+  "帰還者の魔法は特別です 第2期": {
+   "zh": "归还者的魔法要特别 第二季"
+  },
+  "転生貴族、鑑定スキルで成り上がる 第3期": {
+   "zh": "转生贵族凭鉴定技能扭转人生 第三季"
+  },
+  "逃げ上手の若君 第二期": {
+   "zh": "擅长逃跑的殿下 第二季"
+  },
+  "アオアシ 第2期": {
+   "zh": "青之芦苇"
+  },
+  "野生のラスボスが現れた！ 第2期": {
+   "zh": "野生的大魔王出现了！第二季"
+  },
+  "冰剣の魔術師が世界を統べるⅡ": {
+   "zh": "冰剑的魔术师将要统一世界 第二季"
+  },
+  "転生ゴブリンだけど質問ある？": {
+   "zh": "转生哥布林有问题吗？"
+  },
+  "桃源暗鬼 日光・華厳の滝編": {
+   "zh": "桃源暗鬼"
+  },
+  "らんま1/2 (2024) 第3期": {
+   "zh": "乱马1/2"
+  },
+  "千歳くんはラムネ瓶のなか 2クール": {
+   "zh": "弹珠汽水瓶里的千岁同学"
+  },
+  "#ゾンビさがしてます": {
+   "zh": "僵尸搜寻中"
+  },
+  "夜桜さんちの大作戦 第2期 第2クール": {
+   "zh": "夜樱家的大作战 第二季 第2部分"
+  },
+  "名探偵プリキュア！": {
+   "zh": "名侦探光之美少女！"
+  },
+  "ダイヤのA actⅡ -Second Season- 第2クール": {
+   "zh": "钻石王牌 act2"
+  },
+  "うまゆるふるげ〜と!": {
+   "zh": "马娘摇曳"
+  }
+ },
+ "byZh": {
+  "来自新世界": {
+   "en": "From the New World (novel)"
+  },
+  "我的青春恋爱物语果然有问题": {
+   "en": "My Youth Romantic Comedy Is Wrong, as I Expected"
+  },
+  "空之境界": {
+   "en": "The Garden of Sinners"
+  },
+  "地球往事三部曲": {
+   "en": "Remembrance of Earth's Past"
+  },
+  "白夜行": {
+   "en": "Journey Under the Midnight Sun"
+  },
+  "物语系列": {
+   "en": "Monogatari (series)"
+  },
+  "银河英雄传说": {
+   "en": "Legend of the Galactic Heroes"
+  },
+  "挪威的森林": {
+   "en": "Norwegian Wood"
+  },
+  "三国演义": {
+   "en": "Romance of the Three Kingdoms"
+  },
+  "解忧杂货店": {
+   "en": "The Miracles of the Namiya General Store"
+  },
+  "全金属狂潮": {
+   "en": "Full Metal Panic!"
+  },
+  "哈利·波特": {
+   "en": "Harry Potter"
+  },
+  "红楼梦": {
+   "en": "Dream of the Red Chamber"
+  },
+  "诡秘之主": {
+   "en": "Lord of Mysteries"
+  },
+  "小王子": {
+   "en": "The Little Prince"
+  },
+  "动物庄园": {
+   "en": "Animal Farm"
+  },
+  "魔戒": {
+   "en": "The Lord of the Rings"
+  },
+  "斗破苍穹": {
+   "en": "Fights Break Spheres"
+  },
+  "悲惨世界": {
+   "en": "Les Misérables"
+  },
+  "无人生还": {
+   "en": "And Then There Were None"
+  },
+  "老人与海": {
+   "en": "The Old Man and the Sea"
+  },
+  "罗杰疑案": {
+   "en": "The Murder of Roger Ackroyd"
+  },
+  "基督山伯爵": {
+   "en": "The Count of Monte Cristo"
+  },
+  "海底两万里": {
+   "en": "Twenty Thousand Leagues Under the Seas"
+  },
+  "一九八四": {
+   "en": "Nineteen Eighty-Four"
+  },
+  "鲁滨逊漂流记": {
+   "en": "Robinson Crusoe"
+  },
+  "哈利·波特与魔法石": {
+   "en": "Harry Potter and the Philosopher's Stone"
+  },
+  "凡人修仙传": {
+   "en": "A Record of Mortal's Journey to Immortality"
+  },
+  "神雕侠侣": {
+   "en": "The Return of the Condor Heroes"
+  },
+  "权力的游戏": {
+   "en": "A Game of Thrones (disambiguation)"
+  },
+  "汤姆·索亚历险记": {
+   "en": "The Adventures of Tom Sawyer"
+  },
+  "第一次的亲密接触": {
+   "en": "The First Intimate Contact"
+  },
+  "流浪地球2": {
+   "en": "The Wandering Earth 2"
+  },
+  "情书": {
+   "en": "Love letter"
+  },
+  "新·奥特曼": {
+   "en": "Shin Ultraman"
+  },
+  "蝙蝠侠：黑暗骑士": {
+   "en": "The Dark Knight"
+  },
+  "星际穿越": {
+   "en": "Interstellar (film)"
+  },
+  "盗梦空间": {
+   "en": "Inception"
+  },
+  "告白": {
+   "en": "Kokuhaku"
+  },
+  "头号玩家": {
+   "en": "Ready Player One (film)"
+  },
+  "复仇者联盟4：终局之战": {
+   "en": "Avengers: Endgame"
+  },
+  "复仇者联盟3：无限战争": {
+   "en": "Avengers: Infinity War"
+  },
+  "哈利·波特与密室": {
+   "en": "Harry Potter and the Chamber of Secrets"
+  },
+  "哈利·波特与阿兹卡班囚徒": {
+   "en": "Harry Potter and the Prisoner of Azkaban"
+  },
+  "哈利·波特与火焰杯": {
+   "en": "Harry Potter and the Goblet of Fire"
+  },
+  "小丑": {
+   "en": "Clown"
+  },
+  "银翼杀手": {
+   "en": "Blade Runner"
+  },
+  "变形金刚": {
+   "en": "Transformers"
+  },
+  "浪客剑心": {
+   "en": "Rurouni Kenshin"
+  },
+  "蜘蛛侠：英雄远征": {
+   "en": "Spider-Man: Far From Home"
+  },
+  "毒液：致命守护者": {
+   "en": "Venom (2018 film)"
+  },
+  "七武士": {
+   "en": "Seven Samurai"
+  },
+  "浪客剑心 京都大火篇": {
+   "en": "Rurouni Kenshin: Kyoto Inferno"
+  },
+  "奥特曼": {
+   "en": "Ultraman (1966 TV series)"
+  },
+  "寄生兽": {
+   "en": "Parasyte"
+  },
+  "小偷家族": {
+   "en": "Shoplifters (film)"
+  },
+  "釜山行": {
+   "en": "Train to Busan"
+  },
+  "关于莉莉周的一切": {
+   "en": "All About Lily Chou-Chou"
+  },
+  "长江7号": {
+   "en": "CJ7"
+  },
+  "生化危机": {
+   "en": "Resident Evil"
+  },
+  "头文字D": {
+   "en": "Initial D"
+  },
+  "F1：狂飙飞车": {
+   "en": "F1 (film)"
+  },
+  "沙丘2": {
+   "en": "Dune II"
+  },
+  "死侍与金刚狼": {
+   "en": "Deadpool & Wolverine"
+  },
+  "生化危机3：灭绝": {
+   "en": "Resident Evil: Extinction"
+  },
+  "Thunderbolt Fantasy 西幽玹歌": {
+   "en": "Thunderbolt Fantasy"
+  },
+  "生化危机4：战神再生": {
+   "en": "Resident Evil: Afterlife"
+  },
+  "大话西游之月光宝盒": {
+   "en": "A Chinese Odyssey"
+  },
+  "少林足球": {
+   "en": "Shaolin Soccer"
+  },
+  "刺客信条": {
+   "en": "Assassin's Creed"
+  },
+  "恋爱回旋": {
+   "en": "Mixed Doubles (2017 film)"
+  },
+  "憨豆的黄金周": {
+   "en": "Mr. Bean's Holiday"
+  },
+  "东邪西毒": {
+   "en": "Ashes of Time"
+  },
+  "碟中谍6：全面瓦解": {
+   "en": "Mission: Impossible – Fallout"
+  },
+  "乱": {
+   "en": "Ran (film)"
+  },
+  "空中大灌篮": {
+   "en": "Space Jam"
+  },
+  "猫和老鼠": {
+   "en": "Tom and Jerry"
+  }
+ }
+}

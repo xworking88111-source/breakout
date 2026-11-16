@@ -3245,3 +3245,163 @@ pre {
     transition-duration: 0.01ms !important;
   }
 }
+
+/* ============================================================
+   v1.1 typography | 字體放大 +2px、節奏收緊
+   Global +2px type scale and slightly tighter vertical rhythm,
+   based on user feedback that body copy felt small and sparse.
+   ============================================================ */
+
+body {
+  font-size: 17px;
+  line-height: 1.65;
+}
+
+.kicker { font-size: 12.5px; }
+.hero-sub { font-size: 17.5px; }
+.hero-actions .btn { font-size: 15px; }
+.panel-title { font-size: 15px; }
+.panel-meta, .panel-sub { font-size: 12.5px; }
+.spot h3 { font-size: 20.5px; }
+.spot-meta { font-size: 13px; }
+.spot-reason { font-size: 13.5px; }
+.section-head h2 { font-size: 27px; }
+.section-head p { font-size: 15px; }
+.pill { font-size: 14.5px; }
+.pill-sm { font-size: 13px; }
+.pick-title { font-size: 15.5px; }
+.pick-meta { font-size: 12.5px; }
+.wcard-title { font-size: 18px; }
+.wcard-meta { font-size: 13px; }
+.tagline { font-size: 12px; }
+.wrow-title { font-size: 15.5px; }
+.wrow-meta { font-size: 12.5px; }
+.rt-head { font-size: 11.5px; }
+.rt-row { font-size: 14px; }
+.rt-title span { font-size: 15.5px; }
+.rt-title em { font-size: 12.5px; }
+.rt-medium { font-size: 13px; }
+.rt-conf { font-size: 12.5px; }
+.med-name { font-size: 21px; }
+.med-count { font-size: 12.5px; }
+.med-best { font-size: 14px; }
+.page-head p { font-size: 15px; }
+.filter-label { font-size: 12px; }
+.chipbtn { font-size: 13.5px; }
+.filter-block select { font-size: 14px; }
+.charts-count { font-size: 13.5px; }
+.bt-head { font-size: 11.5px; }
+.bt-row { font-size: 14px; }
+.bt-title span { font-size: 15px; }
+.bt-title em { font-size: 12px; }
+.bt-dim { font-size: 13.5px; }
+.detail-alt { font-size: 14.5px; }
+.detail-synopsis { font-size: 15.5px; }
+.score-ci { font-size: 12.5px; }
+.tag { font-size: 13px; }
+.hero-fact { font-size: 14px; }
+.block-head h2 { font-size: 18.5px; }
+.prose { font-size: 15px; }
+.hint { font-size: 13.5px; }
+.fact { font-size: 13.5px; }
+.contrib-label, .contrib-val { font-size: 13px; }
+.drivers li { font-size: 14px; }
+.sources li { font-size: 13px; }
+.board-title { font-size: 13px; }
+.lift-key, .lift-val { font-size: 13px; }
+.pc-dim { font-size: 13px; }
+.finding-list li { font-size: 15px; }
+.footer-tag, .footer-links { font-size: 13px; }
+.footer-disclaimer { font-size: 12px; }
+.cslot-title { font-size: 18px; }
+.ct-row { font-size: 13.5px; }
+.source-list li { font-size: 13px; }
+.limit-list li, .bullets li { font-size: 14.5px; }
+
+/* 收緊節奏 / tighter rhythm */
+.section { margin-top: 66px; }
+.hero { padding-top: 60px; }
+.rt-row { padding-top: 10px; padding-bottom: 10px; }
+.bt-row { padding-top: 9px; padding-bottom: 9px; }
+.spot-grid, .work-grid, .grid-3, .hot-grid, .board-grid { gap: 12px; }
+
+/* 去哪裡看 / where to watch */
+.watch-block {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.watch-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.watch-head span {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.watch-head em {
+  font-style: normal;
+  font-size: 11.5px;
+  color: var(--dim);
+}
+
+.watch-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.watch-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 9px;
+  border: 1px solid var(--line-2);
+  font-size: 13.5px;
+  color: var(--muted);
+  background: rgba(255, 255, 255, 0.03);
+  transition: 0.15s;
+}
+
+.watch-link:hover { color: var(--text); border-color: var(--line-2); background: rgba(255, 255, 255, 0.06); }
+
+.watch-link.primary {
+  background: linear-gradient(135deg, #ff6b45, #ff4d2e);
+  color: #16080a;
+  border-color: transparent;
+  font-weight: 700;
+}
+
+/* 分頁 / pagination */
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 18px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.pager button {
+  padding: 7px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.pager button:hover:not(:disabled) { color: var(--text); border-color: var(--line-2); }
+.pager button:disabled { opacity: 0.35; cursor: not-allowed; }
+.pager .pager-info { font-variant-numeric: tabular-nums; }

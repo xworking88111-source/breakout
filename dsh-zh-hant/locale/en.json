@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Traditional Chinese language pack",
+    "description": "Adds zh-Hant (Traditional Chinese) to the DSH interface: 73 UI namespaces and 3882 strings converted to Traditional, selectable in Settings → Language.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import type { Dataset, Lang, Medium, Work } from '../types'
 import type { TKey } from '../i18n'
 import { WorkCard } from '../components/WorkCard'
@@ -60,6 +60,17 @@ export function Rankings({
     list.sort((a, b) => (key === 'year' ? b.year - a.year : key === 'score' ? b.hitScore - a.hitScore : b.dims[key] - a.dims[key]))
     return list
   }, [works, filters])
+
+  // 分頁：一次渲染 100 筆，避免 1000+ 部短劇拖慢 DOM / paginate to keep the DOM small
+  const PAGE_SIZE = 100
+  const [page, setPage] = useState(0)
+  useEffect(() => {
+    setPage(0)
+  }, [filters])
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE))
+  const shown = filtered.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE)
+  const from = filtered.length ? page * PAGE_SIZE + 1 : 0
+  const to = Math.min(filtered.length, (page + 1) * PAGE_SIZE)
 
   const set = (patch: Partial<Filters>) => onChange({ ...filters, ...patch })
   const hasFilter = !!(filters.medium || filters.region || filters.genre || filters.q)
@@ -172,6 +183,11 @@ export function Rankings({
         <main className="charts-main">
           <div className="charts-count">
             {t('charts.results').replace('{n}', String(filtered.length))}
+            {filtered.length > PAGE_SIZE && (
+              <span className="pager-info">
+                · {from}–{to}
+              </span>
+            )}
             {filters.q && <span className="q-tag">“{filters.q}”</span>}
           </div>
 
@@ -179,7 +195,7 @@ export function Rankings({
 
           {filters.view === 'cards' ? (
             <div className="work-grid">
-              {filtered.map((w) => (
+              {shown.map((w) => (
                 <WorkCard key={w.id} work={w} lang={lang} t={t} onOpen={onOpen} />
               ))}
             </div>
@@ -196,9 +212,9 @@ export function Rankings({
                 <span>{t('charts.table.confidence')}</span>
                 <span>{t('charts.table.status')}</span>
               </div>
-              {filtered.map((w, i) => (
+              {shown.map((w, i) => (
                 <button key={w.id} className="bt-row" onClick={() => onOpen(w.id)}>
-                  <span className="bt-rank">{i + 1}</span>
+                  <span className="bt-rank">{page * PAGE_SIZE + i + 1}</span>
                   <span className="bt-title">
                     <span>{titleOf(w, lang)}</span>
                     <em>
@@ -218,6 +234,20 @@ export function Rankings({
                   <span className={`badge badge-${w.provenance.status}`}>{t(`status.${w.provenance.status}` as TKey)}</span>
                 </button>
               ))}
+            </div>
+          )}
+
+          {totalPages > 1 && (
+            <div className="pager">
+              <button onClick={() => setPage(Math.max(0, page - 1))} disabled={page === 0}>
+                ← {lang === 'zh' ? '上一頁' : 'Prev'}
+              </button>
+              <span className="pager-info">
+                {lang === 'zh' ? `第 ${page + 1} / ${totalPages} 頁` : `Page ${page + 1} / ${totalPages}`}
+              </span>
+              <button onClick={() => setPage(Math.min(totalPages - 1, page + 1))} disabled={page >= totalPages - 1}>
+                {lang === 'zh' ? '下一頁' : 'Next'} →
+              </button>
             </div>
           )}
         </main>

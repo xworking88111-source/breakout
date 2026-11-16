@@ -15,6 +15,7 @@
 | 09 | [爆款因子分析](09-爆款因子分析.md) | 自動生成：Top 10% 畫像、類型／平台提升度、收藏差異、方法與限制 | Auto-generated: top-10% profile, genre/platform lift, collection gap, limits |
 | 10 | [每日快照與回測](10-快照與回測.md) | 為什麼要每日快照、如何用上月分數預測本月熱度、回測指標 | Daily snapshots, out-of-time backtesting, metrics |
 | 11 | [紅果機制與爆款成因](11-紅果機制與爆款成因.md) | 紅果熱度值、收藏 vs 追劇、預約量、賽馬機制、真爆 vs 買爆五信號 | Hongguo heat mechanics, saves vs follows, reservations, horse race, organic vs bought |
+| 12 | [短劇擴充與顯示規範](12-短劇擴充與顯示規範.md) | 1,000 部短劇匯入流程、題材廣度與「其他」、譯名規範、去哪裡看、字體調整 | Short-drama import pipeline, genre breadth and "Other", title translations, where to watch, typography |
 
 ## 閱讀順序 / Reading order
 

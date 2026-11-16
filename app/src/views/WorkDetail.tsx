@@ -20,6 +20,7 @@ import { DIM_ORDER } from '../lib/format'
 import { genreLabel, regionLabel, tagLabel } from '../lib/labels'
 import { citationOf, similarWorks } from '../lib/recommend'
 import { AdSlot } from '../components/AdSlot'
+import { watchLinks } from '../lib/watch'
 
 export function WorkDetail({
   work,
@@ -115,6 +116,27 @@ export function WorkDetail({
               <button className="btn btn-ghost btn-sm" onClick={copyCite}>
                 {copied ? `✓ ${t('work.cite.copied')}` : `❐ ${t('work.cite')}`}
               </button>
+            </div>
+          </div>
+
+          {/* 去哪裡看 / where to watch */}
+          <div className="watch-block">
+            <div className="watch-head">
+              <span>{lang === 'zh' ? '哪裡可以看' : 'Where to watch'}</span>
+              <em>{lang === 'zh' ? '平台搜尋結果，部分內容需 App 內觀看' : 'Platform search results; some titles are app-only'}</em>
+            </div>
+            <div className="watch-links">
+              {watchLinks(work, lang).map((l) => (
+                <a
+                  key={l.url}
+                  href={l.url}
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className={`watch-link ${l.primary ? 'primary' : ''}`}
+                >
+                  {l.label} ↗
+                </a>
+              ))}
             </div>
           </div>
 

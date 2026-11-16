@@ -11,11 +11,13 @@
     "data:fetch": "node scripts/fetch_anilist.mjs",
     "data:build": "node scripts/build_dataset.mjs",
     "data:validate": "node scripts/validate_dataset.mjs",
-    "data:all": "npm run data:fetch && npm run data:build && npm run data:validate && npm run data:analyze && npm run data:benchmark",
+    "data:all": "npm run data:fetch && npm run data:import && npm run data:build && npm run data:validate && npm run data:analyze && npm run data:benchmark",
     "data:benchmark": "node scripts/benchmark.mjs",
     "data:analyze": "node scripts/analyze_hits.mjs",
     "data:snapshot": "node scripts/snapshot.mjs",
-    "data:backtest": "node scripts/backtest.mjs"
+    "data:backtest": "node scripts/backtest.mjs",
+    "data:titles": "node scripts/fetch_title_map.mjs && node scripts/fetch_bangumi_titles.mjs",
+    "data:import": "node scripts/import_shortdrama.mjs"
   },
   "engines": {
     "node": ">=22"
