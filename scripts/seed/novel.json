@@ -1,0 +1,401 @@
+{
+  "dataset": "novel",
+  "note": "編輯估算資料：依公開的在讀人數、榜單紀錄、實體書銷量與改編表現推估五維分數；非平台後台數據。",
+  "items": [
+    {
+      "id": "nv-lord-of-mysteries",
+      "title": { "zh": "詭秘之主", "en": "Lord of the Mysteries", "native": "诡秘之主" },
+      "year": 2018,
+      "region": "CN",
+      "platform": "起點中文網 · 閱文",
+      "genres": ["Fantasy", "Mystery", "Horror"],
+      "tags": [
+        { "zh": "克蘇魯", "en": "Cthulhu" },
+        { "zh": "蒸汽龐克", "en": "Steampunk" },
+        { "zh": "西幻", "en": "Western fantasy" }
+      ],
+      "episodes": 1432,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "蒸汽龐克與克蘇魯神話交織的西幻世界，主角在非凡者的階梯上逐步窺見世界的真相。",
+        "en": "A steampunk-Cthulhu western fantasy in which the protagonist climbs the ladder of the extraordinary and glimpses the world's truth."
+      },
+      "dims": { "reach": 92, "quality": 93, "buzz": 90, "momentum": 60, "crossover": 95 },
+      "heatCurve": [40, 68, 84, 92, 96, 100, 97, 92, 88, 84, 80, 76],
+      "drivers": [
+        {
+          "text": {
+            "zh": "起點首部平均訂閱破 30 萬的作品；出版 14 種語言、全球核心粉絲約 2,600 萬。",
+            "en": "The first Qidian title to average over 300k subscriptions; published in 14 languages with ~26M global core fans."
+          },
+          "source": { "name": "紅星新聞", "url": "https://static.cdsb.com/micropub/Articles/202506/b7a13e0defaf2a24f83b5f6fb2e30138.html" }
+        },
+        {
+          "text": {
+            "zh": "2025 年動畫全球同步上線，覆蓋 190 多國，是華語 IP 國際化的代表。",
+            "en": "Its 2025 anime launched simultaneously worldwide across 190+ countries — a flagship of Chinese IP globalisation."
+          },
+          "source": { "name": "上觀新聞", "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=985651" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "紅星新聞", "url": "https://static.cdsb.com/micropub/Articles/202506/b7a13e0defaf2a24f83b5f6fb2e30138.html" },
+          { "name": "上觀新聞", "url": "https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=985651" }
+        ],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-ten-days-end",
+      "title": { "zh": "十日終焉", "en": "Ten Days' End", "native": "十日终焉" },
+      "year": 2023,
+      "region": "CN",
+      "platform": "番茄小說",
+      "genres": ["Mystery", "Thriller", "Fantasy"],
+      "tags": [
+        { "zh": "無限流", "en": "Infinite flow" },
+        { "zh": "規則怪談", "en": "Rule-based horror" },
+        { "zh": "懸疑", "en": "Suspense" }
+      ],
+      "episodes": 1000,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "一群人被困在十日循環的死亡遊戲中，必須找出規則才能活下去。番茄小說近年最具代表性的懸疑 IP。",
+        "en": "A group trapped in a ten-day death loop must decode its rules to survive — Fanqie's defining suspense IP of recent years."
+      },
+      "dims": { "reach": 94, "quality": 86, "buzz": 92, "momentum": 55, "crossover": 90 },
+      "heatCurve": [30, 62, 84, 94, 100, 96, 90, 84, 78, 72, 66, 60],
+      "drivers": [
+        {
+          "text": {
+            "zh": "最高在讀超 700 萬、蟬聯番茄巔峰榜逾 10 期；實體書售出 170 萬冊，入選 2024 年度中國網路文學影響力榜。",
+            "en": "Over 7M concurrent readers, 10+ periods atop Fanqie's peak chart, 1.7M print copies sold, and a spot on the 2024 China Online Literature Influence List."
+          },
+          "source": { "name": "南方都市報", "url": "https://m.mp.oeeee.com/oe/BAAFRD0000202506181095914.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "南方都市報", "url": "https://m.mp.oeeee.com/oe/BAAFRD0000202506181095914.html" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-first-frost",
+      "title": { "zh": "難哄", "en": "The First Frost", "native": "难哄" },
+      "year": 2020,
+      "region": "CN",
+      "platform": "晉江文學城",
+      "genres": ["Romance", "Drama", "Youth"],
+      "tags": [
+        { "zh": "現代言情", "en": "Modern romance" },
+        { "zh": "雙向暗戀", "en": "Mutual pining" },
+        { "zh": "女頻", "en": "Female-oriented" }
+      ],
+      "episodes": 120,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "現代都市的雙向暗戀故事，晉江收藏超 180 萬、積分逾 200 億的現象級言情 IP。",
+        "en": "A modern urban mutual-pining romance — a phenomenon on Jinjiang with 1.8M+ bookmarks and 20B+ points."
+      },
+      "dims": { "reach": 88, "quality": 82, "buzz": 85, "momentum": 40, "crossover": 90 },
+      "heatCurve": [26, 56, 78, 90, 96, 100, 94, 88, 82, 76, 70, 64],
+      "drivers": [
+        {
+          "text": {
+            "zh": "改編劇 2025/2 上線並同步 Netflix，是「女頻 IP → 影視」的標準範例。",
+            "en": "Its 2025 adaptation streamed day-and-date on Netflix — the standard playbook for female-oriented IP."
+          },
+          "source": { "name": "搜狐", "url": "https://www.sohu.com/a/863028992_260616" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "搜狐", "url": "https://www.sohu.com/a/863028992_260616" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-dafeng",
+      "title": { "zh": "大奉打更人", "en": "The Nightwatchman of Dafeng", "native": "大奉打更人" },
+      "year": 2020,
+      "region": "CN",
+      "platform": "起點中文網 · 閱文",
+      "genres": ["Xianxia", "Mystery", "Historical"],
+      "tags": [
+        { "zh": "修仙探案", "en": "Cultivation mystery" },
+        { "zh": "朝堂", "en": "Court politics" },
+        { "zh": "仙俠", "en": "Xianxia" }
+      ],
+      "episodes": 900,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "修仙與探案結合的朝堂故事，男主角以現代刑警思維破解修真世界的案件。",
+        "en": "A court intrigue that fuses cultivation with detective work, as a modern-minded constable solves cases in a xianxia world."
+      },
+      "dims": { "reach": 90, "quality": 85, "buzz": 84, "momentum": 35, "crossover": 88 },
+      "heatCurve": [24, 54, 76, 88, 96, 100, 95, 88, 80, 72, 64, 58],
+      "drivers": [
+        {
+          "text": {
+            "zh": "創下起點最快十萬均訂紀錄；2024/12 改編劇上線後書粉增至 1,460 萬。",
+            "en": "Set Qidian's fastest 100k-subscription record; its Dec 2024 adaptation lifted readership to 14.6M."
+          },
+          "source": { "name": "鳳凰網", "url": "https://news.ifeng.com/c/8g5DdyalFSd" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "鳳凰網", "url": "https://news.ifeng.com/c/8g5DdyalFSd" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-mortal-journey",
+      "title": { "zh": "凡人修仙傳", "en": "A Record of a Mortal's Journey to Immortality", "native": "凡人修仙传" },
+      "year": 2008,
+      "region": "CN",
+      "platform": "起點中文網 · 閱文",
+      "genres": ["Xianxia", "Adventure"],
+      "tags": [
+        { "zh": "仙俠", "en": "Xianxia" },
+        { "zh": "凡人流", "en": "Ordinary-protagonist school" },
+        { "zh": "長篇", "en": "Long-running" }
+      ],
+      "episodes": 2400,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "「凡人流」開創之作：資質平庸的少年靠謹慎與算計，在殘酷的修仙界一步步走遠。",
+        "en": "The founding text of the 'ordinary protagonist' school: a talentless youth survives a ruthless cultivation world through caution and calculation."
+      },
+      "dims": { "reach": 91, "quality": 84, "buzz": 82, "momentum": 38, "crossover": 86 },
+      "heatCurve": [34, 60, 76, 86, 92, 96, 100, 96, 90, 84, 78, 72],
+      "drivers": [
+        {
+          "text": {
+            "zh": "2017、2018 年胡潤原創文學 IP 價值榜第 3、第 2 名；動畫已多季、2025 年劇集上線。",
+            "en": "Ranked #3 then #2 on Hurun's original-literature IP value list in 2017–18; multiple anime seasons and a 2025 live-action series."
+          },
+          "source": { "name": "荊楚網", "url": "http://news.cnhubei.com/content/2025-07/23/content_19358307.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "荊楚網", "url": "http://news.cnhubei.com/content/2025-07/23/content_19358307.html" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-circle-of-destiny",
+      "title": { "zh": "宿命之環", "en": "Circle of Destiny", "native": "宿命之环" },
+      "year": 2023,
+      "region": "CN",
+      "platform": "起點中文網 · 閱文",
+      "genres": ["Fantasy", "Mystery", "Horror"],
+      "tags": [
+        { "zh": "克蘇魯", "en": "Cthulhu" },
+        { "zh": "蒸汽龐克", "en": "Steampunk" },
+        { "zh": "續作", "en": "Sequel" }
+      ],
+      "episodes": 700,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "《詭秘之主》續作，延續同一宇宙的克蘇魯與蒸汽龐克設定。",
+        "en": "The sequel to Lord of the Mysteries, continuing the same Cthulhu-steampunk universe."
+      },
+      "dims": { "reach": 84, "quality": 84, "buzz": 82, "momentum": 45, "crossover": 82 },
+      "heatCurve": [50, 78, 90, 96, 100, 96, 90, 84, 78, 72, 68, 62],
+      "drivers": [
+        {
+          "text": {
+            "zh": "上線首日收藏 82 萬破起點歷史紀錄、當日月票第一；有聲書播放 3.8 億。",
+            "en": "820k bookmarks on day one — a Qidian record — plus 380M audiobook plays."
+          },
+          "source": { "name": "人民網", "url": "http://sc.people.com.cn/BIG5/n2/2023/0313/c345528-40334056.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "人民網", "url": "http://sc.people.com.cn/BIG5/n2/2023/0313/c345528-40334056.html" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-slay-gods-asylum",
+      "title": { "zh": "我在精神病院學斬神", "en": "Learning to Slay Gods in the Asylum", "native": "我在精神病院学斩神" },
+      "year": 2021,
+      "region": "CN",
+      "platform": "番茄小說",
+      "genres": ["Fantasy", "Urban Romance", "Power Fantasy"],
+      "tags": [
+        { "zh": "都市高武", "en": "Urban high-martial" },
+        { "zh": "神明復甦", "en": "Gods awaken" },
+        { "zh": "國漫改編", "en": "Donghua adaptation" }
+      ],
+      "episodes": 600,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "神明復甦的都市高武世界，主角在精神病院中學會斬神，多次登頂番茄巔峰榜。",
+        "en": "In a city where gods have awakened, a patient learns to slay them — repeatedly topping Fanqie's peak chart."
+      },
+      "dims": { "reach": 86, "quality": 80, "buzz": 80, "momentum": 42, "crossover": 84 },
+      "heatCurve": [28, 58, 80, 92, 98, 100, 94, 86, 78, 70, 62, 56],
+      "drivers": [
+        {
+          "text": {
+            "zh": "改編動畫《斬神之凡塵神域》於 2024 年上線，被媒體稱為當年國漫最大黑馬。",
+            "en": "Its donghua adaptation launched in 2024 and was widely called the year's biggest dark horse in Chinese animation."
+          },
+          "source": { "name": "新浪", "url": "https://k.sina.cn/article_1047467705_3e6f16b901901dg10.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "新浪", "url": "https://k.sina.cn/article_1047467705_3e6f16b901901dg10.html" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-not-a-god",
+      "title": { "zh": "我不是戲神", "en": "I Am Not a God of Drama", "native": "我不是戏神" },
+      "year": 2022,
+      "region": "CN",
+      "platform": "番茄小說",
+      "genres": ["Fantasy", "Thriller", "Drama"],
+      "tags": [
+        { "zh": "末日", "en": "Apocalypse" },
+        { "zh": "中式怪誕", "en": "Chinese weird fiction" },
+        { "zh": "大男主", "en": "Male lead" }
+      ],
+      "episodes": 500,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "末日背景下的中式怪誕故事，入選 2024 年番茄年度巔峰榜 TOP10，並啟動動畫年番開發。",
+        "en": "A Chinese weird-fiction apocalypse tale, a 2024 Fanqie top-10 title, now in development as a year-round donghua."
+      },
+      "dims": { "reach": 82, "quality": 80, "buzz": 78, "momentum": 40, "crossover": 78 },
+      "heatCurve": [22, 50, 74, 88, 96, 100, 92, 84, 74, 66, 58, 52],
+      "drivers": [
+        {
+          "text": {
+            "zh": "2024 年番茄年度巔峰榜 TOP10；動畫年番由愛奇藝 × 玄機科技開發。",
+            "en": "A 2024 Fanqie top-10 title; its year-round donghua is being developed by iQIYI and Sparkly Key."
+          },
+          "source": { "name": "搜狐", "url": "https://www.sohu.com/a/1012962903_761993" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "搜狐", "url": "https://www.sohu.com/a/1012962903_761993" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-embers-deep",
+      "title": { "zh": "深海餘燼", "en": "Embers of the Deep", "native": "深海余烬" },
+      "year": 2022,
+      "region": "CN",
+      "platform": "起點中文網 · 閱文",
+      "genres": ["Horror", "Sci-Fi", "Adventure"],
+      "tags": [
+        { "zh": "克蘇魯", "en": "Cthulhu" },
+        { "zh": "航海", "en": "Seafaring" },
+        { "zh": "科幻", "en": "Sci-fi" }
+      ],
+      "episodes": 851,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "克蘇魯風格的航海科幻故事，259 萬字、851 章，入選 2024 年度中國網路文學影響力榜。",
+        "en": "A Cthulhu-flavoured seafaring sci-fi of 2.59M characters across 851 chapters, named to the 2024 China Online Literature Influence List."
+      },
+      "dims": { "reach": 78, "quality": 88, "buzz": 76, "momentum": 30, "crossover": 72 },
+      "heatCurve": [20, 46, 66, 80, 90, 96, 100, 94, 86, 78, 70, 64],
+      "drivers": [
+        {
+          "text": {
+            "zh": "入選 2024 年度中國網路文學影響力榜；尚無公開影視化消息。",
+            "en": "Named to the 2024 China Online Literature Influence List; no announced screen adaptation yet."
+          },
+          "source": { "name": "百度百科", "url": "https://wapbaike.baidu.com/item/%E6%B7%B1%E6%B5%B7%E4%BD%99%E7%83%AC/61719004" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "百度百科", "url": "https://wapbaike.baidu.com/item/%E6%B7%B1%E6%B5%B7%E4%BD%99%E7%83%AC/61719004" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-legend-shenli",
+      "title": { "zh": "與鳳行（本王在此）", "en": "The Legend of Shen Li", "native": "本王在此" },
+      "year": 2021,
+      "region": "CN",
+      "platform": "晉江文學城",
+      "genres": ["Xianxia", "Romance", "Period Drama"],
+      "tags": [
+        { "zh": "古裝仙俠", "en": "Costume xianxia" },
+        { "zh": "女強", "en": "Powerful heroine" },
+        { "zh": "改編劇", "en": "Adapted series" }
+      ],
+      "episodes": 150,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "古裝仙俠愛情故事，改編劇由作者九鷺非香親自編劇、趙麗穎主演並首度監製。",
+        "en": "A costume xianxia romance whose adaptation was scripted by the author herself and starred/produced by Zhao Liying."
+      },
+      "dims": { "reach": 84, "quality": 74, "buzz": 78, "momentum": 35, "crossover": 80 },
+      "heatCurve": [28, 54, 74, 86, 94, 100, 94, 86, 78, 70, 62, 56],
+      "drivers": [
+        {
+          "text": {
+            "zh": "改編劇 2024/3 於湖南衛視與騰訊／芒果上線，並登上 Disney+ 海外平台。",
+            "en": "Its 2024 adaptation aired on Hunan TV and Tencent/Mango, and streamed overseas on Disney+."
+          },
+          "source": { "name": "維基百科", "url": "https://zh.wikipedia.org/zh-hant/%E8%88%87%E9%B3%B3%E8%A1%8C" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "維基百科", "url": "https://zh.wikipedia.org/zh-hant/%E8%88%87%E9%B3%B3%E8%A1%8C" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "nv-the-double",
+      "title": { "zh": "墨雨雲間（嫡嫁千金）", "en": "The Double", "native": "嫡嫁千金" },
+      "year": 2018,
+      "region": "CN",
+      "platform": "晉江文學城",
+      "genres": ["Period Drama", "Rebirth", "Romance"],
+      "tags": [
+        { "zh": "重生復仇", "en": "Rebirth revenge" },
+        { "zh": "古裝", "en": "Costume" },
+        { "zh": "改編劇", "en": "Adapted series" }
+      ],
+      "episodes": 180,
+      "episodeMinutes": null,
+      "synopsis": {
+        "zh": "重生復仇題材的古裝言情，改編劇 2024 年於優酷獨播，正片播放量破 23 億。",
+        "en": "A rebirth-revenge costume romance whose 2024 Youku adaptation passed 2.3B plays."
+      },
+      "dims": { "reach": 86, "quality": 78, "buzz": 80, "momentum": 38, "crossover": 82 },
+      "heatCurve": [24, 52, 74, 88, 96, 100, 96, 90, 82, 74, 66, 60],
+      "drivers": [
+        {
+          "text": {
+            "zh": "改編劇 2024/6 優酷獨播，為當年優酷熱度最快破萬劇集，市佔最高 31%。",
+            "en": "Its June 2024 Youku run was the year's fastest to 10k platform heat, peaking at 31% market share."
+          },
+          "source": { "name": "百度百科", "url": "https://wapbaike.baidu.com/item/%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4/62985038" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "百度百科", "url": "https://wapbaike.baidu.com/item/%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4/62985038" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    }
+  ]
+}

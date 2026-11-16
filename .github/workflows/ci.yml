@@ -1,0 +1,43 @@
+name: CI
+
+# 免費 CI：型別檢查、資料集驗證、建置。公開 repo 的 Actions 分鐘數不收費。
+# Free CI: type-check, dataset validation and build. Actions minutes are free for public repos.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+          cache-dependency-path: app/pnpm-lock.yaml
+
+      - name: Install dependencies
+        working-directory: app
+        run: pnpm install --frozen-lockfile
+
+      - name: Validate dataset
+        run: node scripts/validate_dataset.mjs
+
+      - name: Type-check
+        working-directory: app
+        run: npx tsc --noEmit
+
+      - name: Build
+        working-directory: app
+        run: npx vite build

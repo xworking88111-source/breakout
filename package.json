@@ -1,0 +1,19 @@
+{
+  "name": "breakout",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Breakout 破圈 — bilingual, data-driven recommendation index for short dramas, anime, novels and films",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pnpm --dir app dev",
+    "build": "pnpm --dir app build",
+    "preview": "pnpm --dir app preview",
+    "data:fetch": "node scripts/fetch_anilist.mjs",
+    "data:build": "node scripts/build_dataset.mjs",
+    "data:validate": "node scripts/validate_dataset.mjs",
+    "data:all": "npm run data:fetch && npm run data:build && npm run data:validate"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

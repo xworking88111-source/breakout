@@ -1,0 +1,438 @@
+{
+  "dataset": "film",
+  "note": "編輯估算資料：依公開票房、觀影人次與口碑表現推估五維分數；票房數字引自各地官方統計或媒體報導。",
+  "items": [
+    {
+      "id": "fl-demon-slayer-infinity",
+      "title": { "zh": "劇場版 鬼滅之刃 無限城篇 第一章 猗窩座再襲", "en": "Demon Slayer: Infinity Castle", "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来" },
+      "year": 2025,
+      "region": "JP",
+      "platform": "ufotable／Aniplex",
+      "genres": ["Animation", "Action", "Fantasy"],
+      "tags": [
+        { "zh": "和風", "en": "Japanese style" },
+        { "zh": "戰鬥", "en": "Battle" },
+        { "zh": "劇場版", "en": "Theatrical" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 155,
+      "synopsis": {
+        "zh": "《鬼滅之刃》無限城篇劇場版第一章，日本影史首部全球票房突破千億日圓的電影。",
+        "en": "The first Infinity Castle film of Demon Slayer — the first Japanese film ever to pass ¥100B worldwide."
+      },
+      "dims": { "reach": 95, "quality": 88, "buzz": 95, "momentum": 75, "crossover": 96 },
+      "heatCurve": [20, 62, 92, 100, 98, 94, 90, 84, 76, 68, 62, 58],
+      "drivers": [
+        {
+          "text": {
+            "zh": "日本 402 億日圓、2,745 萬人次；全球 1,179 億日圓，日本影史首部破千億日圓電影。",
+            "en": "¥40.2B and 27.45M admissions in Japan; ¥117.9B worldwide — the first Japanese film past ¥100B."
+          },
+          "source": { "name": "TVBS", "url": "https://news.tvbs.com.tw/entertainment/3175200" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "TVBS", "url": "https://news.tvbs.com.tw/entertainment/3175200" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-nezha2",
+      "title": { "zh": "哪吒之魔童鬧海", "en": "Ne Zha 2", "native": "哪吒之魔童闹海" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "光線彩條屋",
+      "genres": ["Animation", "Fantasy", "Comedy"],
+      "tags": [
+        { "zh": "神話", "en": "Mythology" },
+        { "zh": "續集", "en": "Sequel" },
+        { "zh": "票房紀錄", "en": "Box-office record" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 144,
+      "synopsis": {
+        "zh": "《哪吒之魔童降世》續集，內地票房 154.45 億人民幣、全球 22.67 億美元，為全球影史動畫片冠軍。",
+        "en": "The sequel to Ne Zha (2019): ¥15.445B in mainland China and $2.267B worldwide, the highest-grossing animated film ever."
+      },
+      "dims": { "reach": 98, "quality": 86, "buzz": 96, "momentum": 55, "crossover": 99 },
+      "heatCurve": [40, 78, 96, 100, 99, 96, 92, 86, 78, 70, 64, 58],
+      "drivers": [
+        {
+          "text": {
+            "zh": "內地 154.45 億人民幣、3.24 億人次；全球 22.67 億美元，全球影史第 4、動畫片冠軍，破 113 項紀錄。",
+            "en": "¥15.445B and 324M admissions at home; $2.267B worldwide — 4th all-time globally, the animated champion, with 113 records broken."
+          },
+          "source": { "name": "央視", "url": "https://m.gmw.cn/2025-06/30/content_1304071375.htm" }
+        },
+        {
+          "text": {
+            "zh": "證明「中國神話＋工業化動畫」可以成為全球級票房引擎。",
+            "en": "Proved that Chinese mythology plus industrial-grade animation can become a global box-office engine."
+          }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "央視", "url": "https://m.gmw.cn/2025-06/30/content_1304071375.htm" },
+          { "name": "川觀新聞", "url": "https://cbgc.scol.com.cn/news/7470264" }
+        ],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-inside-out-2",
+      "title": { "zh": "腦筋急轉彎2", "en": "Inside Out 2", "native": "Inside Out 2" },
+      "year": 2024,
+      "region": "US",
+      "platform": "Pixar／Disney",
+      "genres": ["Animation", "Comedy", "Coming of Age"],
+      "tags": [
+        { "zh": "心理", "en": "Psychology" },
+        { "zh": "成長", "en": "Coming of age" },
+        { "zh": "續集", "en": "Sequel" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 96,
+      "synopsis": {
+        "zh": "2015 年《腦筋急轉彎》續集，全球票房 16.98 億美元，為 2024 年全球票房冠軍。",
+        "en": "The sequel to Inside Out (2015), with $1.698B worldwide — 2024's global box-office champion."
+      },
+      "dims": { "reach": 92, "quality": 90, "buzz": 88, "momentum": 40, "crossover": 93 },
+      "heatCurve": [30, 64, 88, 100, 96, 90, 84, 76, 68, 60, 54, 48],
+      "drivers": [
+        {
+          "text": {
+            "zh": "全球 16.98 億美元，2024 年全球票房冠軍，一度為影史最賣座動畫。",
+            "en": "$1.698B worldwide, 2024's global #1 and briefly the highest-grossing animated film ever."
+          },
+          "source": { "name": "自由娛樂", "url": "https://ent.ltn.com.tw/news/breakingnews/4912971" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "自由娛樂", "url": "https://ent.ltn.com.tw/news/breakingnews/4912971" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-zootopia-2",
+      "title": { "zh": "動物方城市2", "en": "Zootopia 2", "native": "Zootopia 2" },
+      "year": 2025,
+      "region": "US",
+      "platform": "Disney Animation",
+      "genres": ["Animation", "Comedy", "Adventure"],
+      "tags": [
+        { "zh": "續集", "en": "Sequel" },
+        { "zh": "動物", "en": "Animals" },
+        { "zh": "全球票房", "en": "Global box office" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 108,
+      "synopsis": {
+        "zh": "2016 年《動物方城市》續集，全球 14.6 億美元，超越《冰雪奇緣2》成為迪士尼動畫工作室最賣座作品。",
+        "en": "The Zootopia sequel: $1.46B worldwide, surpassing Frozen II as Walt Disney Animation's biggest film."
+      },
+      "dims": { "reach": 88, "quality": 84, "buzz": 86, "momentum": 40, "crossover": 90 },
+      "heatCurve": [26, 58, 84, 96, 100, 94, 88, 80, 72, 64, 58, 52],
+      "drivers": [
+        {
+          "text": {
+            "zh": "全球 14.6 億美元、中國 40.05 億人民幣，成為迪士尼動畫工作室最賣座作品。",
+            "en": "$1.46B worldwide and ¥4.005B in China, making it Disney Animation's top-grossing film."
+          },
+          "source": { "name": "參考消息", "url": "https://www.163.com/dy/article/KIJPCQ150514BQ68.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "參考消息", "url": "https://www.163.com/dy/article/KIJPCQ150514BQ68.html" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-deadpool-wolverine",
+      "title": { "zh": "死侍與金鋼狼", "en": "Deadpool & Wolverine", "native": "Deadpool & Wolverine" },
+      "year": 2024,
+      "region": "US",
+      "platform": "Marvel／Disney",
+      "genres": ["Action", "Comedy", "Superhero"],
+      "tags": [
+        { "zh": "多重宇宙", "en": "Multiverse" },
+        { "zh": "超級英雄", "en": "Superhero" },
+        { "zh": "嘴砲", "en": "Meta comedy" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 128,
+      "synopsis": {
+        "zh": "死侍與金鋼狼的 MCU 多重宇宙聯動，全球票房約 97 億人民幣。",
+        "en": "Deadpool and Wolverine team up in the MCU multiverse; roughly ¥9.7B at the global box office."
+      },
+      "dims": { "reach": 90, "quality": 78, "buzz": 90, "momentum": 30, "crossover": 88 },
+      "heatCurve": [34, 70, 92, 100, 94, 86, 78, 68, 58, 50, 44, 38],
+      "drivers": [
+        {
+          "text": {
+            "zh": "全球約 97 億人民幣，一度列全球影史票房第 20 位。",
+            "en": "About ¥9.7B worldwide, briefly 20th on the all-time global box-office list."
+          },
+          "source": { "name": "央視", "url": "https://www.dzwww.com/xinwen/guoneixinwen/202502/t20250209_15497750.htm" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "央視", "url": "https://www.dzwww.com/xinwen/guoneixinwen/202502/t20250209_15497750.htm" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-yolo",
+      "title": { "zh": "熱辣滾燙", "en": "YOLO", "native": "热辣滚烫" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "中國 · 喜劇勵志",
+      "genres": ["Comedy", "Drama", "Sports"],
+      "tags": [
+        { "zh": "勵志", "en": "Inspirational" },
+        { "zh": "減重", "en": "Weight loss" },
+        { "zh": "翻拍", "en": "Remake" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 129,
+      "synopsis": {
+        "zh": "改編自日本《百元之戀》的勵志喜劇，2024 年中國票房冠軍（34.60 億人民幣）。",
+        "en": "A remake of Japan's 100 Yen Love and 2024's China box-office champion at ¥3.46B."
+      },
+      "dims": { "reach": 88, "quality": 80, "buzz": 86, "momentum": 25, "crossover": 90 },
+      "heatCurve": [30, 66, 90, 100, 92, 84, 74, 64, 54, 46, 40, 34],
+      "drivers": [
+        {
+          "text": {
+            "zh": "34.60 億人民幣，2024 年中國票房冠軍，佔全年大盤 8.1%。",
+            "en": "¥3.46B — 2024's China #1 — accounting for 8.1% of the annual market."
+          },
+          "source": { "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-dead-to-rights",
+      "title": { "zh": "南京照相館", "en": "Dead to Rights", "native": "南京照相馆" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "中國 · 歷史劇情",
+      "genres": ["Drama", "Historical", "War"],
+      "tags": [
+        { "zh": "抗戰", "en": "War of Resistance" },
+        { "zh": "歷史", "en": "History" },
+        { "zh": "高口碑", "en": "Acclaimed" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 137,
+      "synopsis": {
+        "zh": "以南京大屠殺為背景的歷史劇情片，30.17 億人民幣創中國抗戰題材最高票房，豆瓣 8.8 為 2025 年度最高。",
+        "en": "A historical drama set during the Nanjing Massacre: ¥3.017B, the highest ever for the genre in China, with a 8.8 Douban score."
+      },
+      "dims": { "reach": 78, "quality": 90, "buzz": 88, "momentum": 40, "crossover": 85 },
+      "heatCurve": [24, 52, 76, 90, 100, 96, 90, 82, 72, 64, 56, 50],
+      "drivers": [
+        {
+          "text": {
+            "zh": "30.17 億人民幣，創中國抗戰題材最高票房；豆瓣 8.8 為 2025 年度最高。",
+            "en": "¥3.017B, a record for the genre, and the year's highest Douban score at 8.8."
+          },
+          "source": { "name": "澎湃新聞", "url": "https://baijiahao.baidu.com/s?id=1853019973513213348" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "澎湃新聞", "url": "https://baijiahao.baidu.com/s?id=1853019973513213348" },
+          { "name": "HK01", "url": "https://www.hk01.com/%E9%9B%BB%E5%BD%B1/60303881/" }
+        ],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-the-last-dance",
+      "title": { "zh": "破·地獄", "en": "The Last Dance", "native": "破·地獄" },
+      "year": 2024,
+      "region": "HK",
+      "platform": "英皇電影",
+      "genres": ["Drama", "Family"],
+      "tags": [
+        { "zh": "喪葬", "en": "Funeral" },
+        { "zh": "家庭", "en": "Family" },
+        { "zh": "香港票房紀錄", "en": "HK box-office record" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 126,
+      "synopsis": {
+        "zh": "以香港殯葬業為背景的家庭劇情片，港澳票房 1.53 億港元，創香港影史最高票房紀錄。",
+        "en": "A family drama set in Hong Kong's funeral trade that grossed HK$153M — a record for Hong Kong cinema."
+      },
+      "dims": { "reach": 72, "quality": 92, "buzz": 84, "momentum": 30, "crossover": 88 },
+      "heatCurve": [20, 46, 68, 84, 94, 100, 96, 88, 80, 72, 66, 60],
+      "drivers": [
+        {
+          "text": {
+            "zh": "港澳 1.53 億港元（香港 1.42 億），創香港影史最高票房紀錄。",
+            "en": "HK$153M across Hong Kong and Macau (HK$142M in Hong Kong), a local all-time record."
+          },
+          "source": { "name": "星島日報", "url": "https://std.stheadline.com/tc/daily/article/2650474/" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "星島日報", "url": "https://std.stheadline.com/tc/daily/article/2650474/" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-detective-chinatown-1900",
+      "title": { "zh": "唐探1900", "en": "Detective Chinatown 1900", "native": "唐探1900" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "中國 · 喜劇懸疑",
+      "genres": ["Comedy", "Mystery", "Action"],
+      "tags": [
+        { "zh": "系列前傳", "en": "Series prequel" },
+        { "zh": "推理", "en": "Detective" },
+        { "zh": "春節檔", "en": "Spring Festival release" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 136,
+      "synopsis": {
+        "zh": "「唐探」系列前傳，2025 年春節檔 36.12 億人民幣，年度中國票房第 2。",
+        "en": "A prequel to the Detective Chinatown series: ¥3.612B in the 2025 Spring Festival window, #2 for the year in China."
+      },
+      "dims": { "reach": 86, "quality": 72, "buzz": 84, "momentum": 45, "crossover": 82 },
+      "heatCurve": [30, 64, 88, 100, 92, 84, 76, 66, 58, 50, 44, 38],
+      "drivers": [
+        {
+          "text": {
+            "zh": "36.12 億人民幣，2025 年中國票房第 2。",
+            "en": "¥3.612B — #2 at the 2025 China box office."
+          },
+          "source": { "name": "證券時報", "url": "https://stcn.com/article/detail/3539151.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "證券時報", "url": "https://stcn.com/article/detail/3539151.html" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-twilight-warriors",
+      "title": { "zh": "九龍城寨之圍城", "en": "Twilight of the Warriors: Walled In", "native": "九龍城寨之圍城" },
+      "year": 2024,
+      "region": "HK",
+      "platform": "香港 · 動作犯罪",
+      "genres": ["Action", "Crime", "Drama"],
+      "tags": [
+        { "zh": "九龍城寨", "en": "Kowloon Walled City" },
+        { "zh": "動作", "en": "Action" },
+        { "zh": "漫畫改編", "en": "Comic adaptation" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 126,
+      "synopsis": {
+        "zh": "改編自余兒小說與司徒劍僑漫畫，2024 年香港票房第 2（1.129 億港元）。",
+        "en": "Adapted from a novel and comic, it was Hong Kong's #2 film of 2024 with HK$112.9M."
+      },
+      "dims": { "reach": 74, "quality": 80, "buzz": 80, "momentum": 26, "crossover": 78 },
+      "heatCurve": [18, 44, 66, 84, 94, 100, 92, 84, 74, 66, 58, 52],
+      "drivers": [
+        {
+          "text": {
+            "zh": "港澳 1.129 億港元，2024 年香港票房第 2。",
+            "en": "HK$112.9M across Hong Kong and Macau — #2 locally in 2024."
+          },
+          "source": { "name": "星島日報", "url": "https://std.stheadline.com/tc/daily/article/2650474/" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "星島日報", "url": "https://std.stheadline.com/tc/daily/article/2650474/" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-successor",
+      "title": { "zh": "抓娃娃", "en": "Successor", "native": "抓娃娃" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "開心麻花",
+      "genres": ["Comedy", "Family"],
+      "tags": [
+        { "zh": "喜劇", "en": "Comedy" },
+        { "zh": "教育", "en": "Parenting" },
+        { "zh": "暑期檔", "en": "Summer release" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 133,
+      "synopsis": {
+        "zh": "開心麻花出品的家庭教育喜劇，2024 年中國票房 33.27 億人民幣、年度第 3。",
+        "en": "A Mahua FunAge parenting comedy: ¥3.327B in 2024, #3 in China for the year."
+      },
+      "dims": { "reach": 82, "quality": 76, "buzz": 78, "momentum": 22, "crossover": 80 },
+      "heatCurve": [22, 52, 78, 94, 100, 92, 82, 72, 62, 54, 46, 40],
+      "drivers": [
+        {
+          "text": {
+            "zh": "33.27 億人民幣，2024 年中國票房第 3。",
+            "en": "¥3.327B — #3 at the 2024 China box office."
+          },
+          "source": { "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    },
+    {
+      "id": "fl-article-20",
+      "title": { "zh": "第二十條", "en": "Article 20", "native": "第二十条" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "光線影業",
+      "genres": ["Drama", "Comedy", "Crime"],
+      "tags": [
+        { "zh": "法律", "en": "Law" },
+        { "zh": "現實題材", "en": "Social realism" },
+        { "zh": "春節檔", "en": "Spring Festival release" }
+      ],
+      "episodes": null,
+      "episodeMinutes": 141,
+      "synopsis": {
+        "zh": "以「正當防衛」為主題的現實題材喜劇，2024 年中國票房 24.54 億人民幣。",
+        "en": "A social-realist comedy about justifiable defence: ¥2.454B at the 2024 China box office."
+      },
+      "dims": { "reach": 80, "quality": 82, "buzz": 76, "momentum": 20, "crossover": 78 },
+      "heatCurve": [20, 48, 74, 88, 96, 100, 90, 80, 70, 60, 52, 46],
+      "drivers": [
+        {
+          "text": {
+            "zh": "24.54 億人民幣，2024 年中國票房第 4。",
+            "en": "¥2.454B — #4 at the 2024 China box office."
+          },
+          "source": { "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "新華網", "url": "http://www.news.cn/ent/20241220/b47448059bcd4f26b6eadfd1bdc18e05/c.html" }],
+        "note": { "zh": "分數由公開票房與報導推估。", "en": "Scores estimated from public box office and reporting." }
+      }
+    }
+  ]
+}

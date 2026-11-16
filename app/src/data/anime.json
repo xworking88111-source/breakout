@@ -1,0 +1,7315 @@
+{
+  "dataset": "anime",
+  "source": "AniList GraphQL API (https://anilist.co)",
+  "snapshotDate": "2026-11-16",
+  "license": "AniList 社群資料，非商業原型使用；上線前需替換或取得授權",
+  "count": 50,
+  "items": [
+    {
+      "id": "anilist-16498",
+      "anilistId": 16498,
+      "medium": "anime",
+      "title": {
+        "zh": "進撃の巨人",
+        "en": "Attack on Titan",
+        "native": "進撃の巨人",
+        "romaji": "Shingeki no Kyojin"
+      },
+      "year": 2013,
+      "format": "TV",
+      "episodes": 25,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "tags": [
+        {
+          "name": "Kaiju",
+          "rank": 93
+        },
+        {
+          "name": "Revenge",
+          "rank": 93
+        },
+        {
+          "name": "Tragedy",
+          "rank": 89
+        },
+        {
+          "name": "Military",
+          "rank": 88
+        },
+        {
+          "name": "Henshin",
+          "rank": 88
+        },
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 86
+        }
+      ],
+      "studio": "WIT STUDIO",
+      "metrics": {
+        "popularity": 1079355,
+        "favourites": 80811,
+        "meanScore": 85,
+        "averageScore": 85,
+        "trending": 34,
+        "rankings": [
+          {
+            "rank": 66,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": null,
+            "year": 2013,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2013,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2013,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2013,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 3235
+          },
+          {
+            "score": 20,
+            "amount": 1013
+          },
+          {
+            "score": 30,
+            "amount": 2196
+          },
+          {
+            "score": 40,
+            "amount": 3805
+          },
+          {
+            "score": 50,
+            "amount": 9755
+          },
+          {
+            "score": 60,
+            "amount": 18155
+          },
+          {
+            "score": 70,
+            "amount": 57715
+          },
+          {
+            "score": 80,
+            "amount": 132811
+          },
+          {
+            "score": 90,
+            "amount": 199379
+          },
+          {
+            "score": 100,
+            "amount": 191151
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-101922",
+      "anilistId": 101922,
+      "medium": "anime",
+      "title": {
+        "zh": "鬼滅の刃",
+        "en": "Demon Slayer: Kimetsu no Yaiba",
+        "native": "鬼滅の刃",
+        "romaji": "Kimetsu no Yaiba"
+      },
+      "year": 2019,
+      "format": "TV",
+      "episodes": 26,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 96
+        },
+        {
+          "name": "Shounen",
+          "rank": 92
+        },
+        {
+          "name": "Vampire",
+          "rank": 92
+        },
+        {
+          "name": "Swordplay",
+          "rank": 88
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 82
+        },
+        {
+          "name": "Tragedy",
+          "rank": 78
+        }
+      ],
+      "studio": "ufotable",
+      "metrics": {
+        "popularity": 1015329,
+        "favourites": 55065,
+        "meanScore": 82,
+        "averageScore": 82,
+        "trending": 18,
+        "rankings": [
+          {
+            "rank": 188,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 10,
+            "type": "RATED",
+            "season": null,
+            "year": 2019,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2019,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2019,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2019,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2666
+          },
+          {
+            "score": 20,
+            "amount": 1084
+          },
+          {
+            "score": 30,
+            "amount": 2580
+          },
+          {
+            "score": 40,
+            "amount": 4344
+          },
+          {
+            "score": 50,
+            "amount": 12488
+          },
+          {
+            "score": 60,
+            "amount": 23628
+          },
+          {
+            "score": 70,
+            "amount": 69237
+          },
+          {
+            "score": 80,
+            "amount": 141250
+          },
+          {
+            "score": 90,
+            "amount": 174164
+          },
+          {
+            "score": 100,
+            "amount": 124408
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-113415",
+      "anilistId": 113415,
+      "medium": "anime",
+      "title": {
+        "zh": "呪術廻戦",
+        "en": "JUJUTSU KAISEN",
+        "native": "呪術廻戦",
+        "romaji": "Jujutsu Kaisen"
+      },
+      "year": 2020,
+      "format": "TV",
+      "episodes": 24,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Urban Fantasy",
+          "rank": 93
+        },
+        {
+          "name": "Shounen",
+          "rank": 92
+        },
+        {
+          "name": "Curses",
+          "rank": 90
+        },
+        {
+          "name": "Super Power",
+          "rank": 88
+        },
+        {
+          "name": "Youkai",
+          "rank": 87
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 85
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 997032,
+        "favourites": 64917,
+        "meanScore": 84,
+        "averageScore": 84,
+        "trending": 26,
+        "rankings": [
+          {
+            "rank": 111,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 6,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2020,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2108
+          },
+          {
+            "score": 20,
+            "amount": 645
+          },
+          {
+            "score": 30,
+            "amount": 1492
+          },
+          {
+            "score": 40,
+            "amount": 2440
+          },
+          {
+            "score": 50,
+            "amount": 7737
+          },
+          {
+            "score": 60,
+            "amount": 15165
+          },
+          {
+            "score": 70,
+            "amount": 54224
+          },
+          {
+            "score": 80,
+            "amount": 126352
+          },
+          {
+            "score": 90,
+            "amount": 183540
+          },
+          {
+            "score": 100,
+            "amount": 120119
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-1535",
+      "anilistId": 1535,
+      "medium": "anime",
+      "title": {
+        "zh": "DEATH NOTE",
+        "en": "Death Note",
+        "native": "DEATH NOTE",
+        "romaji": "DEATH NOTE"
+      },
+      "year": 2006,
+      "format": "TV",
+      "episodes": 37,
+      "duration": 23,
+      "status": "FINISHED",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Supernatural",
+        "Thriller"
+      ],
+      "tags": [
+        {
+          "name": "Crime",
+          "rank": 96
+        },
+        {
+          "name": "Detective",
+          "rank": 95
+        },
+        {
+          "name": "Anti-Hero",
+          "rank": 94
+        },
+        {
+          "name": "Fugitive",
+          "rank": 91
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 90
+        },
+        {
+          "name": "Noir",
+          "rank": 90
+        }
+      ],
+      "studio": "MADHOUSE",
+      "metrics": {
+        "popularity": 983596,
+        "favourites": 63209,
+        "meanScore": 84,
+        "averageScore": 84,
+        "trending": 19,
+        "rankings": [
+          {
+            "rank": 104,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": null,
+            "year": 2006,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2006,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2006,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2006,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2123
+          },
+          {
+            "score": 20,
+            "amount": 790
+          },
+          {
+            "score": 30,
+            "amount": 1873
+          },
+          {
+            "score": 40,
+            "amount": 3274
+          },
+          {
+            "score": 50,
+            "amount": 9503
+          },
+          {
+            "score": 60,
+            "amount": 19264
+          },
+          {
+            "score": 70,
+            "amount": 57743
+          },
+          {
+            "score": 80,
+            "amount": 124560
+          },
+          {
+            "score": 90,
+            "amount": 186602
+          },
+          {
+            "score": 100,
+            "amount": 135527
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-21459",
+      "anilistId": 21459,
+      "medium": "anime",
+      "title": {
+        "zh": "僕のヒーローアカデミア",
+        "en": "My Hero Academia",
+        "native": "僕のヒーローアカデミア",
+        "romaji": "Boku no Hero Academia"
+      },
+      "year": 2016,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "tags": [
+        {
+          "name": "Super Power",
+          "rank": 98
+        },
+        {
+          "name": "Superhero",
+          "rank": 97
+        },
+        {
+          "name": "Shounen",
+          "rank": 90
+        },
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 87
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 86
+        },
+        {
+          "name": "Crime",
+          "rank": 84
+        }
+      ],
+      "studio": "bones",
+      "metrics": {
+        "popularity": 891019,
+        "favourites": 29803,
+        "meanScore": 76,
+        "averageScore": 76,
+        "trending": 12,
+        "rankings": [
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 23,
+            "type": "RATED",
+            "season": null,
+            "year": 2016,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2016,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2016,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2016,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 3240
+          },
+          {
+            "score": 20,
+            "amount": 1602
+          },
+          {
+            "score": 30,
+            "amount": 3702
+          },
+          {
+            "score": 40,
+            "amount": 6451
+          },
+          {
+            "score": 50,
+            "amount": 19022
+          },
+          {
+            "score": 60,
+            "amount": 38620
+          },
+          {
+            "score": 70,
+            "amount": 102755
+          },
+          {
+            "score": 80,
+            "amount": 146683
+          },
+          {
+            "score": 90,
+            "amount": 100953
+          },
+          {
+            "score": 100,
+            "amount": 58969
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-11061",
+      "anilistId": 11061,
+      "medium": "anime",
+      "title": {
+        "zh": "HUNTER×HUNTER (2011)",
+        "en": "Hunter x Hunter (2011)",
+        "native": "HUNTER×HUNTER (2011)",
+        "romaji": "HUNTER×HUNTER (2011)"
+      },
+      "year": 2011,
+      "format": "TV",
+      "episodes": 148,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Shounen",
+          "rank": 95
+        },
+        {
+          "name": "Super Power",
+          "rank": 91
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 88
+        },
+        {
+          "name": "Tragedy",
+          "rank": 82
+        },
+        {
+          "name": "Travel",
+          "rank": 82
+        },
+        {
+          "name": "Ensemble Cast",
+          "rank": 80
+        }
+      ],
+      "studio": "MADHOUSE",
+      "metrics": {
+        "popularity": 858316,
+        "favourites": 91631,
+        "meanScore": 89,
+        "averageScore": 89,
+        "trending": 39,
+        "rankings": [
+          {
+            "rank": 9,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 6,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": null,
+            "year": 2011,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2011,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2011,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2011,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1834
+          },
+          {
+            "score": 20,
+            "amount": 407
+          },
+          {
+            "score": 30,
+            "amount": 849
+          },
+          {
+            "score": 40,
+            "amount": 1386
+          },
+          {
+            "score": 50,
+            "amount": 4061
+          },
+          {
+            "score": 60,
+            "amount": 7258
+          },
+          {
+            "score": 70,
+            "amount": 24625
+          },
+          {
+            "score": 80,
+            "amount": 60561
+          },
+          {
+            "score": 90,
+            "amount": 142527
+          },
+          {
+            "score": 100,
+            "amount": 179964
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-21087",
+      "anilistId": 21087,
+      "medium": "anime",
+      "title": {
+        "zh": "ワンパンマン",
+        "en": "One-Punch Man",
+        "native": "ワンパンマン",
+        "romaji": "One Punch Man"
+      },
+      "year": 2015,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Superhero",
+          "rank": 98
+        },
+        {
+          "name": "Super Power",
+          "rank": 97
+        },
+        {
+          "name": "Parody",
+          "rank": 92
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 85
+        },
+        {
+          "name": "Satire",
+          "rank": 83
+        },
+        {
+          "name": "Urban Fantasy",
+          "rank": 79
+        }
+      ],
+      "studio": "MADHOUSE",
+      "metrics": {
+        "popularity": 780912,
+        "favourites": 30932,
+        "meanScore": 82,
+        "averageScore": 82,
+        "trending": 14,
+        "rankings": [
+          {
+            "rank": 169,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 7,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": null,
+            "year": 2015,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2015,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2015,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2015,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1432
+          },
+          {
+            "score": 20,
+            "amount": 558
+          },
+          {
+            "score": 30,
+            "amount": 1357
+          },
+          {
+            "score": 40,
+            "amount": 2292
+          },
+          {
+            "score": 50,
+            "amount": 7699
+          },
+          {
+            "score": 60,
+            "amount": 16009
+          },
+          {
+            "score": 70,
+            "amount": 54874
+          },
+          {
+            "score": 80,
+            "amount": 126946
+          },
+          {
+            "score": 90,
+            "amount": 139874
+          },
+          {
+            "score": 100,
+            "amount": 77468
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-21",
+      "anilistId": 21,
+      "medium": "anime",
+      "title": {
+        "zh": "ONE PIECE",
+        "en": "ONE PIECE",
+        "native": "ONE PIECE",
+        "romaji": "ONE PIECE"
+      },
+      "year": 1999,
+      "format": "TV",
+      "episodes": null,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Pirates",
+          "rank": 98
+        },
+        {
+          "name": "Travel",
+          "rank": 94
+        },
+        {
+          "name": "Shounen",
+          "rank": 93
+        },
+        {
+          "name": "Ensemble Cast",
+          "rank": 93
+        },
+        {
+          "name": "Super Power",
+          "rank": 90
+        },
+        {
+          "name": "Found Family",
+          "rank": 88
+        }
+      ],
+      "studio": "Toei Animation",
+      "metrics": {
+        "popularity": 770120,
+        "favourites": 110938,
+        "meanScore": 87,
+        "averageScore": 87,
+        "trending": 198,
+        "rankings": [
+          {
+            "rank": 25,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 8,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": null,
+            "year": 1999,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 1999,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 3631
+          },
+          {
+            "score": 20,
+            "amount": 970
+          },
+          {
+            "score": 30,
+            "amount": 1603
+          },
+          {
+            "score": 40,
+            "amount": 2595
+          },
+          {
+            "score": 50,
+            "amount": 5529
+          },
+          {
+            "score": 60,
+            "amount": 8472
+          },
+          {
+            "score": 70,
+            "amount": 20793
+          },
+          {
+            "score": 80,
+            "amount": 35929
+          },
+          {
+            "score": 90,
+            "amount": 74887
+          },
+          {
+            "score": 100,
+            "amount": 137750
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-20605",
+      "anilistId": 20605,
+      "medium": "anime",
+      "title": {
+        "zh": "東京喰種 トーキョーグール",
+        "en": "Tokyo Ghoul",
+        "native": "東京喰種 トーキョーグール",
+        "romaji": "Tokyo Ghoul"
+      },
+      "year": 2014,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Gore",
+          "rank": 90
+        },
+        {
+          "name": "Urban Fantasy",
+          "rank": 89
+        },
+        {
+          "name": "Tragedy",
+          "rank": 87
+        },
+        {
+          "name": "Survival",
+          "rank": 83
+        },
+        {
+          "name": "Body Horror",
+          "rank": 79
+        },
+        {
+          "name": "Human Experimentation",
+          "rank": 79
+        }
+      ],
+      "studio": "Studio Pierrot",
+      "metrics": {
+        "popularity": 755212,
+        "favourites": 25352,
+        "meanScore": 76,
+        "averageScore": 76,
+        "trending": 14,
+        "rankings": [
+          {
+            "rank": 9,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 26,
+            "type": "RATED",
+            "season": null,
+            "year": 2014,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2014,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "SUMMER",
+            "year": 2014,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SUMMER",
+            "year": 2014,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2478
+          },
+          {
+            "score": 20,
+            "amount": 1915
+          },
+          {
+            "score": 30,
+            "amount": 4668
+          },
+          {
+            "score": 40,
+            "amount": 8537
+          },
+          {
+            "score": 50,
+            "amount": 17759
+          },
+          {
+            "score": 60,
+            "amount": 33069
+          },
+          {
+            "score": 70,
+            "amount": 76087
+          },
+          {
+            "score": 80,
+            "amount": 104434
+          },
+          {
+            "score": 90,
+            "amount": 77779
+          },
+          {
+            "score": 100,
+            "amount": 53665
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-110277",
+      "anilistId": 110277,
+      "medium": "anime",
+      "title": {
+        "zh": "進撃の巨人 The Final Season",
+        "en": "Attack on Titan Final Season",
+        "native": "進撃の巨人 The Final Season",
+        "romaji": "Shingeki no Kyojin: The Final Season"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 16,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "tags": [
+        {
+          "name": "War",
+          "rank": 98
+        },
+        {
+          "name": "Tragedy",
+          "rank": 95
+        },
+        {
+          "name": "Military",
+          "rank": 93
+        },
+        {
+          "name": "Kaiju",
+          "rank": 92
+        },
+        {
+          "name": "Anti-Hero",
+          "rank": 90
+        },
+        {
+          "name": "Revenge",
+          "rank": 90
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 657155,
+        "favourites": 26542,
+        "meanScore": 87,
+        "averageScore": 87,
+        "trending": 23,
+        "rankings": [
+          {
+            "rank": 37,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 16,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1933
+          },
+          {
+            "score": 20,
+            "amount": 608
+          },
+          {
+            "score": 30,
+            "amount": 1291
+          },
+          {
+            "score": 40,
+            "amount": 2212
+          },
+          {
+            "score": 50,
+            "amount": 4490
+          },
+          {
+            "score": 60,
+            "amount": 8346
+          },
+          {
+            "score": 70,
+            "amount": 23922
+          },
+          {
+            "score": 80,
+            "amount": 56485
+          },
+          {
+            "score": 90,
+            "amount": 118757
+          },
+          {
+            "score": 100,
+            "amount": 125044
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-127230",
+      "anilistId": 127230,
+      "medium": "anime",
+      "title": {
+        "zh": "チェンソーマン",
+        "en": "Chainsaw Man",
+        "native": "チェンソーマン",
+        "romaji": "Chainsaw Man"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 25,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Horror",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 96
+        },
+        {
+          "name": "Monster Boy",
+          "rank": 96
+        },
+        {
+          "name": "Urban Fantasy",
+          "rank": 93
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 89
+        },
+        {
+          "name": "Gore",
+          "rank": 88
+        },
+        {
+          "name": "Tragedy",
+          "rank": 87
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 653326,
+        "favourites": 36803,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 22,
+        "rankings": [
+          {
+            "rank": 136,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 17,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 9,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1393
+          },
+          {
+            "score": 20,
+            "amount": 475
+          },
+          {
+            "score": 30,
+            "amount": 1050
+          },
+          {
+            "score": 40,
+            "amount": 1668
+          },
+          {
+            "score": 50,
+            "amount": 4841
+          },
+          {
+            "score": 60,
+            "amount": 9603
+          },
+          {
+            "score": 70,
+            "amount": 33627
+          },
+          {
+            "score": 80,
+            "amount": 82301
+          },
+          {
+            "score": 90,
+            "amount": 111349
+          },
+          {
+            "score": 100,
+            "amount": 59895
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-140960",
+      "anilistId": 140960,
+      "medium": "anime",
+      "title": {
+        "zh": "SPY×FAMILY",
+        "en": "SPY x FAMILY",
+        "native": "SPY×FAMILY",
+        "romaji": "SPY×FAMILY"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Espionage",
+          "rank": 95
+        },
+        {
+          "name": "Family Life",
+          "rank": 95
+        },
+        {
+          "name": "Found Family",
+          "rank": 92
+        },
+        {
+          "name": "Fake Relationship",
+          "rank": 86
+        },
+        {
+          "name": "Parenthood",
+          "rank": 82
+        },
+        {
+          "name": "Assassins",
+          "rank": 80
+        }
+      ],
+      "studio": "CloverWorks",
+      "metrics": {
+        "popularity": 583984,
+        "favourites": 26681,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 16,
+        "rankings": [
+          {
+            "rank": 159,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 31,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 10,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1068
+          },
+          {
+            "score": 20,
+            "amount": 329
+          },
+          {
+            "score": 30,
+            "amount": 875
+          },
+          {
+            "score": 40,
+            "amount": 1475
+          },
+          {
+            "score": 50,
+            "amount": 5047
+          },
+          {
+            "score": 60,
+            "amount": 10197
+          },
+          {
+            "score": 70,
+            "amount": 34106
+          },
+          {
+            "score": 80,
+            "amount": 75969
+          },
+          {
+            "score": 90,
+            "amount": 93326
+          },
+          {
+            "score": 100,
+            "amount": 54241
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-124080",
+      "anilistId": 124080,
+      "medium": "anime",
+      "title": {
+        "zh": "ホリミヤ",
+        "en": "Horimiya",
+        "native": "ホリミヤ",
+        "romaji": "Horimiya"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "tags": [
+        {
+          "name": "School",
+          "rank": 92
+        },
+        {
+          "name": "Female Protagonist",
+          "rank": 85
+        },
+        {
+          "name": "Family Life",
+          "rank": 84
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 84
+        },
+        {
+          "name": "Heterosexual",
+          "rank": 84
+        },
+        {
+          "name": "Ensemble Cast",
+          "rank": 81
+        }
+      ],
+      "studio": "CloverWorks",
+      "metrics": {
+        "popularity": 556347,
+        "favourites": 31886,
+        "meanScore": 81,
+        "averageScore": 81,
+        "trending": 10,
+        "rankings": [
+          {
+            "rank": 262,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 36,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 21,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 9,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1200
+          },
+          {
+            "score": 20,
+            "amount": 643
+          },
+          {
+            "score": 30,
+            "amount": 1611
+          },
+          {
+            "score": 40,
+            "amount": 2841
+          },
+          {
+            "score": 50,
+            "amount": 7207
+          },
+          {
+            "score": 60,
+            "amount": 13455
+          },
+          {
+            "score": 70,
+            "amount": 37135
+          },
+          {
+            "score": 80,
+            "amount": 70250
+          },
+          {
+            "score": 90,
+            "amount": 74022
+          },
+          {
+            "score": 100,
+            "amount": 52810
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-112151",
+      "anilistId": 112151,
+      "medium": "anime",
+      "title": {
+        "zh": "鬼滅の刃 無限列車編",
+        "en": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+        "native": "鬼滅の刃 無限列車編",
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen"
+      },
+      "year": 2020,
+      "format": "MOVIE",
+      "episodes": 1,
+      "duration": 117,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 93
+        },
+        {
+          "name": "Swordplay",
+          "rank": 88
+        },
+        {
+          "name": "Shounen",
+          "rank": 85
+        },
+        {
+          "name": "Tragedy",
+          "rank": 82
+        },
+        {
+          "name": "Trains",
+          "rank": 80
+        },
+        {
+          "name": "Curses",
+          "rank": 79
+        }
+      ],
+      "studio": "ufotable",
+      "metrics": {
+        "popularity": 518774,
+        "favourites": 13624,
+        "meanScore": 84,
+        "averageScore": 84,
+        "trending": 7,
+        "rankings": [
+          {
+            "rank": 38,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 960
+          },
+          {
+            "score": 20,
+            "amount": 419
+          },
+          {
+            "score": 30,
+            "amount": 1079
+          },
+          {
+            "score": 40,
+            "amount": 1752
+          },
+          {
+            "score": 50,
+            "amount": 4717
+          },
+          {
+            "score": 60,
+            "amount": 9396
+          },
+          {
+            "score": 70,
+            "amount": 29371
+          },
+          {
+            "score": 80,
+            "amount": 67324
+          },
+          {
+            "score": 90,
+            "amount": 91453
+          },
+          {
+            "score": 100,
+            "amount": 63973
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-145064",
+      "anilistId": 145064,
+      "medium": "anime",
+      "title": {
+        "zh": "呪術廻戦 第2期",
+        "en": "JUJUTSU KAISEN Season 2",
+        "native": "呪術廻戦 第2期",
+        "romaji": "Jujutsu Kaisen 2nd Season"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 23,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Curses",
+          "rank": 97
+        },
+        {
+          "name": "Urban",
+          "rank": 95
+        },
+        {
+          "name": "Tragedy",
+          "rank": 92
+        },
+        {
+          "name": "Super Power",
+          "rank": 89
+        },
+        {
+          "name": "Shounen",
+          "rank": 88
+        },
+        {
+          "name": "Exorcism",
+          "rank": 88
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 507787,
+        "favourites": 23017,
+        "meanScore": 86,
+        "averageScore": 86,
+        "trending": 17,
+        "rankings": [
+          {
+            "rank": 46,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 48,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "SUMMER",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SUMMER",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 878
+          },
+          {
+            "score": 20,
+            "amount": 212
+          },
+          {
+            "score": 30,
+            "amount": 444
+          },
+          {
+            "score": 40,
+            "amount": 787
+          },
+          {
+            "score": 50,
+            "amount": 2302
+          },
+          {
+            "score": 60,
+            "amount": 4669
+          },
+          {
+            "score": 70,
+            "amount": 16774
+          },
+          {
+            "score": 80,
+            "amount": 45583
+          },
+          {
+            "score": 90,
+            "amount": 90087
+          },
+          {
+            "score": 100,
+            "amount": 62819
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-154587",
+      "anilistId": 154587,
+      "medium": "anime",
+      "title": {
+        "zh": "葬送のフリーレン",
+        "en": "Frieren: Beyond Journey’s End",
+        "native": "葬送のフリーレン",
+        "romaji": "Sousou no Frieren"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 28,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Travel",
+          "rank": 96
+        },
+        {
+          "name": "Magic",
+          "rank": 95
+        },
+        {
+          "name": "Elf",
+          "rank": 91
+        },
+        {
+          "name": "Female Protagonist",
+          "rank": 86
+        },
+        {
+          "name": "Philosophy",
+          "rank": 83
+        },
+        {
+          "name": "Medieval",
+          "rank": 83
+        }
+      ],
+      "studio": "MADHOUSE",
+      "metrics": {
+        "popularity": 499391,
+        "favourites": 57175,
+        "meanScore": 90,
+        "averageScore": 90,
+        "trending": 19,
+        "rankings": [
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 50,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1183
+          },
+          {
+            "score": 20,
+            "amount": 231
+          },
+          {
+            "score": 30,
+            "amount": 428
+          },
+          {
+            "score": 40,
+            "amount": 708
+          },
+          {
+            "score": 50,
+            "amount": 1733
+          },
+          {
+            "score": 60,
+            "amount": 2550
+          },
+          {
+            "score": 70,
+            "amount": 8587
+          },
+          {
+            "score": 80,
+            "amount": 22890
+          },
+          {
+            "score": 90,
+            "amount": 73100
+          },
+          {
+            "score": 100,
+            "amount": 109382
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-142329",
+      "anilistId": 142329,
+      "medium": "anime",
+      "title": {
+        "zh": "鬼滅の刃 遊郭編",
+        "en": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+        "native": "鬼滅の刃 遊郭編",
+        "romaji": "Kimetsu no Yaiba: Yuukaku-hen"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 97
+        },
+        {
+          "name": "Swordplay",
+          "rank": 94
+        },
+        {
+          "name": "Shounen",
+          "rank": 92
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 86
+        },
+        {
+          "name": "Oiran",
+          "rank": 81
+        },
+        {
+          "name": "Revenge",
+          "rank": 79
+        }
+      ],
+      "studio": "ufotable",
+      "metrics": {
+        "popularity": 496301,
+        "favourites": 17184,
+        "meanScore": 85,
+        "averageScore": 85,
+        "trending": 10,
+        "rankings": [
+          {
+            "rank": 62,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 51,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 955
+          },
+          {
+            "score": 20,
+            "amount": 280
+          },
+          {
+            "score": 30,
+            "amount": 689
+          },
+          {
+            "score": 40,
+            "amount": 1099
+          },
+          {
+            "score": 50,
+            "amount": 3112
+          },
+          {
+            "score": 60,
+            "amount": 6409
+          },
+          {
+            "score": 70,
+            "amount": 22316
+          },
+          {
+            "score": 80,
+            "amount": 58081
+          },
+          {
+            "score": 90,
+            "amount": 100367
+          },
+          {
+            "score": 100,
+            "amount": 71439
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-108465",
+      "anilistId": 108465,
+      "medium": "anime",
+      "title": {
+        "zh": "無職転生 ～異世界行ったら本気だす～",
+        "en": "Mushoku Tensei: Jobless Reincarnation",
+        "native": "無職転生 ～異世界行ったら本気だす～",
+        "romaji": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Isekai",
+          "rank": 97
+        },
+        {
+          "name": "Reincarnation",
+          "rank": 92
+        },
+        {
+          "name": "Magic",
+          "rank": 88
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 88
+        },
+        {
+          "name": "Rehabilitation",
+          "rank": 83
+        },
+        {
+          "name": "Coming of Age",
+          "rank": 82
+        }
+      ],
+      "studio": "Studio Bind",
+      "metrics": {
+        "popularity": 472649,
+        "favourites": 26067,
+        "meanScore": 81,
+        "averageScore": 81,
+        "trending": 12,
+        "rankings": [
+          {
+            "rank": 225,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 58,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 18,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2379
+          },
+          {
+            "score": 20,
+            "amount": 1021
+          },
+          {
+            "score": 30,
+            "amount": 1728
+          },
+          {
+            "score": 40,
+            "amount": 2528
+          },
+          {
+            "score": 50,
+            "amount": 4523
+          },
+          {
+            "score": 60,
+            "amount": 8336
+          },
+          {
+            "score": 70,
+            "amount": 25508
+          },
+          {
+            "score": 80,
+            "amount": 63653
+          },
+          {
+            "score": 90,
+            "amount": 74304
+          },
+          {
+            "score": 100,
+            "amount": 43248
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-151807",
+      "anilistId": 151807,
+      "medium": "anime",
+      "title": {
+        "zh": "俺だけレベルアップな件",
+        "en": "Solo Leveling",
+        "native": "俺だけレベルアップな件",
+        "romaji": "Ore dake Level Up na Ken"
+      },
+      "year": 2024,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Dungeon",
+          "rank": 96
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 93
+        },
+        {
+          "name": "Urban Fantasy",
+          "rank": 92
+        },
+        {
+          "name": "Super Power",
+          "rank": 90
+        },
+        {
+          "name": "Magic",
+          "rank": 89
+        },
+        {
+          "name": "Necromancy",
+          "rank": 85
+        }
+      ],
+      "studio": "A-1 Pictures",
+      "metrics": {
+        "popularity": 463265,
+        "favourites": 21016,
+        "meanScore": 80,
+        "averageScore": 80,
+        "trending": 22,
+        "rankings": [
+          {
+            "rank": 313,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 61,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 21,
+            "type": "RATED",
+            "season": null,
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2024,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1461
+          },
+          {
+            "score": 20,
+            "amount": 849
+          },
+          {
+            "score": 30,
+            "amount": 1706
+          },
+          {
+            "score": 40,
+            "amount": 2471
+          },
+          {
+            "score": 50,
+            "amount": 5912
+          },
+          {
+            "score": 60,
+            "amount": 10840
+          },
+          {
+            "score": 70,
+            "amount": 29724
+          },
+          {
+            "score": 80,
+            "amount": 55193
+          },
+          {
+            "score": 90,
+            "amount": 59638
+          },
+          {
+            "score": 100,
+            "amount": 40654
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-120120",
+      "anilistId": 120120,
+      "medium": "anime",
+      "title": {
+        "zh": "東京リベンジャーズ",
+        "en": "Tokyo Revengers",
+        "native": "東京リベンジャーズ",
+        "romaji": "Tokyo Revengers"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 24,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Gangs",
+          "rank": 97
+        },
+        {
+          "name": "Delinquents",
+          "rank": 95
+        },
+        {
+          "name": "Time Manipulation",
+          "rank": 93
+        },
+        {
+          "name": "Age Regression",
+          "rank": 90
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 90
+        },
+        {
+          "name": "Primarily Male Cast",
+          "rank": 87
+        }
+      ],
+      "studio": "LIDENFILMS",
+      "metrics": {
+        "popularity": 455271,
+        "favourites": 17015,
+        "meanScore": 77,
+        "averageScore": 77,
+        "trending": 10,
+        "rankings": [
+          {
+            "rank": 66,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 36,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 11,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 2174
+          },
+          {
+            "score": 20,
+            "amount": 1534
+          },
+          {
+            "score": 30,
+            "amount": 2905
+          },
+          {
+            "score": 40,
+            "amount": 4334
+          },
+          {
+            "score": 50,
+            "amount": 8027
+          },
+          {
+            "score": 60,
+            "amount": 13632
+          },
+          {
+            "score": 70,
+            "amount": 30246
+          },
+          {
+            "score": 80,
+            "amount": 48426
+          },
+          {
+            "score": 90,
+            "amount": 44934
+          },
+          {
+            "score": 100,
+            "amount": 28936
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-131681",
+      "anilistId": 131681,
+      "medium": "anime",
+      "title": {
+        "zh": "進撃の巨人 The Final Season Part 2",
+        "en": "Attack on Titan Final Season Part 2",
+        "native": "進撃の巨人 The Final Season Part 2",
+        "romaji": "Shingeki no Kyojin: The Final Season Part 2"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Psychological"
+      ],
+      "tags": [
+        {
+          "name": "War",
+          "rank": 97
+        },
+        {
+          "name": "Tragedy",
+          "rank": 96
+        },
+        {
+          "name": "Revenge",
+          "rank": 93
+        },
+        {
+          "name": "Anti-Hero",
+          "rank": 90
+        },
+        {
+          "name": "Military",
+          "rank": 90
+        },
+        {
+          "name": "Survival",
+          "rank": 89
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 452807,
+        "favourites": 15843,
+        "meanScore": 87,
+        "averageScore": 87,
+        "trending": 9,
+        "rankings": [
+          {
+            "rank": 40,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 67,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1320
+          },
+          {
+            "score": 20,
+            "amount": 522
+          },
+          {
+            "score": 30,
+            "amount": 1010
+          },
+          {
+            "score": 40,
+            "amount": 1470
+          },
+          {
+            "score": 50,
+            "amount": 3110
+          },
+          {
+            "score": 60,
+            "amount": 5424
+          },
+          {
+            "score": 70,
+            "amount": 15028
+          },
+          {
+            "score": 80,
+            "amount": 36593
+          },
+          {
+            "score": 90,
+            "amount": 73087
+          },
+          {
+            "score": 100,
+            "amount": 78126
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-131573",
+      "anilistId": 131573,
+      "medium": "anime",
+      "title": {
+        "zh": "呪術廻戦 0",
+        "en": "JUJUTSU KAISEN 0",
+        "native": "呪術廻戦 0",
+        "romaji": "Jujutsu Kaisen 0"
+      },
+      "year": 2021,
+      "format": "MOVIE",
+      "episodes": 1,
+      "duration": 105,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Curses",
+          "rank": 97
+        },
+        {
+          "name": "Demons",
+          "rank": 93
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 87
+        },
+        {
+          "name": "Shounen",
+          "rank": 85
+        },
+        {
+          "name": "Tragedy",
+          "rank": 85
+        },
+        {
+          "name": "Urban Fantasy",
+          "rank": 85
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 449030,
+        "favourites": 12482,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 8,
+        "rankings": [
+          {
+            "rank": 45,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 610
+          },
+          {
+            "score": 20,
+            "amount": 179
+          },
+          {
+            "score": 30,
+            "amount": 517
+          },
+          {
+            "score": 40,
+            "amount": 980
+          },
+          {
+            "score": 50,
+            "amount": 3342
+          },
+          {
+            "score": 60,
+            "amount": 7264
+          },
+          {
+            "score": 70,
+            "amount": 27221
+          },
+          {
+            "score": 80,
+            "amount": 64437
+          },
+          {
+            "score": 90,
+            "amount": 76709
+          },
+          {
+            "score": 100,
+            "amount": 42225
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-132405",
+      "anilistId": 132405,
+      "medium": "anime",
+      "title": {
+        "zh": "その着せ替え人形は恋をする",
+        "en": "My Dress-Up Darling",
+        "native": "その着せ替え人形は恋をする",
+        "romaji": "Sono Bisque Doll wa Koi wo Suru"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Romance",
+        "Slice of Life"
+      ],
+      "tags": [
+        {
+          "name": "Cosplay",
+          "rank": 98
+        },
+        {
+          "name": "Otaku Culture",
+          "rank": 91
+        },
+        {
+          "name": "Fashion",
+          "rank": 90
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 89
+        },
+        {
+          "name": "Heterosexual",
+          "rank": 87
+        },
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 86
+        }
+      ],
+      "studio": "CloverWorks",
+      "metrics": {
+        "popularity": 443566,
+        "favourites": 20158,
+        "meanScore": 80,
+        "averageScore": 80,
+        "trending": 14,
+        "rankings": [
+          {
+            "rank": 332,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 69,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 21,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1224
+          },
+          {
+            "score": 20,
+            "amount": 710
+          },
+          {
+            "score": 30,
+            "amount": 1382
+          },
+          {
+            "score": 40,
+            "amount": 2329
+          },
+          {
+            "score": 50,
+            "amount": 5585
+          },
+          {
+            "score": 60,
+            "amount": 10942
+          },
+          {
+            "score": 70,
+            "amount": 32698
+          },
+          {
+            "score": 80,
+            "amount": 63637
+          },
+          {
+            "score": 90,
+            "amount": 61325
+          },
+          {
+            "score": 100,
+            "amount": 33695
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-112641",
+      "anilistId": 112641,
+      "medium": "anime",
+      "title": {
+        "zh": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+        "en": "Kaguya-sama: Love is War?",
+        "native": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+        "romaji": "Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen"
+      },
+      "year": 2020,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 25,
+      "status": "FINISHED",
+      "genres": [
+        "Comedy",
+        "Psychological",
+        "Romance",
+        "Slice of Life"
+      ],
+      "tags": [
+        {
+          "name": "School",
+          "rank": 91
+        },
+        {
+          "name": "School Club",
+          "rank": 91
+        },
+        {
+          "name": "Ensemble Cast",
+          "rank": 88
+        },
+        {
+          "name": "Tsundere",
+          "rank": 87
+        },
+        {
+          "name": "Female Protagonist",
+          "rank": 84
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 83
+        }
+      ],
+      "studio": "A-1 Pictures",
+      "metrics": {
+        "popularity": 442536,
+        "favourites": 16619,
+        "meanScore": 85,
+        "averageScore": 85,
+        "trending": 3,
+        "rankings": [
+          {
+            "rank": 65,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 70,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2020,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 645
+          },
+          {
+            "score": 20,
+            "amount": 212
+          },
+          {
+            "score": 30,
+            "amount": 441
+          },
+          {
+            "score": 40,
+            "amount": 725
+          },
+          {
+            "score": 50,
+            "amount": 2276
+          },
+          {
+            "score": 60,
+            "amount": 4734
+          },
+          {
+            "score": 70,
+            "amount": 18650
+          },
+          {
+            "score": 80,
+            "amount": 55276
+          },
+          {
+            "score": 90,
+            "amount": 89142
+          },
+          {
+            "score": 100,
+            "amount": 50734
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-117193",
+      "anilistId": 117193,
+      "medium": "anime",
+      "title": {
+        "zh": "僕のヒーローアカデミア５",
+        "en": "My Hero Academia Season 5",
+        "native": "僕のヒーローアカデミア５",
+        "romaji": "Boku no Hero Academia 5"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 25,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "Superhero",
+          "rank": 97
+        },
+        {
+          "name": "Super Power",
+          "rank": 94
+        },
+        {
+          "name": "Shounen",
+          "rank": 92
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 89
+        },
+        {
+          "name": "School",
+          "rank": 82
+        },
+        {
+          "name": "Cultivation",
+          "rank": 80
+        }
+      ],
+      "studio": "bones",
+      "metrics": {
+        "popularity": 423143,
+        "favourites": 6835,
+        "meanScore": 73,
+        "averageScore": 73,
+        "trending": 12,
+        "rankings": [
+          {
+            "rank": 74,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 52,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 16,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1190
+          },
+          {
+            "score": 20,
+            "amount": 810
+          },
+          {
+            "score": 30,
+            "amount": 2161
+          },
+          {
+            "score": 40,
+            "amount": 4035
+          },
+          {
+            "score": 50,
+            "amount": 10127
+          },
+          {
+            "score": 60,
+            "amount": 19626
+          },
+          {
+            "score": 70,
+            "amount": 43129
+          },
+          {
+            "score": 80,
+            "amount": 46250
+          },
+          {
+            "score": 90,
+            "amount": 27885
+          },
+          {
+            "score": 100,
+            "amount": 16327
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-120377",
+      "anilistId": 120377,
+      "medium": "anime",
+      "title": {
+        "zh": "サイバーパンク エッジランナーズ",
+        "en": "Cyberpunk: Edgerunners",
+        "native": "サイバーパンク エッジランナーズ",
+        "romaji": "Cyberpunk: Edgerunners"
+      },
+      "year": 2022,
+      "format": "ONA",
+      "episodes": 10,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Psychological",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "Cyberpunk",
+          "rank": 97
+        },
+        {
+          "name": "Tragedy",
+          "rank": 95
+        },
+        {
+          "name": "Crime",
+          "rank": 92
+        },
+        {
+          "name": "Dystopian",
+          "rank": 91
+        },
+        {
+          "name": "Cyborg",
+          "rank": 91
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 87
+        }
+      ],
+      "studio": "TRIGGER",
+      "metrics": {
+        "popularity": 411496,
+        "favourites": 32139,
+        "meanScore": 85,
+        "averageScore": 85,
+        "trending": 36,
+        "rankings": [
+          {
+            "rank": 11,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 809
+          },
+          {
+            "score": 20,
+            "amount": 340
+          },
+          {
+            "score": 30,
+            "amount": 772
+          },
+          {
+            "score": 40,
+            "amount": 1292
+          },
+          {
+            "score": 50,
+            "amount": 3004
+          },
+          {
+            "score": 60,
+            "amount": 6113
+          },
+          {
+            "score": 70,
+            "amount": 18313
+          },
+          {
+            "score": 80,
+            "amount": 43106
+          },
+          {
+            "score": 90,
+            "amount": 75789
+          },
+          {
+            "score": 100,
+            "amount": 58949
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-171018",
+      "anilistId": 171018,
+      "medium": "anime",
+      "title": {
+        "zh": "ダンダダン",
+        "en": "DAN DA DAN",
+        "native": "ダンダダン",
+        "romaji": "Dandadan"
+      },
+      "year": 2024,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Sci-Fi",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Urban Fantasy",
+          "rank": 97
+        },
+        {
+          "name": "Youkai",
+          "rank": 96
+        },
+        {
+          "name": "Ghost",
+          "rank": 96
+        },
+        {
+          "name": "Aliens",
+          "rank": 94
+        },
+        {
+          "name": "Super Power",
+          "rank": 92
+        },
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 89
+        }
+      ],
+      "studio": "Science SARU",
+      "metrics": {
+        "popularity": 399597,
+        "favourites": 19591,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 12,
+        "rankings": [
+          {
+            "rank": 164,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 85,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 12,
+            "type": "RATED",
+            "season": null,
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2024,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2024,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 974
+          },
+          {
+            "score": 20,
+            "amount": 378
+          },
+          {
+            "score": 30,
+            "amount": 752
+          },
+          {
+            "score": 40,
+            "amount": 1193
+          },
+          {
+            "score": 50,
+            "amount": 3139
+          },
+          {
+            "score": 60,
+            "amount": 5762
+          },
+          {
+            "score": 70,
+            "amount": 19648
+          },
+          {
+            "score": 80,
+            "amount": 48814
+          },
+          {
+            "score": 90,
+            "amount": 64964
+          },
+          {
+            "score": 100,
+            "amount": 31660
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-108632",
+      "anilistId": 108632,
+      "medium": "anime",
+      "title": {
+        "zh": "Re:ゼロから始める異世界生活 2nd Season",
+        "en": "Re:ZERO -Starting Life in Another World- Season 2",
+        "native": "Re:ゼロから始める異世界生活 2nd Season",
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+      },
+      "year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 26,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Psychological",
+        "Thriller"
+      ],
+      "tags": [
+        {
+          "name": "Seinen",
+          "rank": 100
+        },
+        {
+          "name": "Time Manipulation",
+          "rank": 94
+        },
+        {
+          "name": "Time Loop",
+          "rank": 93
+        },
+        {
+          "name": "Tragedy",
+          "rank": 91
+        },
+        {
+          "name": "Alternate Universe",
+          "rank": 86
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 84
+        }
+      ],
+      "studio": "WHITE FOX",
+      "metrics": {
+        "popularity": 390894,
+        "favourites": 12116,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 6,
+        "rankings": [
+          {
+            "rank": 158,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 87,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 9,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "SUMMER",
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SUMMER",
+            "year": 2020,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 671
+          },
+          {
+            "score": 20,
+            "amount": 378
+          },
+          {
+            "score": 30,
+            "amount": 752
+          },
+          {
+            "score": 40,
+            "amount": 1429
+          },
+          {
+            "score": 50,
+            "amount": 3283
+          },
+          {
+            "score": 60,
+            "amount": 6462
+          },
+          {
+            "score": 70,
+            "amount": 19293
+          },
+          {
+            "score": 80,
+            "amount": 44961
+          },
+          {
+            "score": 90,
+            "amount": 55181
+          },
+          {
+            "score": 100,
+            "amount": 32606
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-145139",
+      "anilistId": 145139,
+      "medium": "anime",
+      "title": {
+        "zh": "鬼滅の刃 刀鍛冶の里編",
+        "en": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc",
+        "native": "鬼滅の刃 刀鍛冶の里編",
+        "romaji": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 96
+        },
+        {
+          "name": "Shounen",
+          "rank": 95
+        },
+        {
+          "name": "Swordplay",
+          "rank": 93
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 85
+        },
+        {
+          "name": "Super Power",
+          "rank": 80
+        },
+        {
+          "name": "Curses",
+          "rank": 79
+        }
+      ],
+      "studio": "ufotable",
+      "metrics": {
+        "popularity": 383922,
+        "favourites": 9809,
+        "meanScore": 80,
+        "averageScore": 80,
+        "trending": 6,
+        "rankings": [
+          {
+            "rank": 302,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 91,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 23,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 675
+          },
+          {
+            "score": 20,
+            "amount": 349
+          },
+          {
+            "score": 30,
+            "amount": 1024
+          },
+          {
+            "score": 40,
+            "amount": 1787
+          },
+          {
+            "score": 50,
+            "amount": 4570
+          },
+          {
+            "score": 60,
+            "amount": 9731
+          },
+          {
+            "score": 70,
+            "amount": 26974
+          },
+          {
+            "score": 80,
+            "amount": 51794
+          },
+          {
+            "score": 90,
+            "amount": 50736
+          },
+          {
+            "score": 100,
+            "amount": 30670
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-128893",
+      "anilistId": 128893,
+      "medium": "anime",
+      "title": {
+        "zh": "地獄楽",
+        "en": "Hell’s Paradise",
+        "native": "地獄楽",
+        "romaji": "Jigokuraku"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Mystery",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Survival",
+          "rank": 95
+        },
+        {
+          "name": "Swordplay",
+          "rank": 85
+        },
+        {
+          "name": "Body Horror",
+          "rank": 84
+        },
+        {
+          "name": "Gore",
+          "rank": 83
+        },
+        {
+          "name": "Shounen",
+          "rank": 83
+        },
+        {
+          "name": "Ninja",
+          "rank": 82
+        }
+      ],
+      "studio": "MAPPA",
+      "metrics": {
+        "popularity": 373765,
+        "favourites": 11982,
+        "meanScore": 80,
+        "averageScore": 80,
+        "trending": 14,
+        "rankings": [
+          {
+            "rank": 326,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 95,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 24,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 8,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 465
+          },
+          {
+            "score": 20,
+            "amount": 222
+          },
+          {
+            "score": 30,
+            "amount": 652
+          },
+          {
+            "score": 40,
+            "amount": 1023
+          },
+          {
+            "score": 50,
+            "amount": 3049
+          },
+          {
+            "score": 60,
+            "amount": 6256
+          },
+          {
+            "score": 70,
+            "amount": 20544
+          },
+          {
+            "score": 80,
+            "amount": 45432
+          },
+          {
+            "score": 90,
+            "amount": 37596
+          },
+          {
+            "score": 100,
+            "amount": 16102
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-129874",
+      "anilistId": 129874,
+      "medium": "anime",
+      "title": {
+        "zh": "鬼滅の刃 無限列車編 (TV)",
+        "en": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+        "native": "鬼滅の刃 無限列車編 (TV)",
+        "romaji": "Kimetsu no Yaiba: Mugen Ressha-hen (TV)"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 7,
+      "duration": 23,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Demons",
+          "rank": 96
+        },
+        {
+          "name": "Swordplay",
+          "rank": 93
+        },
+        {
+          "name": "Shounen",
+          "rank": 89
+        },
+        {
+          "name": "Tragedy",
+          "rank": 85
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 82
+        },
+        {
+          "name": "Curses",
+          "rank": 79
+        }
+      ],
+      "studio": "ufotable",
+      "metrics": {
+        "popularity": 370357,
+        "favourites": 7318,
+        "meanScore": 82,
+        "averageScore": 82,
+        "trending": 4,
+        "rankings": [
+          {
+            "rank": 192,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 97,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 14,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 757
+          },
+          {
+            "score": 20,
+            "amount": 309
+          },
+          {
+            "score": 30,
+            "amount": 604
+          },
+          {
+            "score": 40,
+            "amount": 1045
+          },
+          {
+            "score": 50,
+            "amount": 3248
+          },
+          {
+            "score": 60,
+            "amount": 6489
+          },
+          {
+            "score": 70,
+            "amount": 20705
+          },
+          {
+            "score": 80,
+            "amount": 46083
+          },
+          {
+            "score": 90,
+            "amount": 49436
+          },
+          {
+            "score": 100,
+            "amount": 32584
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-161645",
+      "anilistId": 161645,
+      "medium": "anime",
+      "title": {
+        "zh": "薬屋のひとりごと",
+        "en": "The Apothecary Diaries",
+        "native": "薬屋のひとりごと",
+        "romaji": "Kusuriya no Hitorigoto"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 24,
+      "duration": 23,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "tags": [
+        {
+          "name": "Female Protagonist",
+          "rank": 96
+        },
+        {
+          "name": "Medicine",
+          "rank": 96
+        },
+        {
+          "name": "Ancient China",
+          "rank": 91
+        },
+        {
+          "name": "Drugs",
+          "rank": 88
+        },
+        {
+          "name": "Historical",
+          "rank": 87
+        },
+        {
+          "name": "Detective",
+          "rank": 87
+        }
+      ],
+      "studio": "OLM",
+      "metrics": {
+        "popularity": 345108,
+        "favourites": 28518,
+        "meanScore": 88,
+        "averageScore": 88,
+        "trending": 39,
+        "rankings": [
+          {
+            "rank": 22,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 106,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 452
+          },
+          {
+            "score": 20,
+            "amount": 91
+          },
+          {
+            "score": 30,
+            "amount": 173
+          },
+          {
+            "score": 40,
+            "amount": 266
+          },
+          {
+            "score": 50,
+            "amount": 921
+          },
+          {
+            "score": 60,
+            "amount": 1767
+          },
+          {
+            "score": 70,
+            "amount": 7914
+          },
+          {
+            "score": 80,
+            "amount": 25507
+          },
+          {
+            "score": 90,
+            "amount": 56004
+          },
+          {
+            "score": 100,
+            "amount": 41482
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-113936",
+      "anilistId": 113936,
+      "medium": "anime",
+      "title": {
+        "zh": "Dr.STONE STONE WARS",
+        "en": "Dr. STONE: STONE WARS",
+        "native": "Dr.STONE STONE WARS",
+        "romaji": "Dr. STONE: STONE WARS"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "Post-Apocalyptic",
+          "rank": 96
+        },
+        {
+          "name": "Survival",
+          "rank": 87
+        },
+        {
+          "name": "Educational",
+          "rank": 86
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 84
+        },
+        {
+          "name": "War",
+          "rank": 80
+        },
+        {
+          "name": "Lost Civilization",
+          "rank": 80
+        }
+      ],
+      "studio": "TMS Entertainment",
+      "metrics": {
+        "popularity": 341756,
+        "favourites": 7279,
+        "meanScore": 81,
+        "averageScore": 81,
+        "trending": 9,
+        "rankings": [
+          {
+            "rank": 259,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 107,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 22,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 8,
+            "type": "RATED",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": "WINTER",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 478
+          },
+          {
+            "score": 20,
+            "amount": 150
+          },
+          {
+            "score": 30,
+            "amount": 456
+          },
+          {
+            "score": 40,
+            "amount": 881
+          },
+          {
+            "score": 50,
+            "amount": 2918
+          },
+          {
+            "score": 60,
+            "amount": 6509
+          },
+          {
+            "score": 70,
+            "amount": 24026
+          },
+          {
+            "score": 80,
+            "amount": 51669
+          },
+          {
+            "score": 90,
+            "amount": 44471
+          },
+          {
+            "score": 100,
+            "amount": 22316
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-115230",
+      "anilistId": 115230,
+      "medium": "anime",
+      "title": {
+        "zh": "神之塔 -Tower of God-",
+        "en": "Tower of God",
+        "native": "神之塔 -Tower of God-",
+        "romaji": "Kami no Tou: Tower of God"
+      },
+      "year": 2020,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 25,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "tags": [
+        {
+          "name": "Super Power",
+          "rank": 90
+        },
+        {
+          "name": "Tragedy",
+          "rank": 90
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 89
+        },
+        {
+          "name": "Survival",
+          "rank": 85
+        },
+        {
+          "name": "Conspiracy",
+          "rank": 82
+        },
+        {
+          "name": "Magic",
+          "rank": 80
+        }
+      ],
+      "studio": "Telecom Animation Film",
+      "metrics": {
+        "popularity": 341560,
+        "favourites": 7457,
+        "meanScore": 74,
+        "averageScore": 74,
+        "trending": 4,
+        "rankings": [
+          {
+            "rank": 108,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 31,
+            "type": "RATED",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 8,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2020,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2020,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1086
+          },
+          {
+            "score": 20,
+            "amount": 828
+          },
+          {
+            "score": 30,
+            "amount": 1835
+          },
+          {
+            "score": 40,
+            "amount": 3353
+          },
+          {
+            "score": 50,
+            "amount": 7501
+          },
+          {
+            "score": 60,
+            "amount": 14448
+          },
+          {
+            "score": 70,
+            "amount": 35891
+          },
+          {
+            "score": 80,
+            "amount": 46605
+          },
+          {
+            "score": 90,
+            "amount": 27686
+          },
+          {
+            "score": 100,
+            "amount": 12485
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-150672",
+      "anilistId": 150672,
+      "medium": "anime",
+      "title": {
+        "zh": "【推しの子】",
+        "en": "OSHI NO KO",
+        "native": "【推しの子】",
+        "romaji": "[Oshi no Ko]"
+      },
+      "year": 2023,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Psychological",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Acting",
+          "rank": 96
+        },
+        {
+          "name": "Tragedy",
+          "rank": 93
+        },
+        {
+          "name": "Idol",
+          "rank": 92
+        },
+        {
+          "name": "Revenge",
+          "rank": 89
+        },
+        {
+          "name": "Twins",
+          "rank": 83
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 83
+        }
+      ],
+      "studio": "Doga Kobo",
+      "metrics": {
+        "popularity": 338315,
+        "favourites": 19040,
+        "meanScore": 84,
+        "averageScore": 84,
+        "trending": 10,
+        "rankings": [
+          {
+            "rank": 118,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 109,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 8,
+            "type": "RATED",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2023,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1075
+          },
+          {
+            "score": 20,
+            "amount": 451
+          },
+          {
+            "score": 30,
+            "amount": 929
+          },
+          {
+            "score": 40,
+            "amount": 1246
+          },
+          {
+            "score": 50,
+            "amount": 2655
+          },
+          {
+            "score": 60,
+            "amount": 4651
+          },
+          {
+            "score": 70,
+            "amount": 14310
+          },
+          {
+            "score": 80,
+            "amount": 33861
+          },
+          {
+            "score": 90,
+            "amount": 53684
+          },
+          {
+            "score": 100,
+            "amount": 35701
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-142838",
+      "anilistId": 142838,
+      "medium": "anime",
+      "title": {
+        "zh": "SPY×FAMILY 第2クール",
+        "en": "SPY x FAMILY Cour 2",
+        "native": "SPY×FAMILY 第2クール",
+        "romaji": "SPY×FAMILY Part 2"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Family Life",
+          "rank": 97
+        },
+        {
+          "name": "Episodic",
+          "rank": 94
+        },
+        {
+          "name": "Found Family",
+          "rank": 92
+        },
+        {
+          "name": "Espionage",
+          "rank": 91
+        },
+        {
+          "name": "Urban",
+          "rank": 90
+        },
+        {
+          "name": "Assassins",
+          "rank": 79
+        }
+      ],
+      "studio": "WIT STUDIO",
+      "metrics": {
+        "popularity": 336098,
+        "favourites": 7224,
+        "meanScore": 81,
+        "averageScore": 81,
+        "trending": 3,
+        "rankings": [
+          {
+            "rank": 250,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 110,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 14,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 407
+          },
+          {
+            "score": 20,
+            "amount": 166
+          },
+          {
+            "score": 30,
+            "amount": 421
+          },
+          {
+            "score": 40,
+            "amount": 744
+          },
+          {
+            "score": 50,
+            "amount": 2678
+          },
+          {
+            "score": 60,
+            "amount": 5960
+          },
+          {
+            "score": 70,
+            "amount": 21169
+          },
+          {
+            "score": 80,
+            "amount": 47017
+          },
+          {
+            "score": 90,
+            "amount": 43272
+          },
+          {
+            "score": 100,
+            "amount": 20989
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-137822",
+      "anilistId": 137822,
+      "medium": "anime",
+      "title": {
+        "zh": "ブルーロック",
+        "en": "BLUE LOCK",
+        "native": "ブルーロック",
+        "romaji": "Blue Lock"
+      },
+      "year": 2022,
+      "format": "TV",
+      "episodes": 24,
+      "duration": 25,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "tags": [
+        {
+          "name": "Football",
+          "rank": 98
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 92
+        },
+        {
+          "name": "Shounen",
+          "rank": 92
+        },
+        {
+          "name": "Athletics",
+          "rank": 92
+        },
+        {
+          "name": "Primarily Male Cast",
+          "rank": 90
+        },
+        {
+          "name": "Battle Royale",
+          "rank": 90
+        }
+      ],
+      "studio": "8-bit",
+      "metrics": {
+        "popularity": 335072,
+        "favourites": 13322,
+        "meanScore": 79,
+        "averageScore": 79,
+        "trending": 11,
+        "rankings": [
+          {
+            "rank": 380,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 112,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 26,
+            "type": "RATED",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 11,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2022,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 908
+          },
+          {
+            "score": 20,
+            "amount": 522
+          },
+          {
+            "score": 30,
+            "amount": 1031
+          },
+          {
+            "score": 40,
+            "amount": 1620
+          },
+          {
+            "score": 50,
+            "amount": 3878
+          },
+          {
+            "score": 60,
+            "amount": 7306
+          },
+          {
+            "score": 70,
+            "amount": 21832
+          },
+          {
+            "score": 80,
+            "amount": 42779
+          },
+          {
+            "score": 90,
+            "amount": 39854
+          },
+          {
+            "score": 100,
+            "amount": 20368
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-116589",
+      "anilistId": 116589,
+      "medium": "anime",
+      "title": {
+        "zh": "86－エイティシックス－",
+        "en": "86 EIGHTY-SIX",
+        "native": "86－エイティシックス－",
+        "romaji": "86: Eighty Six"
+      },
+      "year": 2021,
+      "format": "TV",
+      "episodes": 11,
+      "duration": 24,
+      "status": "FINISHED",
+      "genres": [
+        "Action",
+        "Drama",
+        "Mecha",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "War",
+          "rank": 97
+        },
+        {
+          "name": "Class Struggle",
+          "rank": 97
+        },
+        {
+          "name": "Military",
+          "rank": 96
+        },
+        {
+          "name": "Tragedy",
+          "rank": 92
+        },
+        {
+          "name": "Dystopian",
+          "rank": 90
+        },
+        {
+          "name": "Survival",
+          "rank": 88
+        }
+      ],
+      "studio": "A-1 Pictures",
+      "metrics": {
+        "popularity": 334990,
+        "favourites": 19464,
+        "meanScore": 83,
+        "averageScore": 83,
+        "trending": 12,
+        "rankings": [
+          {
+            "rank": 147,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 113,
+            "type": "POPULAR",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 10,
+            "type": "RATED",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 8,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          },
+          {
+            "rank": 3,
+            "type": "POPULAR",
+            "season": "SPRING",
+            "year": 2021,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 546
+          },
+          {
+            "score": 20,
+            "amount": 271
+          },
+          {
+            "score": 30,
+            "amount": 683
+          },
+          {
+            "score": 40,
+            "amount": 1186
+          },
+          {
+            "score": 50,
+            "amount": 2834
+          },
+          {
+            "score": 60,
+            "amount": 5507
+          },
+          {
+            "score": 70,
+            "amount": 15478
+          },
+          {
+            "score": 80,
+            "amount": 35729
+          },
+          {
+            "score": 90,
+            "amount": 43542
+          },
+          {
+            "score": 100,
+            "amount": 29854
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-195516",
+      "anilistId": 195516,
+      "medium": "anime",
+      "title": {
+        "zh": "薬屋のひとりごと 第3期",
+        "en": "The Apothecary Diaries Season 3",
+        "native": "薬屋のひとりごと 第3期",
+        "romaji": "Kusuriya no Hitorigoto 3rd Season"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "tags": [
+        {
+          "name": "Medicine",
+          "rank": 98
+        },
+        {
+          "name": "Female Protagonist",
+          "rank": 97
+        },
+        {
+          "name": "Politics",
+          "rank": 91
+        },
+        {
+          "name": "Ancient China",
+          "rank": 82
+        },
+        {
+          "name": "Detective",
+          "rank": 81
+        },
+        {
+          "name": "Royal Affairs",
+          "rank": 79
+        }
+      ],
+      "studio": "OLM",
+      "metrics": {
+        "popularity": 113761,
+        "favourites": 3047,
+        "meanScore": 85,
+        "averageScore": 85,
+        "trending": 161,
+        "rankings": [
+          {
+            "rank": 76,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 9,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 14,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 41
+          },
+          {
+            "score": 20,
+            "amount": 22
+          },
+          {
+            "score": 30,
+            "amount": 17
+          },
+          {
+            "score": 40,
+            "amount": 39
+          },
+          {
+            "score": 50,
+            "amount": 94
+          },
+          {
+            "score": 60,
+            "amount": 135
+          },
+          {
+            "score": 70,
+            "amount": 545
+          },
+          {
+            "score": 80,
+            "amount": 1323
+          },
+          {
+            "score": 90,
+            "amount": 2280
+          },
+          {
+            "score": 100,
+            "amount": 1833
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-195604",
+      "anilistId": 195604,
+      "medium": "anime",
+      "title": {
+        "zh": "ブラッククローバー 第2期",
+        "en": "Black Clover Season 2",
+        "native": "ブラッククローバー 第2期",
+        "romaji": "Black Clover 2nd Season"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Magic",
+          "rank": 100
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 97
+        },
+        {
+          "name": "War",
+          "rank": 96
+        },
+        {
+          "name": "Shounen",
+          "rank": 94
+        },
+        {
+          "name": "Demons",
+          "rank": 90
+        },
+        {
+          "name": "Rescue",
+          "rank": 90
+        }
+      ],
+      "studio": "Studio Pierrot",
+      "metrics": {
+        "popularity": 110082,
+        "favourites": 3830,
+        "meanScore": 88,
+        "averageScore": 88,
+        "trending": 199,
+        "rankings": [
+          {
+            "rank": 21,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 3,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 15,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 1,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 2,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 85
+          },
+          {
+            "score": 20,
+            "amount": 18
+          },
+          {
+            "score": 30,
+            "amount": 30
+          },
+          {
+            "score": 40,
+            "amount": 46
+          },
+          {
+            "score": 50,
+            "amount": 105
+          },
+          {
+            "score": 60,
+            "amount": 131
+          },
+          {
+            "score": 70,
+            "amount": 462
+          },
+          {
+            "score": 80,
+            "amount": 984
+          },
+          {
+            "score": 90,
+            "amount": 2304
+          },
+          {
+            "score": 100,
+            "amount": 3287
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-212888",
+      "anilistId": 212888,
+      "medium": "anime",
+      "title": {
+        "zh": "テムパル～アイテムの力～",
+        "en": "Overgeared",
+        "native": "テムパル～アイテムの力～",
+        "romaji": "Tempal: Item no Chikara"
+      },
+      "year": 2026,
+      "format": "ONA",
+      "episodes": 12,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Virtual World",
+          "rank": 93
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 90
+        },
+        {
+          "name": "Slapstick",
+          "rank": 90
+        },
+        {
+          "name": "Video Games",
+          "rank": 87
+        },
+        {
+          "name": "Primarily Adult Cast",
+          "rank": 80
+        },
+        {
+          "name": "Swordplay",
+          "rank": 80
+        }
+      ],
+      "studio": "J.C.STAFF",
+      "metrics": {
+        "popularity": 63691,
+        "favourites": 1358,
+        "meanScore": 76,
+        "averageScore": 76,
+        "trending": 455,
+        "rankings": [
+          {
+            "rank": 21,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 100
+          },
+          {
+            "score": 20,
+            "amount": 57
+          },
+          {
+            "score": 30,
+            "amount": 71
+          },
+          {
+            "score": 40,
+            "amount": 72
+          },
+          {
+            "score": 50,
+            "amount": 150
+          },
+          {
+            "score": 60,
+            "amount": 251
+          },
+          {
+            "score": 70,
+            "amount": 748
+          },
+          {
+            "score": 80,
+            "amount": 986
+          },
+          {
+            "score": 90,
+            "amount": 860
+          },
+          {
+            "score": 100,
+            "amount": 742
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-191656",
+      "anilistId": 191656,
+      "medium": "anime",
+      "title": {
+        "zh": "生徒会にも穴はある！",
+        "en": "Even the Student Council Has Its Holes!",
+        "native": "生徒会にも穴はある！",
+        "romaji": "Seitokai ni mo Ana wa Aru!"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life"
+      ],
+      "tags": [
+        {
+          "name": "School Club",
+          "rank": 100
+        },
+        {
+          "name": "Slapstick",
+          "rank": 95
+        },
+        {
+          "name": "School",
+          "rank": 89
+        },
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 85
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 83
+        },
+        {
+          "name": "Nudity",
+          "rank": 82
+        }
+      ],
+      "studio": "Passione",
+      "metrics": {
+        "popularity": 53543,
+        "favourites": 979,
+        "meanScore": 74,
+        "averageScore": 74,
+        "trending": 156,
+        "rankings": [
+          {
+            "rank": 76,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 45,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 16,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 4,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 122
+          },
+          {
+            "score": 20,
+            "amount": 59
+          },
+          {
+            "score": 30,
+            "amount": 80
+          },
+          {
+            "score": 40,
+            "amount": 72
+          },
+          {
+            "score": 50,
+            "amount": 151
+          },
+          {
+            "score": 60,
+            "amount": 252
+          },
+          {
+            "score": 70,
+            "amount": 628
+          },
+          {
+            "score": 80,
+            "amount": 868
+          },
+          {
+            "score": 90,
+            "amount": 757
+          },
+          {
+            "score": 100,
+            "amount": 545
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-189123",
+      "anilistId": 189123,
+      "medium": "anime",
+      "title": {
+        "zh": "アオのハコ Season２",
+        "en": "Blue Box Season 2",
+        "native": "アオのハコ Season２",
+        "romaji": "Ao no Hako Season 2"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "Sports"
+      ],
+      "tags": [
+        {
+          "name": "Primarily Teen Cast",
+          "rank": 96
+        },
+        {
+          "name": "Heterosexual",
+          "rank": 94
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 84
+        },
+        {
+          "name": "Coming of Age",
+          "rank": 80
+        },
+        {
+          "name": "School",
+          "rank": 80
+        },
+        {
+          "name": "Athletics",
+          "rank": 79
+        }
+      ],
+      "studio": "Electric Circus",
+      "metrics": {
+        "popularity": 53452,
+        "favourites": 963,
+        "meanScore": 82,
+        "averageScore": 81,
+        "trending": 168,
+        "rankings": [
+          {
+            "rank": 256,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 28,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 46,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 5,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 28
+          },
+          {
+            "score": 20,
+            "amount": 12
+          },
+          {
+            "score": 30,
+            "amount": 24
+          },
+          {
+            "score": 40,
+            "amount": 30
+          },
+          {
+            "score": 50,
+            "amount": 64
+          },
+          {
+            "score": 60,
+            "amount": 115
+          },
+          {
+            "score": 70,
+            "amount": 357
+          },
+          {
+            "score": 80,
+            "amount": 709
+          },
+          {
+            "score": 90,
+            "amount": 779
+          },
+          {
+            "score": 100,
+            "amount": 661
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-210482",
+      "anilistId": 210482,
+      "medium": "anime",
+      "title": {
+        "zh": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
+        "en": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+        "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
+        "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE"
+      },
+      "year": 2026,
+      "format": "ONA",
+      "episodes": 11,
+      "duration": 23,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "tags": [
+        {
+          "name": "Desert",
+          "rank": 93
+        },
+        {
+          "name": "Cowboys",
+          "rank": 92
+        },
+        {
+          "name": "Super Power",
+          "rank": 91
+        },
+        {
+          "name": "Travel",
+          "rank": 87
+        },
+        {
+          "name": "Disability",
+          "rank": 84
+        },
+        {
+          "name": "Primarily Male Cast",
+          "rank": 83
+        }
+      ],
+      "studio": "david production",
+      "metrics": {
+        "popularity": 52083,
+        "favourites": 1428,
+        "meanScore": 86,
+        "averageScore": 86,
+        "trending": 100,
+        "rankings": [
+          {
+            "rank": 5,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 4,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 10,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 54
+          },
+          {
+            "score": 20,
+            "amount": 16
+          },
+          {
+            "score": 30,
+            "amount": 30
+          },
+          {
+            "score": 40,
+            "amount": 27
+          },
+          {
+            "score": 50,
+            "amount": 76
+          },
+          {
+            "score": 60,
+            "amount": 104
+          },
+          {
+            "score": 70,
+            "amount": 367
+          },
+          {
+            "score": 80,
+            "amount": 844
+          },
+          {
+            "score": 90,
+            "amount": 1873
+          },
+          {
+            "score": 100,
+            "amount": 1903
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-206814",
+      "anilistId": 206814,
+      "medium": "anime",
+      "title": {
+        "zh": "ドラゴンボール超 ビルス",
+        "en": "Dragon Ball Super: Beerus",
+        "native": "ドラゴンボール超 ビルス",
+        "romaji": "Dragon Ball Super: Beerus"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "duration": 23,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "Super Power",
+          "rank": 96
+        },
+        {
+          "name": "Shounen",
+          "rank": 96
+        },
+        {
+          "name": "Martial Arts",
+          "rank": 93
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 92
+        },
+        {
+          "name": "Gods",
+          "rank": 91
+        },
+        {
+          "name": "Henshin",
+          "rank": 70
+        }
+      ],
+      "studio": "Toei Animation",
+      "metrics": {
+        "popularity": 31855,
+        "favourites": 832,
+        "meanScore": 81,
+        "averageScore": 80,
+        "trending": 157,
+        "rankings": [
+          {
+            "rank": 297,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 33,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 80,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 7,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 11,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 38
+          },
+          {
+            "score": 20,
+            "amount": 7
+          },
+          {
+            "score": 30,
+            "amount": 18
+          },
+          {
+            "score": 40,
+            "amount": 41
+          },
+          {
+            "score": 50,
+            "amount": 84
+          },
+          {
+            "score": 60,
+            "amount": 108
+          },
+          {
+            "score": 70,
+            "amount": 289
+          },
+          {
+            "score": 80,
+            "amount": 499
+          },
+          {
+            "score": 90,
+            "amount": 519
+          },
+          {
+            "score": 100,
+            "amount": 672
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-185756",
+      "anilistId": 185756,
+      "medium": "anime",
+      "title": {
+        "zh": "転生貴族、鑑定スキルで成り上がる 第3期",
+        "en": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+        "native": "転生貴族、鑑定スキルで成り上がる 第3期",
+        "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Kingdom Management",
+          "rank": 79
+        }
+      ],
+      "studio": "GeyeG Pictures",
+      "metrics": {
+        "popularity": 31107,
+        "favourites": 402,
+        "meanScore": 69,
+        "averageScore": 68,
+        "trending": 144,
+        "rankings": [
+          {
+            "rank": 82,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 28,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 12,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 58
+          },
+          {
+            "score": 20,
+            "amount": 50
+          },
+          {
+            "score": 30,
+            "amount": 40
+          },
+          {
+            "score": 40,
+            "amount": 32
+          },
+          {
+            "score": 50,
+            "amount": 88
+          },
+          {
+            "score": 60,
+            "amount": 140
+          },
+          {
+            "score": 70,
+            "amount": 354
+          },
+          {
+            "score": 80,
+            "amount": 271
+          },
+          {
+            "score": 90,
+            "amount": 204
+          },
+          {
+            "score": 100,
+            "amount": 164
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-186541",
+      "anilistId": 186541,
+      "medium": "anime",
+      "title": {
+        "zh": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+        "en": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+        "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+        "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 13,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mecha",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "tags": [
+        {
+          "name": "Space",
+          "rank": 100
+        },
+        {
+          "name": "Isekai",
+          "rank": 98
+        },
+        {
+          "name": "Space Opera",
+          "rank": 91
+        },
+        {
+          "name": "Heterosexual",
+          "rank": 90
+        },
+        {
+          "name": "Polyamorous",
+          "rank": 88
+        },
+        {
+          "name": "Female Harem",
+          "rank": 87
+        }
+      ],
+      "studio": "studio A-CAT",
+      "metrics": {
+        "popularity": 30855,
+        "favourites": 426,
+        "meanScore": 70,
+        "averageScore": 69,
+        "trending": 185,
+        "rankings": [
+          {
+            "rank": 85,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 26,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 14,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 31
+          },
+          {
+            "score": 20,
+            "amount": 30
+          },
+          {
+            "score": 30,
+            "amount": 51
+          },
+          {
+            "score": 40,
+            "amount": 60
+          },
+          {
+            "score": 50,
+            "amount": 141
+          },
+          {
+            "score": 60,
+            "amount": 214
+          },
+          {
+            "score": 70,
+            "amount": 394
+          },
+          {
+            "score": 80,
+            "amount": 245
+          },
+          {
+            "score": 90,
+            "amount": 243
+          },
+          {
+            "score": 100,
+            "amount": 220
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-191788",
+      "anilistId": 191788,
+      "medium": "anime",
+      "title": {
+        "zh": "アオアシ 第2期",
+        "en": "Aoashi Season 2",
+        "native": "アオアシ 第2期",
+        "romaji": "Aoashi 2nd Season"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 24,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Sports"
+      ],
+      "tags": [
+        {
+          "name": "Football",
+          "rank": 92
+        },
+        {
+          "name": "Seinen",
+          "rank": 79
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 79
+        }
+      ],
+      "studio": "TMS Entertainment",
+      "metrics": {
+        "popularity": 28263,
+        "favourites": 508,
+        "meanScore": 82,
+        "averageScore": 81,
+        "trending": 108,
+        "rankings": [
+          {
+            "rank": 273,
+            "type": "RATED",
+            "season": null,
+            "year": null,
+            "allTime": true
+          },
+          {
+            "rank": 31,
+            "type": "RATED",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 93,
+            "type": "POPULAR",
+            "season": null,
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 6,
+            "type": "RATED",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          },
+          {
+            "rank": 15,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 11
+          },
+          {
+            "score": 20,
+            "amount": 7
+          },
+          {
+            "score": 30,
+            "amount": 18
+          },
+          {
+            "score": 40,
+            "amount": 13
+          },
+          {
+            "score": 50,
+            "amount": 28
+          },
+          {
+            "score": 60,
+            "amount": 45
+          },
+          {
+            "score": 70,
+            "amount": 186
+          },
+          {
+            "score": 80,
+            "amount": 376
+          },
+          {
+            "score": 90,
+            "amount": 405
+          },
+          {
+            "score": 100,
+            "amount": 331
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-205896",
+      "anilistId": 205896,
+      "medium": "anime",
+      "title": {
+        "zh": "信者ゼロの女神サマと始める異世界攻略",
+        "en": "Full Clearing Another World under a Goddess with Zero Believers",
+        "native": "信者ゼロの女神サマと始める異世界攻略",
+        "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": null,
+      "duration": null,
+      "status": "RELEASING",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "tags": [
+        {
+          "name": "Isekai",
+          "rank": 84
+        },
+        {
+          "name": "Female Harem",
+          "rank": 79
+        },
+        {
+          "name": "Male Protagonist",
+          "rank": 73
+        },
+        {
+          "name": "Gods",
+          "rank": 66
+        },
+        {
+          "name": "Magic",
+          "rank": 60
+        }
+      ],
+      "studio": "HORNETS",
+      "metrics": {
+        "popularity": 23539,
+        "favourites": 223,
+        "meanScore": 65,
+        "averageScore": 65,
+        "trending": 183,
+        "rankings": [
+          {
+            "rank": 21,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 28
+          },
+          {
+            "score": 20,
+            "amount": 13
+          },
+          {
+            "score": 30,
+            "amount": 37
+          },
+          {
+            "score": 40,
+            "amount": 42
+          },
+          {
+            "score": 50,
+            "amount": 103
+          },
+          {
+            "score": 60,
+            "amount": 187
+          },
+          {
+            "score": 70,
+            "amount": 258
+          },
+          {
+            "score": 80,
+            "amount": 120
+          },
+          {
+            "score": 90,
+            "amount": 103
+          },
+          {
+            "score": 100,
+            "amount": 95
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    },
+    {
+      "id": "anilist-200455",
+      "anilistId": 200455,
+      "medium": "anime",
+      "title": {
+        "zh": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+        "en": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+        "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった",
+        "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta"
+      },
+      "year": 2026,
+      "format": "TV",
+      "episodes": 12,
+      "duration": 24,
+      "status": "RELEASING",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Romance"
+      ],
+      "tags": [
+        {
+          "name": "Female Protagonist",
+          "rank": 79
+        },
+        {
+          "name": "Isekai",
+          "rank": 79
+        },
+        {
+          "name": "Reincarnation",
+          "rank": 79
+        },
+        {
+          "name": "Villainess",
+          "rank": 65
+        },
+        {
+          "name": "Heterosexual",
+          "rank": 60
+        },
+        {
+          "name": "Shoujo",
+          "rank": 60
+        }
+      ],
+      "studio": "Jumondou",
+      "metrics": {
+        "popularity": 14339,
+        "favourites": 167,
+        "meanScore": 68,
+        "averageScore": 67,
+        "trending": 93,
+        "rankings": [
+          {
+            "rank": 30,
+            "type": "POPULAR",
+            "season": "FALL",
+            "year": 2026,
+            "allTime": false
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 24
+          },
+          {
+            "score": 20,
+            "amount": 10
+          },
+          {
+            "score": 30,
+            "amount": 25
+          },
+          {
+            "score": 40,
+            "amount": 30
+          },
+          {
+            "score": 50,
+            "amount": 88
+          },
+          {
+            "score": 60,
+            "amount": 121
+          },
+          {
+            "score": 70,
+            "amount": 205
+          },
+          {
+            "score": 80,
+            "amount": 143
+          },
+          {
+            "score": 90,
+            "amount": 113
+          },
+          {
+            "score": 100,
+            "amount": 77
+          }
+        ]
+      },
+      "provenance": {
+        "status": "measured",
+        "sources": [
+          {
+            "name": "AniList GraphQL API",
+            "url": "https://anilist.co",
+            "fetchedAt": "2026-11-16",
+            "note": "popularity / favourites / meanScore / trending 皆為 AniList 快照值"
+          }
+        ]
+      }
+    }
+  ]
+}

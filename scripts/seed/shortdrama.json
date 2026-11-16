@@ -1,0 +1,543 @@
+{
+  "dataset": "shortdrama",
+  "note": "編輯估算資料：依公開報導的播放量、充值、熱力值與行業獎項推估五維分數；非平台後台數據。",
+  "items": [
+    {
+      "id": "sd-80s-stepmom",
+      "title": { "zh": "我在八零年代當後媽", "en": "Stepmom in the '80s", "native": "我在八零年代当后妈" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "聽花島 · 抖音／紅果",
+      "genres": ["Period Drama", "Romance", "Counterattack", "Time Travel"],
+      "tags": [
+        { "zh": "穿越", "en": "Time travel" },
+        { "zh": "年代", "en": "Period" },
+        { "zh": "後媽", "en": "Stepmom" },
+        { "zh": "甜寵", "en": "Sweet romance" }
+      ],
+      "episodes": 82,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "現代女性穿越回 1980 年代，成為兩個孩子的後媽，用現代思維在物資匱乏的年代逆襲人生。",
+        "en": "A modern woman wakes up in the 1980s as the stepmother of two children and rebuilds her life with modern know-how."
+      },
+      "dims": { "reach": 96, "quality": 80, "buzz": 93, "momentum": 55, "crossover": 95 },
+      "heatCurve": [12, 48, 86, 100, 97, 92, 86, 80, 74, 66, 58, 52],
+      "drivers": [
+        {
+          "text": {
+            "zh": "全網播放 11.3 億、抖音話題 8.9 億；春節檔上線，單日充值約 2,000 萬人民幣。",
+            "en": "1.13B all-network plays and 890M Douyin topic views; launched over Lunar New Year with ~¥20M single-day top-ups."
+          },
+          "source": { "name": "36氪", "url": "https://36kr.com/p/3157968337607424" }
+        },
+        {
+          "text": {
+            "zh": "改編自番茄小說，是「網文 IP → 短劇」管線最被引用的樣本之一。",
+            "en": "Adapted from a Fanqie novel — one of the most cited examples of the web-novel-to-short-drama pipeline."
+          }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "36氪", "url": "https://36kr.com/p/3157968337607424", "note": "播放量、話題量與充值報導" },
+          { "name": "毒眸「觀眾選擇最佳短劇獎」相關報導", "url": "https://baijiahao.baidu.com/s?id=1821489210300049361" }
+        ],
+        "note": {
+          "zh": "分數由公開報導推估，非平台後台數據。",
+          "en": "Scores estimated from public reporting, not platform-internal data."
+        }
+      }
+    },
+    {
+      "id": "sd-peerless",
+      "title": { "zh": "無雙", "en": "Peerless", "native": "无双" },
+      "year": 2023,
+      "region": "CN",
+      "platform": "蜜糖網絡 × 西安豐行 · 小程序",
+      "genres": ["Power Fantasy", "Counterattack", "Mystery"],
+      "tags": [
+        { "zh": "戰神", "en": "War god" },
+        { "zh": "贅婿", "en": "Live-in son-in-law" },
+        { "zh": "逆襲", "en": "Counterattack" }
+      ],
+      "episodes": 90,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "被視為廢婿的男主角隱藏驚人身分，在家族與商戰的夾縫中一步步翻盤。",
+        "en": "A despised live-in son-in-law hides a formidable identity and turns the tables on his in-laws and business rivals."
+      },
+      "dims": { "reach": 90, "quality": 70, "buzz": 82, "momentum": 30, "crossover": 88 },
+      "heatCurve": [20, 62, 92, 100, 94, 84, 72, 60, 48, 36, 26, 18],
+      "drivers": [
+        {
+          "text": {
+            "zh": "上線 8 天投放／充值破 1.2 億元，被媒體稱為「付費短劇元年」代表作。",
+            "en": "Reportedly passed ¥120M in spend/top-ups within eight days — a landmark of the paid short-drama era."
+          },
+          "source": { "name": "界面新聞", "url": "https://www.jiemian.com/article/10485900.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "界面新聞", "url": "https://www.jiemian.com/article/10485900.html" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-hualong",
+      "title": { "zh": "化龍", "en": "Dragon Ascension", "native": "化龙" },
+      "year": 2023,
+      "region": "CN",
+      "platform": "小程序短劇",
+      "genres": ["Power Fantasy", "Counterattack"],
+      "tags": [
+        { "zh": "戰神", "en": "War god" },
+        { "zh": "贅婿", "en": "Live-in son-in-law" },
+        { "zh": "爽劇", "en": "Payoff drama" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "典型男頻爽劇：主角遭人輕視後覺醒隱藏身分，以壓倒性實力連環打臉。",
+        "en": "A textbook male-oriented payoff drama: a humiliated protagonist awakens a hidden identity and delivers escalating comeuppance."
+      },
+      "dims": { "reach": 82, "quality": 62, "buzz": 76, "momentum": 25, "crossover": 80 },
+      "heatCurve": [30, 78, 100, 92, 78, 62, 48, 36, 26, 18, 12, 8],
+      "drivers": [
+        {
+          "text": {
+            "zh": "上線 24 小時充值破 2,300 萬元人民幣。",
+            "en": "Reportedly crossed ¥23M in top-ups within 24 hours of launch."
+          },
+          "source": { "name": "Bianews", "url": "http://bianews.com/news/details?id=168753" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "Bianews", "url": "http://bianews.com/news/details?id=168753" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-british-museum",
+      "title": { "zh": "逃出大英博物館", "en": "Escape from the British Museum", "native": "逃出大英博物馆" },
+      "year": 2023,
+      "region": "CN",
+      "platform": "抖音／Bilibili · 自製",
+      "genres": ["Fantasy", "Historical", "Drama"],
+      "tags": [
+        { "zh": "文物擬人", "en": "Anthropomorphic artefacts" },
+        { "zh": "家國情懷", "en": "Patriotic theme" },
+        { "zh": "短篇", "en": "Short-form" }
+      ],
+      "episodes": 3,
+      "episodeMinutes": 6,
+      "synopsis": {
+        "zh": "流失海外的中國文物化身少年，與中國記者一起踏上回家的路。三集合計不到 20 分鐘。",
+        "en": "A Chinese artefact lost overseas takes human form and, with a Chinese journalist, sets out to find its way home. Three episodes, under 20 minutes total."
+      },
+      "dims": { "reach": 93, "quality": 92, "buzz": 90, "momentum": 45, "crossover": 96 },
+      "heatCurve": [8, 40, 78, 100, 96, 88, 76, 64, 52, 44, 36, 30],
+      "drivers": [
+        {
+          "text": {
+            "zh": "抖音 4.1 億播放、讚數 2,700 萬；Bilibili 每集破千萬播放，並獲四川省「五個一工程」獎。",
+            "en": "410M Douyin plays and 27M likes; over 10M views per episode on Bilibili; won a provincial 'Five One Project' award."
+          },
+          "source": { "name": "新浪財經", "url": "https://finance.sina.com.cn/jjxw/2023-10-13/doc-imzqxazx8065250.shtml" }
+        },
+        {
+          "text": {
+            "zh": "證明短劇可以用「文化議題＋極短篇幅」破圈，而非只能靠狗血反轉。",
+            "en": "Proved short drama can break out through a cultural theme in a very short runtime, not only through melodrama."
+          }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "新浪財經", "url": "https://finance.sina.com.cn/jjxw/2023-10-13/doc-imzqxazx8065250.shtml" },
+          { "name": "百度百科", "url": "https://baike.baidu.com/item/%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86/63387336" }
+        ],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-know-when-stop",
+      "title": { "zh": "見好就收", "en": "Know When to Stop", "native": "见好就收" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "騰訊視頻 · 大唐之星",
+      "genres": ["Power Fantasy", "Drama", "Counterattack"],
+      "tags": [
+        { "zh": "男頻", "en": "Male-oriented" },
+        { "zh": "玉石商戰", "en": "Jade trade" },
+        { "zh": "分帳劇", "en": "Revenue-share drama" }
+      ],
+      "episodes": 24,
+      "episodeMinutes": 10,
+      "synopsis": {
+        "zh": "玉石行業的商戰故事，主角在賭石與人情博弈中求生，屬騰訊分帳短劇的代表作。",
+        "en": "A jade-trade business drama about gambling on raw stones and surviving the human game — a flagship of Tencent's revenue-share short drama."
+      },
+      "dims": { "reach": 74, "quality": 72, "buzz": 68, "momentum": 30, "crossover": 65 },
+      "heatCurve": [25, 60, 88, 100, 86, 70, 55, 42, 32, 24, 18, 12],
+      "drivers": [
+        {
+          "text": {
+            "zh": "騰訊分帳劇，分帳金額超 1,800 萬元人民幣。",
+            "en": "A Tencent revenue-share title that reportedly earned over ¥18M in revenue share."
+          },
+          "source": { "name": "Bianews", "url": "http://www.bianews.com/news/details?id=179943" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "Bianews", "url": "http://www.bianews.com/news/details?id=179943" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-sword-for-her",
+      "title": { "zh": "授她以柄", "en": "The Sword She Was Given", "native": "授她以柄" },
+      "year": 2024,
+      "region": "CN",
+      "platform": "騰訊視頻 · 仟億影視 × 大魚文化",
+      "genres": ["Period Drama", "Romance", "Suspense"],
+      "tags": [
+        { "zh": "古裝", "en": "Costume" },
+        { "zh": "虐戀", "en": "Tragic romance" },
+        { "zh": "權謀", "en": "Power struggle" }
+      ],
+      "episodes": 30,
+      "episodeMinutes": 8,
+      "synopsis": {
+        "zh": "古裝權謀背景下的虐戀故事，上線 13 天分帳即突破 500 萬元人民幣。",
+        "en": "A costume power-struggle romance that crossed ¥5M in revenue share within 13 days of launch."
+      },
+      "dims": { "reach": 76, "quality": 74, "buzz": 74, "momentum": 32, "crossover": 70 },
+      "heatCurve": [22, 58, 90, 100, 90, 76, 62, 48, 38, 28, 20, 14],
+      "drivers": [
+        {
+          "text": {
+            "zh": "上線 13 天分帳超 500 萬元，站內熱度破 20,000。",
+            "en": "Over ¥5M revenue share in 13 days and platform heat above 20,000."
+          },
+          "source": { "name": "Bianews", "url": "http://www.bianews.com/news/details?id=179943" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "Bianews", "url": "http://www.bianews.com/news/details?id=179943" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-home-sweet-home",
+      "title": { "zh": "家里家外", "en": "Home, Sweet Home", "native": "家里家外" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "紅果／愛奇藝／抖音",
+      "genres": ["Family Drama", "Period Drama", "Comedy"],
+      "tags": [
+        { "zh": "四川方言", "en": "Sichuan dialect" },
+        { "zh": "年代", "en": "Period" },
+        { "zh": "生活感", "en": "Slice of life" }
+      ],
+      "episodes": 79,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "以四川方言拍攝的年代家庭劇，用生活細節而非狗血衝突撐起 79 集。",
+        "en": "A period family drama shot in Sichuan dialect that sustains 79 episodes on lived-in detail rather than melodrama."
+      },
+      "dims": { "reach": 97, "quality": 88, "buzz": 92, "momentum": 60, "crossover": 94 },
+      "heatCurve": [18, 56, 88, 100, 98, 94, 88, 80, 72, 64, 58, 52],
+      "drivers": [
+        {
+          "text": {
+            "zh": "上線 3 天紅果觀看破 10 億，48 小時全網話題破 5 億，獲央視報導。",
+            "en": "1B views on Hongguo within three days and 500M all-network topic reach in 48 hours; covered by CCTV."
+          },
+          "source": { "name": "央視新聞", "url": "https://news.cctv.cn/2025/04/04/ARTI7WV5IJAeBWKTBg4p1CaM250404.shtml" }
+        },
+        {
+          "text": {
+            "zh": "被視為短劇從「狗血」轉向「生活流」的標誌作品。",
+            "en": "Widely read as the moment short drama turned from melodrama toward everyday realism."
+          }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "央視新聞", "url": "https://news.cctv.cn/2025/04/04/ARTI7WV5IJAeBWKTBg4p1CaM250404.shtml" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-midsummer-fender",
+      "title": { "zh": "盛夏芬德拉", "en": "Midsummer Fender", "native": "盛夏芬德拉" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "紅果",
+      "genres": ["Urban Romance", "Sweet Pet", "Drama"],
+      "tags": [
+        { "zh": "契約婚姻", "en": "Contract marriage" },
+        { "zh": "年齡差", "en": "Age gap" },
+        { "zh": "番茄 IP", "en": "Fanqie IP" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "都市契約婚姻題材，改編自番茄小說《深情誘引》番外，2025 年紅果年度熱度榜首。",
+        "en": "An urban contract-marriage romance adapted from a Fanqie novel spin-off; topped Hongguo's 2025 heat chart."
+      },
+      "dims": { "reach": 95, "quality": 82, "buzz": 90, "momentum": 65, "crossover": 92 },
+      "heatCurve": [14, 52, 86, 100, 99, 96, 90, 84, 76, 68, 60, 54],
+      "drivers": [
+        {
+          "text": {
+            "zh": "紅果熱度值 5,173 萬、推薦量 396.8 萬，2025 年度榜首；全網播放 30 億+。",
+            "en": "51.73M Hongguo heat and 3.97M recommendations — 2025's #1 — with 3B+ all-network plays."
+          },
+          "source": { "name": "17173", "url": "https://news.17173.com/content/02132026/004627409.shtml" }
+        },
+        {
+          "text": {
+            "zh": "「番茄小說番外 → 短劇」的標準樣本，說明 IP 管線已能精準複製題材。",
+            "en": "A textbook 'Fanqie spin-off to short drama' case showing how repeatable the IP pipeline has become."
+          }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "17173", "url": "https://news.17173.com/content/02132026/004627409.shtml" },
+          { "name": "今日頭條榜單整理", "url": "https://m.toutiao.com/article/7591403231478120975/" }
+        ],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-great-grandma",
+      "title": { "zh": "十八歲太奶奶駕到，重整家族榮耀", "en": "The 18-Year-Old Matriarch", "native": "十八岁太奶奶驾到，重整家族荣耀" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "掌玩 × 聽花島",
+      "genres": ["Family Drama", "Counterattack", "Time Travel"],
+      "tags": [
+        { "zh": "穿越", "en": "Time travel" },
+        { "zh": "家族逆襲", "en": "Family comeback" },
+        { "zh": "番茄 IP", "en": "Fanqie IP" }
+      ],
+      "episodes": 85,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "18 歲少女穿越成家族太奶奶，以輩分與現代知識重整沒落家族。",
+        "en": "An 18-year-old travels back to become a family matriarch and rebuilds a declining clan with her seniority and modern knowledge."
+      },
+      "dims": { "reach": 92, "quality": 75, "buzz": 86, "momentum": 50, "crossover": 88 },
+      "heatCurve": [16, 54, 84, 96, 100, 94, 86, 76, 66, 56, 48, 40],
+      "drivers": [
+        {
+          "text": {
+            "zh": "DataEye 熱力值 6,347.2 萬，2025 年度第 3；系列作播放 30 億+。",
+            "en": "63.47M DataEye heat, #3 for 2025; the series passed 3B plays."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        },
+        {
+          "text": {
+            "zh": "原著第 7 個改編版本靠演員與製作出線，說明同 IP 競爭下「改編品質」才是差異點。",
+            "en": "The 7th adaptation of the same novel won out on casting and production — under IP saturation, adaptation quality becomes the differentiator."
+          },
+          "source": { "name": "鈦媒體", "url": "https://m.tmtpost.com/7811368.html" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [
+          { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" },
+          { "name": "鈦媒體", "url": "https://m.tmtpost.com/7811368.html" }
+        ],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-little-ball-god",
+      "title": { "zh": "小小球神不好惹", "en": "The Little Ball Prodigy", "native": "小小球神不好惹" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "麥芽",
+      "genres": ["Sports", "Coming of Age"],
+      "tags": [
+        { "zh": "體育競技", "en": "Sports" },
+        { "zh": "少兒", "en": "Kids" },
+        { "zh": "熱血", "en": "Inspirational" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "少兒體育競技題材，2025 年唯一 DataEye 熱力值突破 9,000 萬的作品。",
+        "en": "A kids' sports drama — the only 2025 title to pass 90M on DataEye's heat metric."
+      },
+      "dims": { "reach": 88, "quality": 78, "buzz": 76, "momentum": 48, "crossover": 82 },
+      "heatCurve": [10, 44, 78, 94, 100, 96, 88, 78, 66, 54, 44, 36],
+      "drivers": [
+        {
+          "text": {
+            "zh": "DataEye 熱力值 9,074.4 萬，2025 年度第一，且是唯一破 9,000 萬者。",
+            "en": "90.74M DataEye heat — 2025's #1 and the only title above 90M."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-peach-blossom",
+      "title": { "zh": "人面桃花長相憶", "en": "Peach Blossom Memories", "native": "人面桃花长相忆" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "河馬 × 西安匣子",
+      "genres": ["Period Drama", "Romance"],
+      "tags": [
+        { "zh": "古裝", "en": "Costume" },
+        { "zh": "言情", "en": "Romance" },
+        { "zh": "長線", "en": "Long-running" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "古裝言情短劇，2025 年 DataEye 年度熱力榜第 2 名。",
+        "en": "A costume romance that ranked #2 on DataEye's 2025 annual heat chart."
+      },
+      "dims": { "reach": 86, "quality": 76, "buzz": 70, "momentum": 45, "crossover": 74 },
+      "heatCurve": [12, 46, 76, 92, 100, 92, 82, 70, 58, 46, 36, 28],
+      "drivers": [
+        {
+          "text": {
+            "zh": "DataEye 熱力值 6,768.3 萬，2025 年度第 2。",
+            "en": "67.68M DataEye heat, #2 for 2025."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-pregnant-sweetheart",
+      "title": { "zh": "好孕甜妻被鑽石老公寵上天", "en": "The Pregnant Sweetheart", "native": "好孕甜妻被钻石老公宠上天" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "閱文 × 番茄",
+      "genres": ["Sweet Pet", "Urban Romance"],
+      "tags": [
+        { "zh": "甜寵", "en": "Sweet romance" },
+        { "zh": "豪門", "en": "Wealthy family" },
+        { "zh": "先婚後愛", "en": "Marriage first" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "豪門甜寵題材，2025 年 DataEye 年度熱力榜第 4 名，平台方包含番茄。",
+        "en": "A wealthy-family sweet romance, #4 on DataEye's 2025 annual chart, with Fanqie among the platform partners."
+      },
+      "dims": { "reach": 85, "quality": 70, "buzz": 72, "momentum": 45, "crossover": 76 },
+      "heatCurve": [10, 40, 70, 90, 100, 94, 84, 72, 60, 48, 38, 30],
+      "drivers": [
+        {
+          "text": {
+            "zh": "DataEye 熱力值 6,059.4 萬，2025 年度第 4。",
+            "en": "60.59M DataEye heat, #4 for 2025."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-top-scholar",
+      "title": { "zh": "覺醒當天，我當上全國狀元", "en": "Top Scholar Overnight", "native": "觉醒当天，我当上全国状元" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "河馬",
+      "genres": ["Counterattack", "Time Travel", "Power Fantasy"],
+      "tags": [
+        { "zh": "逆襲", "en": "Counterattack" },
+        { "zh": "科舉", "en": "Imperial exams" },
+        { "zh": "穿越", "en": "Time travel" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "穿越科舉題材的逆襲爽劇，2025 年抖音端原生累計播放 16.25 億。",
+        "en": "A time-travel imperial-exam comeback drama with 1.625B native Douyin plays in 2025."
+      },
+      "dims": { "reach": 87, "quality": 70, "buzz": 78, "momentum": 50, "crossover": 78 },
+      "heatCurve": [12, 44, 76, 92, 100, 96, 88, 78, 66, 54, 44, 36],
+      "drivers": [
+        {
+          "text": {
+            "zh": "抖音端原生累計播放 16.25 億，2025 年度抖音榜第 1。",
+            "en": "1.625B native Douyin plays — #1 on the 2025 Douyin chart."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    },
+    {
+      "id": "sd-swapped-lives",
+      "title": { "zh": "偷換人生之真假千金", "en": "Swapped Lives", "native": "偷换人生之真假千金" },
+      "year": 2025,
+      "region": "CN",
+      "platform": "劇好看",
+      "genres": ["Family Drama", "Suspense", "Counterattack"],
+      "tags": [
+        { "zh": "真假千金", "en": "True and false heiress" },
+        { "zh": "豪門", "en": "Wealthy family" },
+        { "zh": "懸疑", "en": "Suspense" }
+      ],
+      "episodes": 80,
+      "episodeMinutes": 2,
+      "synopsis": {
+        "zh": "真假千金身分錯置的豪門懸疑劇，2025 年抖音端原生累計播放 14.44 億。",
+        "en": "A wealthy-family suspense drama built on swapped identities, with 1.444B native Douyin plays in 2025."
+      },
+      "dims": { "reach": 85, "quality": 68, "buzz": 76, "momentum": 48, "crossover": 76 },
+      "heatCurve": [10, 40, 72, 90, 100, 92, 82, 70, 58, 46, 36, 28],
+      "drivers": [
+        {
+          "text": {
+            "zh": "抖音端原生累計播放 14.44 億，2025 年度抖音榜第 2。",
+            "en": "1.444B native Douyin plays — #2 on the 2025 Douyin chart."
+          },
+          "source": { "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }
+        }
+      ],
+      "provenance": {
+        "status": "estimated",
+        "sources": [{ "name": "澎湃新聞／DataEye", "url": "https://m.thepaper.cn/detail/32654393" }],
+        "note": { "zh": "分數由公開報導推估。", "en": "Scores estimated from public reporting." }
+      }
+    }
+  ]
+}

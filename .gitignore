@@ -1,0 +1,23 @@
+# 依賴與建置產物 / Dependencies and build output
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# macOS 資源分支（外接硬碟常見）/ macOS resource forks (common on external drives)
+._*
+.DS_Store
+
+# 日誌與環境變數 / Logs and env files
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.env
+.env.*
+!.env.example
+
+# 編輯器 / Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
