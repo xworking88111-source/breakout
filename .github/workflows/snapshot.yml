@@ -1,0 +1,47 @@
+name: Daily snapshot
+
+# 每日快照：冷凍當天的分數與熱度，供未來的回測使用（免費、公開 repo）。
+# Daily snapshot: freeze today's scores and heat for future backtesting (free on public repos).
+# 只提交精簡快照（約 150 KB/日），不提交完整資料集，避免 repo 膨胀。
+# Only slim snapshots are committed (~150 KB/day); the full dataset stays on the weekly refresh.
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # 每日 01:00 UTC = 台北時間 09:00 / daily 09:00 Asia/Taipei
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch live data
+        run: |
+          node scripts/fetch_anilist.mjs
+          node scripts/fetch_bangumi.mjs
+
+      - name: Rebuild dataset
+        run: node scripts/build_dataset.mjs
+
+      - name: Snapshot
+        run: node scripts/snapshot.mjs
+
+      - name: Commit snapshot
+        run: |
+          if git diff --quiet -- data/snapshots; then
+            echo "No snapshot changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/snapshots
+          git commit -m "chore(snapshot): $(date -u +%Y-%m-%d)"
+          git push

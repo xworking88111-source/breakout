@@ -421,6 +421,8 @@ async function main() {
     ['shortdrama.json', 'shortdrama'],
     ['shortdrama-extra.json', 'shortdrama'],
     ['shortdrama-2023.json', 'shortdrama'],
+    ['shortdrama-extra-2.json', 'shortdrama'],
+    ['shortdrama-extra-3.json', 'shortdrama'],
     ['novel.json', 'novel'],
     ['film.json', 'film'],
   ]) {

@@ -7,12 +7,14 @@ import { WorkDetail } from './views/WorkDetail'
 import { Compare } from './views/Compare'
 import { Boards } from './views/Boards'
 import { Methodology } from './views/Methodology'
+import { InsightsPage, type Insights } from './views/Insights'
 
 type Route =
   | { view: 'home' }
   | { view: 'charts'; filters: Filters }
   | { view: 'work'; id: string }
   | { view: 'compare'; ids: string[] }
+  | { view: 'insights' }
   | { view: 'boards' }
   | { view: 'board'; medium: Medium; region: string }
   | { view: 'method' }
@@ -35,6 +37,7 @@ function parseHash(): Route {
     }
     return { view: 'boards' }
   }
+  if (path.startsWith('/insights')) return { view: 'insights' }
   if (path.startsWith('/boards')) return { view: 'boards' }
   if (path.startsWith('/method')) return { view: 'method' }
   if (path.startsWith('/charts')) {
@@ -76,6 +79,7 @@ export default function App() {
   const [menuOpen, setMenuOpen] = useState(false)
   const [data, setData] = useState<Dataset | null>(null)
   const [loadError, setLoadError] = useState<string | null>(null)
+  const [insights, setInsights] = useState<Insights | null>(null)
 
   const t = useMemo(() => {
     const dict = lang === 'zh' ? zh : en
@@ -86,6 +90,12 @@ export default function App() {
   // The dataset is fetched as a separate JSON file so 1000+ works stay out of the JS bundle.
   useEffect(() => {
     let cancelled = false
+    fetch(`${import.meta.env.BASE_URL}data/insights.json`)
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => {
+        if (!cancelled) setInsights(d)
+      })
+      .catch(() => {})
     fetch(`${import.meta.env.BASE_URL}data/works.json`)
       .then((r) => {
         if (!r.ok) throw new Error(`HTTP ${r.status}`)
@@ -144,6 +154,7 @@ export default function App() {
     { label: 'nav.home', active: route.view === 'home', onClick: () => navigate('/') },
     { label: 'nav.charts', active: route.view === 'charts', onClick: () => onCharts() },
     { label: 'nav.boards', active: route.view === 'boards' || route.view === 'board', onClick: () => navigate('/boards') },
+    { label: 'nav.insights', active: route.view === 'insights', onClick: () => navigate('/insights') },
     { label: 'nav.compare', active: route.view === 'compare', onClick: () => navigate('/compare') },
     { label: 'nav.method', active: route.view === 'method', onClick: onMethod },
   ]
@@ -265,6 +276,7 @@ export default function App() {
             onOpen={onOpen}
           />
         )}
+        {route.view === 'insights' && <InsightsPage insights={insights} lang={lang} t={t} />}
         {route.view === 'method' && <Methodology data={data} lang={lang} t={t} />}
       </main>
 

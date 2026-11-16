@@ -15,9 +15,9 @@
 
 ![Breakout 首頁 / Home](docs/assets/home.png)
 
-| 國家 × 品類榜單 / Country boards | 作品詳情 / Title detail |
+| 國家 × 品類榜單 / Country boards | 爆款因子分析 / What makes a hit |
 |---|---|
-| ![boards](docs/assets/boards.png) | ![detail](docs/assets/detail.png) |
+| ![boards](docs/assets/boards.png) | ![insights](docs/assets/insights.png) |
 
 ---
 
@@ -75,10 +75,10 @@ node scripts/validate_dataset.mjs  # 驗證資料集
 
 ### 資料集與演算法
 
-- 資料集：`app/public/data/works.json`（1,088 筆；1.9 MB / gzip 283 KB）
+- 資料集：`app/public/data/works.json`（1,242 筆；2.1 MB / gzip 309 KB）
 - 演算法：`scripts/build_dataset.mjs`（v0.1，五維加權 + 樣本收縮 + 錨點估算 SOP）
 - 驗證器：`scripts/validate_dataset.mjs`（CI 會跑）
-- 效能診斷：`node scripts/benchmark.mjs`（計分 0.14 ms／1,088 部；權重擾動 ρ = 0.999）
+- 效能診斷：`node scripts/benchmark.mjs`（計分 0.16 ms／1,242 部；權重擾動 ρ = 0.998）
 - 完整公式、權重、資料字典、估算 SOP、限制：[docs/02-量化評分機制](docs/02-量化評分機制.md)
 
 ### GitHub Pages 部署（免費）
@@ -180,10 +180,10 @@ node scripts/validate_dataset.mjs
 
 ### Dataset and algorithm
 
-- Dataset: `app/public/data/works.json` (1,088 records; 1.9 MB / 283 KB gzipped)
+- Dataset: `app/public/data/works.json` (1,242 records; 2.1 MB / 309 KB gzipped)
 - Algorithm: `scripts/build_dataset.mjs` (v0.1, five weighted dimensions + sample shrinkage + anchor-based estimation SOP)
 - Validator: `scripts/validate_dataset.mjs` (run in CI)
-- Benchmark: `node scripts/benchmark.mjs` (0.14 ms to score 1,088 works; weight-perturbation ρ = 0.999)
+- Benchmark: `node scripts/benchmark.mjs` (0.16 ms to score 1,242 works; weight-perturbation ρ = 0.998)
 - Full formula, weights, data dictionary, estimation SOP and limitations: [docs/02](docs/02-量化評分機制.md)
 
 ### Deploy to GitHub Pages (free)

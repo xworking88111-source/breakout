@@ -12,6 +12,9 @@
 | 04 | [競品與 UX 資訊架構](04-競品與UX資訊架構.md) | IMDb／豆瓣／Bangumi／DataEye 拆解、簡潔化原則、IA、雙語規範、權威性 | Competitive teardown, simplicity rules, IA, bilingual conventions, authority |
 | 05 | [技術架構與路線圖](05-技術架構與路線圖.md) | 技術選型、資料模型、GitHub Pages 部署、成本、12 週路線圖 | Stack, data model, GitHub Pages deployment, cost, 12-week roadmap |
 | 06 | [待拍板決策](06-待拍板決策.md) | 需要創辦人／維護者決定的 10 件事與建議預設值 | Ten decisions with recommended defaults |
+| 09 | [爆款因子分析](09-爆款因子分析.md) | 自動生成：Top 10% 畫像、類型／平台提升度、收藏差異、方法與限制 | Auto-generated: top-10% profile, genre/platform lift, collection gap, limits |
+| 10 | [每日快照與回測](10-快照與回測.md) | 為什麼要每日快照、如何用上月分數預測本月熱度、回測指標 | Daily snapshots, out-of-time backtesting, metrics |
+| 11 | [紅果機制與爆款成因](11-紅果機制與爆款成因.md) | 紅果熱度值、收藏 vs 追劇、預約量、賽馬機制、真爆 vs 買爆五信號 | Hongguo heat mechanics, saves vs follows, reservations, horse race, organic vs bought |
 
 ## 閱讀順序 / Reading order
 
