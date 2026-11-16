@@ -1,0 +1,215 @@
+{
+ "note": "人工查證的平台／出品方補充。套用於 build_dataset.mjs；來源見 sources。",
+ "items": [
+  {
+   "title": "霍先生你找錯媳婦了",
+   "platform": "騰訊視頻／芒果TV · 掌玩（菩麥西嶺製作）",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/霍总找错媳妇撩对人/65012517"
+    }
+   ]
+  },
+  {
+   "title": "少年劍聖",
+   "platform": "優酷／咪咕悅看 · 麥芽",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://v.youku.com/v_show/id_XNjQ2NTkzNTA4OA==.html"
+    }
+   ]
+  },
+  {
+   "title": "澳門故事",
+   "platform": "快手星芒 · 快手×紫荊文化（原上慕光製作）",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://topics.gmw.cn/2024-12/20/content_37749438.htm"
+    }
+   ]
+  },
+  {
+   "title": "唐詭奇譚之長安縣尉",
+   "platform": "愛奇藝 · 愛奇藝×長信傳媒",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/唐诡奇谭之长安县尉/66792131"
+    }
+   ]
+  },
+  {
+   "title": "獅城山海",
+   "platform": "CCTV-8／騰訊視頻 · 央視×騰訊×長信傳媒",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://gdj.beijing.gov.cn/phone/zwxx_47193/gzbg1/202504/t20250429_4077586.html"
+    }
+   ]
+  },
+  {
+   "title": "我在月球當包工頭",
+   "platform": "紅果 · 紅果×央視網×容量短劇",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/我在月球当包工头/65743441"
+    }
+   ]
+  },
+  {
+   "title": "猶為離人照落花",
+   "platform": "七彩短劇 · 九州文化（七耀文化製作）",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/犹为离人照落花/65185159"
+    }
+   ]
+  },
+  {
+   "title": "雲深不聞鹿鳴",
+   "platform": "抖音 · 上海巨豹影業（小橘子製作）",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/云深不闻鹿鸣/65199165"
+    }
+   ]
+  },
+  {
+   "title": "江城詭事",
+   "platform": "騰訊視頻 · 長信傳媒",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/江城诡事/63418574"
+    }
+   ]
+  },
+  {
+   "title": "仙帝歸來當贅婿",
+   "platform": "騰訊視頻 · 文無傳媒×陝西芒果影視",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/仙帝归来当赘婿/62010695"
+    }
+   ]
+  },
+  {
+   "title": "我叫趙吳狄",
+   "platform": "騰訊視頻 · 北京善努文化",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/我叫赵吴狄/63951241"
+    }
+   ]
+  },
+  {
+   "title": "侯府夫人不好當",
+   "platform": "愛奇藝 · 洲際兄弟×超能影業",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/侯府夫人不好当/64785287"
+    }
+   ]
+  },
+  {
+   "title": "噬心",
+   "platform": "騰訊視頻 · 騰訊×盛世文和×不醉二廠",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/噬心/64006001"
+    }
+   ]
+  },
+  {
+   "title": "唐朝異聞錄",
+   "platform": "騰訊視頻 · 秀合傳媒×思路影業",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/唐朝异闻录/63382024"
+    }
+   ]
+  },
+  {
+   "title": "千年情劫",
+   "platform": "騰訊視頻 · 騰訊×海寧天翊",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/千年情劫/62968295"
+    }
+   ]
+  },
+  {
+   "title": "玉奴嬌",
+   "platform": "騰訊視頻 · 騰訊×陝西斌菲",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/玉奴娇/63943068"
+    }
+   ]
+  },
+  {
+   "title": "風月無邊",
+   "platform": "騰訊視頻 · 騰訊×七貓中文網（大魚娛樂製作）",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/风月无边/63445056"
+    }
+   ]
+  },
+  {
+   "title": "重回永樂大典",
+   "platform": "央視頻／紅果／抖音 · 央視視聽新媒體×國家圖書館×抖音",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://m.gmw.cn/2024-11/18/content_37682779.htm"
+    }
+   ]
+  },
+  {
+   "title": "醒獅",
+   "platform": "愛奇藝 · 太平盛世文化",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/醒狮/64668368"
+    }
+   ]
+  },
+  {
+   "title": "我在巴黎當俠客",
+   "platform": "央視頻／抖音／快手 · 央視網×容量短劇",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/我在巴黎当侠客/64621636"
+    }
+   ]
+  },
+  {
+   "title": "時間借貸",
+   "platform": "抖音 · 北京抖音影視",
+   "sources": [
+    {
+     "name": "平台／百科查證",
+     "url": "https://baike.baidu.com/item/时间借贷/64959245"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,7 @@ import type { Dataset, Lang, Medium, Work } from '../types'
 import type { TKey } from '../i18n'
 import { WorkCard, Poster } from '../components/WorkCard'
 import { BoardCard, getBoards } from './Boards'
+import { AdSlot } from '../components/AdSlot'
 import { Sparkline } from '../components/Charts'
 import {
   bandLabelKey,
@@ -349,6 +350,9 @@ export function Home({ data, works, lang, t, onOpen, onCharts, onBoards, onMetho
           })}
         </div>
       </section>
+
+      {/* 廣告版位（預留，未啟用時不渲染）/ reserved ad slot, hidden when disabled */}
+      <AdSlot placement="home" lang={lang} />
     </div>
   )
 }

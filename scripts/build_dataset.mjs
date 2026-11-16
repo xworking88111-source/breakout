@@ -34,7 +34,7 @@ const SRC = path.join(ROOT, 'app/src/data')
 const PUBLIC = path.join(ROOT, 'app/public/data')
 const SEED = path.join(ROOT, 'scripts/seed')
 
-const MODEL_VERSION = 'breakout-0.1'
+const MODEL_VERSION = 'breakout-0.2'
 const SNAPSHOT = new Date().toISOString().slice(0, 10)
 
 // 繁簡轉換 / Simplified → Traditional conversion
@@ -76,8 +76,8 @@ const DIMS = {
   },
   crossover: {
     zh: '破圈能力', en: 'Crossover',
-    descZh: '相對同地區／同題材基準線的超出幅度：能否吸引核心圈層以外的觀眾。',
-    descEn: 'How far it outperforms its regional/genre baseline — can it reach beyond its core audience?',
+    descZh: '討論與核心粉絲參與「超出觀看規模」的幅度（已對 reach 正交化）：能否吸引核心圈層以外的注意力。',
+    descEn: 'Discussion and core-fan engagement in excess of audience size, orthogonalised against reach: can it attract attention beyond its core audience?',
   },
 }
 
@@ -106,6 +106,65 @@ function genresFromTags(tags) {
     if (g) out.add(g)
   }
   return [...out].slice(0, 5)
+}
+
+// ---------------------------------------------------------------- 正交化 / orthogonalisation
+
+const meanOf = (a) => (a.length ? a.reduce((x, y) => x + y, 0) / a.length : 0)
+const sdOf = (a) => {
+  const m = meanOf(a)
+  return Math.sqrt(meanOf(a.map((v) => (v - m) ** 2))) || 1
+}
+const zs = (a) => {
+  const m = meanOf(a)
+  const sd = sdOf(a)
+  return a.map((v) => (v - m) / sd)
+}
+
+/** 對 x 做線性回歸、取殘差：讓 y 與 x 正交 / residualise y on x so the result is orthogonal to x */
+function residualise(y, x) {
+  const mx = meanOf(x)
+  const my = meanOf(y)
+  let cov = 0
+  let varx = 0
+  for (let i = 0; i < x.length; i++) {
+    cov += (x[i] - mx) * (y[i] - my)
+    varx += (x[i] - mx) ** 2
+  }
+  const slope = varx ? cov / varx : 0
+  const intercept = my - slope * mx
+  return y.map((v, i) => v - (intercept + slope * x[i]))
+}
+
+/**
+ * v0.2 破圈維度：以「討論／參與相對觀看規模的超出」為訊號，並對 reach 正交化。
+ * v0.2 crossover: discussion/engagement in excess of audience size, orthogonalised against reach.
+ * 這樣可避免舊版 crossover 與 reach 相關 0.82 的冗餘。
+ * This removes the v0.1 redundancy where crossover correlated ~0.82 with reach.
+ */
+function computeCrossoverAll(works) {
+  for (const medium of ['anime', 'novel', 'film', 'shortdrama']) {
+    const group = works.filter((w) => w.medium === medium)
+    if (group.length < 3) continue
+    const zReach = zs(group.map((w) => w.dims.reach))
+    const zBuzz = zs(group.map((w) => w.dims.buzz))
+    const raw = group.map((w, i) => {
+      const tagBreadth = Math.min(1, (w.tags?.length ?? 0) / 8)
+      let bonus = 0.25 * (tagBreadth - 0.5)
+      if (medium === 'shortdrama') {
+        const a = w.estimate ?? {}
+        if (a.genreBreakout) bonus += 0.5
+      }
+      return zBuzz[i] - zReach[i] + bonus
+    })
+    const orth = residualise(raw, zReach)
+    const zOrth = zs(orth)
+    // 用 logistic 映射到 0–100，避免 z 截斷造成大量 100 分。
+    // Logistic mapping avoids clipping a large share of titles at 100.
+    group.forEach((w, i) => {
+      w.dims.crossover = round1(100 / (1 + Math.exp(-zOrth[i])))
+    })
+  }
 }
 
 // ---------------------------------------------------------------- 共用計分 / scoring
@@ -423,6 +482,8 @@ async function main() {
     ['shortdrama-2023.json', 'shortdrama'],
     ['shortdrama-extra-2.json', 'shortdrama'],
     ['shortdrama-extra-3.json', 'shortdrama'],
+    ['shortdrama-extra-4.json', 'shortdrama'],
+    ['shortdrama-extra-5.json', 'shortdrama'],
     ['novel.json', 'novel'],
     ['film.json', 'film'],
   ]) {
@@ -434,7 +495,19 @@ async function main() {
     for (const s of doc.items) seeds.push(seedToWork({ medium, ...s }))
   }
 
-  const works = [...anime, ...novels, ...films, ...seeds].map(scoreWork)
+  // 套用人工查證的平台／出品方補充 / apply verified platform & producer metadata
+  const patch = await readJson(path.join(SEED, 'metadata-patch.json'), { items: [] })
+  const patchMap = new Map((patch.items ?? []).map((x) => [x.title, x]))
+  for (const w of [...novels, ...films, ...seeds]) {
+    const fix = patchMap.get(w.title?.zh)
+    if (!fix) continue
+    w.platform = fix.platform
+    w.provenance.sources = [...(w.provenance.sources ?? []), ...(fix.sources ?? [])]
+  }
+
+  const merged = [...anime, ...novels, ...films, ...seeds]
+  computeCrossoverAll(merged) // v0.2：正交化破圈維度 / orthogonalised crossover
+  const works = merged.map(scoreWork)
   // 去重：先比 id，再比正規化標題（同作品可能有不同來源）/ de-dup by id, then by normalised title
   const normTitle = (t) => String(t ?? '').toLowerCase().replace(/[\s·・:：,，.。!！?？、\-_／/()（）「」『』\[\]【】]/g, '')
   const uniq = new Map()
@@ -455,10 +528,10 @@ async function main() {
 
   const out = {
     dataset: 'breakout-v0.1',
-    version: '0.2.0',
+    version: '0.3.0',
     snapshotDate: SNAPSHOT,
     modelVersion: MODEL_VERSION,
-    citation: `Breakout Index (${MODEL_VERSION}). (${SNAPSHOT}). 破圈資料集 v0.2 [Data set].`,
+    citation: `Breakout Index (${MODEL_VERSION}). (${SNAPSHOT}). 破圈資料集 v0.3 [Data set].`,
     weights: WEIGHTS,
     dims: DIMS,
     counts: finalWorks.reduce((m, w) => ((m[w.medium] = (m[w.medium] ?? 0) + 1), m), {}),

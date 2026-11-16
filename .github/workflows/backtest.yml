@@ -1,0 +1,34 @@
+name: Weekly backtest
+
+# 每週回測：用兩份快照檢驗「上週的分數是否預測本週的熱度變化」。
+# Weekly backtest: do last week's scores predict this week's heat change?
+# 免費、無需金鑰；快照不足時優雅跳過（不會讓排程失敗）。
+# Free, keyless; skips gracefully when there are not yet two snapshots.
+
+on:
+  schedule:
+    - cron: '0 3 * * 1' # 每週一 03:00 UTC = 台北時間週一 11:00
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  backtest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run backtest
+        run: |
+          node scripts/backtest.mjs | tee backtest.txt
+          {
+            echo "## Backtest result"
+            echo '```'
+            cat backtest.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

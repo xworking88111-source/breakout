@@ -222,7 +222,8 @@ export const zh = {
   'method.limits.3': '指數描述「相對熱度」，不能單獨回答「為什麼成功」的因果問題；因果需要平台內部曝光與投放數據。',
   'method.limits.4': '收錄作品非全集，分母不完整會放大倖存者偏差。',
   'method.changelog': '版本紀錄',
-  'method.changelog.1': 'v0.1（2026-11）— 五維模型、AniList 實測動漫資料、短劇／小說／電影編輯估算資料。',
+  'method.changelog.1': 'v0.2（2026-11）— 破圈維度改為「討論超出觀看規模」並對 reach 正交化（相關係數 0.82 → −0.05）；資料擴充至 1,242 部（短劇 267）。',
+  'method.changelog.0': 'v0.1（2026-11）— 五維模型、AniList／Bangumi 實測資料、短劇／華語編輯估算資料。',
   'method.research': '研究者模式',
   'method.research.body':
     '排行榜頁可匯出 CSV；每筆資料都附上狀態、信心與來源。引用時請標註模型版本與資料快照日。',
@@ -467,7 +468,8 @@ export const en: Record<TKey, string> = {
   'method.limits.3': 'The index describes relative heat. It cannot answer causal “why it succeeded” questions alone; causality needs exposure and ad-spend data.',
   'method.limits.4': 'The catalogue is not exhaustive; an incomplete denominator inflates survivorship bias.',
   'method.changelog': 'Changelog',
-  'method.changelog.1': 'v0.1 (Nov 2026) — five-dimension model, measured AniList anime data, editorially estimated short-drama / novel / film data.',
+  'method.changelog.1': 'v0.2 (Nov 2026) — crossover redefined as discussion in excess of audience size and orthogonalised against reach (correlation 0.82 → −0.05); catalogue expanded to 1,242 titles (267 short dramas).',
+  'method.changelog.0': 'v0.1 (Nov 2026) — five-dimension model, measured AniList/Bangumi data, editorially estimated short-drama / Chinese data.',
   'method.research': 'Researcher mode',
   'method.research.body':
     'Export CSV from any chart. Every record carries status, confidence and sources. When citing, include the model version and snapshot date.',

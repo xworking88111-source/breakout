@@ -5,6 +5,7 @@ import { WorkCard } from '../components/WorkCard'
 import { buildCsv } from '../lib/recommend'
 import { mediumColor, mediumName, scoreColor, titleOf } from '../lib/format'
 import { genreLabel, regionLabel } from '../lib/labels'
+import { AdSlot } from '../components/AdSlot'
 
 export type SortKey = 'score' | 'reach' | 'quality' | 'buzz' | 'momentum' | 'year'
 export type Filters = {
@@ -221,6 +222,9 @@ export function Rankings({
           )}
         </main>
       </div>
+
+      {/* 廣告版位（預留）/ reserved ad slot */}
+      <AdSlot placement="charts" lang={lang} />
     </div>
   )
 }

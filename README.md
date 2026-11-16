@@ -21,6 +21,20 @@
 
 ---
 
+### 現況 / Status
+
+| 項目 | 數值 |
+|---|---|
+| 收錄作品 | **1,344 部**：動漫 799、短劇 **369**（中國 289＋海外 80）、小說 94、電影 82 |
+| 模型 | **v0.2**（破圈維度正交化，crossover×reach 相關 −0.06） |
+| 資料狀態 | 70.8%（952 部）measured、29.2%（392 部）estimated |
+| 榜單 | 15 個「國家 × 品類」Top 25 |
+| 資料集 | 2.3 MB／gzip 329 KB；計分 0.16 ms／1,344 部 |
+| 更新 | 每日快照、每週回測、每週資料重建（全免費） |
+| 廣告 | 版位已預留（首頁／榜單／詳情頁底部），**未啟用** |
+
+---
+
 ## 中文
 
 ### 這是什麼
@@ -75,10 +89,10 @@ node scripts/validate_dataset.mjs  # 驗證資料集
 
 ### 資料集與演算法
 
-- 資料集：`app/public/data/works.json`（1,242 筆；2.1 MB / gzip 309 KB）
-- 演算法：`scripts/build_dataset.mjs`（v0.1，五維加權 + 樣本收縮 + 錨點估算 SOP）
+- 資料集：`app/public/data/works.json`（1,344 筆；2.3 MB / gzip 329 KB）
+- 演算法：`scripts/build_dataset.mjs`（**v0.2**：五維加權 + 樣本收縮 + 錨點估算 SOP + 破圈正交化）
 - 驗證器：`scripts/validate_dataset.mjs`（CI 會跑）
-- 效能診斷：`node scripts/benchmark.mjs`（計分 0.16 ms／1,242 部；權重擾動 ρ = 0.998）
+- 效能診斷：`node scripts/benchmark.mjs`（計分 0.16 ms／1,344 部；權重擾動 ρ = 0.998）
 - 完整公式、權重、資料字典、估算 SOP、限制：[docs/02-量化評分機制](docs/02-量化評分機制.md)
 
 ### GitHub Pages 部署（免費）
@@ -180,10 +194,10 @@ node scripts/validate_dataset.mjs
 
 ### Dataset and algorithm
 
-- Dataset: `app/public/data/works.json` (1,242 records; 2.1 MB / 309 KB gzipped)
-- Algorithm: `scripts/build_dataset.mjs` (v0.1, five weighted dimensions + sample shrinkage + anchor-based estimation SOP)
+- Dataset: `app/public/data/works.json` (1,344 records; 2.3 MB / 329 KB gzipped)
+- Algorithm: `scripts/build_dataset.mjs` (**v0.2**: five weighted dimensions + sample shrinkage + anchor-based estimation SOP + orthogonalised crossover)
 - Validator: `scripts/validate_dataset.mjs` (run in CI)
-- Benchmark: `node scripts/benchmark.mjs` (0.16 ms to score 1,242 works; weight-perturbation ρ = 0.998)
+- Benchmark: `node scripts/benchmark.mjs` (0.16 ms to score 1,344 works; weight-perturbation ρ = 0.998)
 - Full formula, weights, data dictionary, estimation SOP and limitations: [docs/02](docs/02-量化評分機制.md)
 
 ### Deploy to GitHub Pages (free)

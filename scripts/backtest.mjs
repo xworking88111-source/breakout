@@ -25,6 +25,7 @@ import { fileURLToPath } from 'node:url'
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const DIR = path.join(ROOT, 'data/snapshots')
 const [argA, argB] = process.argv.slice(2)
+const STRICT = process.argv.includes('--strict')
 
 const index = JSON.parse(await fs.readFile(path.join(DIR, 'index.json'), 'utf8'))
 const dates = index.snapshots ?? []
@@ -34,7 +35,9 @@ if (dates.length < 2) {
   console.error('     1) node scripts/snapshot.mjs        # 今天')
   console.error('     2) 等 7–30 天後再跑一次              # 或從 git 歷史取舊快照')
   console.error('     3) node scripts/backtest.mjs')
-  process.exit(1)
+  // 預設不讓排程失敗；加 --strict 才會 exit 1（CI 檢查用）
+  // Do not fail scheduled runs by default; use --strict to exit non-zero (for CI checks).
+  process.exit(STRICT ? 1 : 0)
 }
 
 const d0 = argA ?? dates.at(-2)

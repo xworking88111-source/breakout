@@ -19,6 +19,7 @@ import {
 import { DIM_ORDER } from '../lib/format'
 import { genreLabel, regionLabel, tagLabel } from '../lib/labels'
 import { citationOf, similarWorks } from '../lib/recommend'
+import { AdSlot } from '../components/AdSlot'
 
 export function WorkDetail({
   work,
@@ -232,6 +233,9 @@ export function WorkDetail({
           ))}
         </ul>
       </section>
+
+      {/* 廣告版位（預留）/ reserved ad slot */}
+      <AdSlot placement="detail" lang={lang} />
 
       {similar.length > 0 && (
         <section className="section">

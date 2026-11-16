@@ -33,24 +33,27 @@ export function Methodology({ data, lang, t }: { data: Dataset; lang: Lang; t: (
           <h2>{t('method.formula.title')}</h2>
         </div>
         <pre className="formula">{`# 1) 原始指標 → 0–100 絕對刻度（圖示為動漫的實作）
-#    Raw metric → absolute 0–100 scale (shown for anime)
 reach     = 100·(log10(pop) − 3.3) / (5.9 − 3.3)
 quality   = 100·(WR − 58) / (90 − 58)
             WR = (n·S + 500·78) / (n + 500)      # 貝氏收縮 / Bayesian shrinkage，m = 500
 buzz      = 100·(log10(n) − 3.4) / (5.9 − 3.4)
 momentum  = 100·(log10(trending + 1) − 1.3) / (2.7 − 1.3)
-crossover = 100·(excess + 0.5) / (0.8 + 0.5)
-            excess = log10(pop) − median(log10(pop) | 同主要類型)
 
-# 2) 加權合成 / Weighted sum
+# 2) v0.2 破圈：討論／參與「超出觀看規模」的幅度，並對 reach 正交化
+#    v0.2 crossover: discussion/engagement in excess of audience size, orthogonalised against reach
+raw_cross = z(buzz) − z(reach) + tagBreadthBonus + genreBreakoutBonus
+resid     = raw_cross − (a + b·z(reach))          # 線性回歸殘差 / regression residual
+crossover = 100 / (1 + exp(−z(resid)))            # logistic → 0–100
+
+# 3) 加權合成 / weighted sum
 Hit_raw = Σ_d  w[medium][d] × dim_d
 
-# 3) 樣本收縮（僅動漫，n = AniList 評分人數）/ Shrinkage (anime only)
+# 4) 樣本收縮（僅有評分樣本的 measured 資料）/ sample shrinkage
 Hit = 50 + (Hit_raw − 50) × max(0.93, n / (n + 600))
 
-# 4) 不確定性 / Uncertainty
+# 5) 不確定性 / uncertainty
 CI90 = Hit ± δ ,  δ = clamp(2160 / √n , 0.8, 6)
-      編輯估算資料：δ = 5.5，並標記為 estimated`}</pre>
+      編輯估算資料 / estimated records：δ = 5.5`}</pre>
         <p className="prose">{t('method.formula.body')}</p>
         <p className="hint">{t('method.formula.note')}</p>
       </section>
