@@ -319,12 +319,17 @@ function estimateFromAnchors(seed) {
     ? Math.max(0, (new Date(SNAPSHOT) - new Date(a.launchDate)) / (1000 * 60 * 60 * 24 * 30.4))
     : Math.max(0, (2026 - year) * 12)
 
-  // reach: 播放量 > 熱力值 > 榜單名次 > 預設
-  let reach
-  if (a.plays) reach = 55 + 15 * Math.log10(a.plays / 1e7 + 1)
-  else if (a.heatValue) reach = 55 + 18 * Math.log10(a.heatValue / 1000 + 1)
-  else if (a.dataeyeRank) reach = 50 + 47 * (1 - (a.dataeyeRank - 1) / 99)
-  else reach = 58
+  // reach: 取「播放量換算」「熱力值換算」「榜單名次換算」三者最大值
+  // Reach: take the max of play-based, heat-based and rank-based conversions.
+  const reachCandidates = []
+  if (a.plays) reachCandidates.push(55 + 15 * Math.log10(a.plays / 1e7 + 1))
+  if (a.heatValue) {
+    // 熱力值（萬）以觀測區間 800–20,200 對數映射到 55–97
+    // Heat value (in 10k) mapped log-linearly from 800–20,200 to 55–97.
+    reachCandidates.push(55 + 42 * ((Math.log10(a.heatValue) - 2.903) / 1.402))
+  }
+  if (a.dataeyeRank) reachCandidates.push(50 + 47 * (1 - (a.dataeyeRank - 1) / 99))
+  const reach = reachCandidates.length ? Math.max(...reachCandidates) : 58
 
   // quality: 口碑分 + 獎項
   let quality = a.criticScore ? 50 + (a.criticScore - 6) * 13 : 70
