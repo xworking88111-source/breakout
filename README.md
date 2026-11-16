@@ -11,6 +11,14 @@
 > 這是一個 **可公開研究的資料集 + 雙語推薦網站**：每個分數都能拆解，每個來源都能追溯。
 > This is a **public research dataset + bilingual recommendation site**: every score decomposes, every source is traceable.
 
+**Live demo / 線上展示：https://xworking88111-source.github.io/breakout/**
+
+![Breakout 首頁 / Home](docs/assets/home.png)
+
+| 作品詳情 / Title detail | 比較 / Compare |
+|---|---|
+| ![detail](docs/assets/detail.png) | ![compare](docs/assets/compare.png) |
+
 ---
 
 ## 中文
