@@ -21,3 +21,6 @@ pnpm-debug.log*
 !.vscode/extensions.json
 .idea/
 *.swp
+
+# 與本專案無關的本機檔案 / unrelated local files
+dsh-ui-tuner/
